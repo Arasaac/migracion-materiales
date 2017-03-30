@@ -32,7 +32,7 @@ def myconverter(o):
 
 
 def openReadDatabase():
-    return mysql.connector.connect(user='root', password='mistral', database='saac')
+    return mysql.connector.connect(user='root', password='password', database='saac')
 
 
 def obtenerPalabras():
