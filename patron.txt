@@ -1,0 +1,27 @@
+[
+    {
+        "activities": [ "Ficha de actividades", "Juego Colectivo" ], 
+        "files": [ "Asociacion_Profesiones.zip"], 
+        "areas": ["Literatura", "Ciencias Naturales", "Ciencias Sociales" ], 
+        "authors": [
+            { "author": "César Canalis Casasús", "email": "ccanalis@gmail.com", "empresa": "Colegio Público de Educación Especial Alborada (Zaragoza)", "_id": 4, "web": "http://prueba.com"}, 
+            { "author": "José Manuel Marcos Rodrigo", "email": "jmmarcosrodrigo@gmail.com", "empresa": "Colegio Público de Educación Especial Alborada (Zaragoza)", "id": 5, "web": "http://centros6.pntic.mec.es" }
+        ], 
+        "desc": "Leones, zebras, jirafas y más animales africanos en acción.", 
+        "state":  1, 
+        "updated": null, 
+        "created": "2017-01-10 19:40:39", 
+        "id": 1, 
+        "language": spanish
+        "images": [], 
+        "license": "Creative Commons BY-NC-SA", 
+        "downloads": 0, 
+        "popular": false, 
+        "title": "Animales de Africa", 
+        "file": "1.zip",
+        "translations": [
+           {"language": "english", "title": "Animals from Africa", "desc": "", "authors": [], "files": [], "file": "1.zip", "images": [], "downloads": 0, "state:": 1, "created:" null,  "updated": null} 
+           {"language": "french", "title": "titulo en ingles", "desc": "descripción en francés", "authors": [], "files": [], "file": "1.zip", "images": [], "downloads": 0, "state:": 1, "created:" null,  "updated": null} 
+        ]
+    } 
+]
