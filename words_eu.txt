@@ -1542,12 +1542,12 @@
     {
         "def": "", 
         "id": 306, 
-        "word": "CÃ¡ceres"
+        "word": "Cáceres"
     }, 
     {
         "def": "", 
         "id": 307, 
-        "word": "CÃ¡diz"
+        "word": "Cádiz"
     }, 
     {
         "def": "", 
@@ -1687,7 +1687,7 @@
     {
         "def": "", 
         "id": 330, 
-        "word": "CastellÃ³"
+        "word": "Castelló"
     }, 
     {
         "def": "", 
@@ -2607,7 +2607,7 @@
     {
         "def": "", 
         "id": 501, 
-        "word": "JaÃ©n"
+        "word": "Jaén"
     }, 
     {
         "def": "", 
@@ -2642,7 +2642,7 @@
     {
         "def": "", 
         "id": 508, 
-        "word": "CoruÃ±a"
+        "word": "Coruña"
     }, 
     {
         "def": "", 
@@ -2767,7 +2767,7 @@
     {
         "def": "", 
         "id": 532, 
-        "word": "LogroÃ±o"
+        "word": "Logroño"
     }, 
     {
         "def": "", 
@@ -3227,7 +3227,7 @@
     {
         "def": "", 
         "id": 620, 
-        "word": "IruÃ±ea"
+        "word": "Iruñea"
     }, 
     {
         "def": "", 
@@ -3417,7 +3417,7 @@
     {
         "def": "", 
         "id": 654, 
-        "word": "piÃ±aburu"
+        "word": "piñaburu"
     }, 
     {
         "def": "", 
@@ -6427,7 +6427,7 @@
     {
         "def": "", 
         "id": 1229, 
-        "word": "pingÃ¼ino"
+        "word": "pingüino"
     }, 
     {
         "def": "", 
@@ -8052,7 +8052,7 @@
     {
         "def": "", 
         "id": 1540, 
-        "word": "andereÃ±o"
+        "word": "andereño"
     }, 
     {
         "def": "", 
@@ -8657,7 +8657,7 @@
     {
         "def": "", 
         "id": 1650, 
-        "word": "Mc DonaldÂ´s"
+        "word": "Mc Donald´s"
     }, 
     {
         "def": "", 
@@ -14802,7 +14802,7 @@
     {
         "def": "", 
         "id": 2750, 
-        "word": "andereÃ±o"
+        "word": "andereño"
     }, 
     {
         "def": "", 
@@ -19337,7 +19337,7 @@
     {
         "def": "", 
         "id": 3635, 
-        "word": "txanpiÃ±oi"
+        "word": "txanpiñoi"
     }, 
     {
         "def": "", 
@@ -31582,7 +31582,7 @@
     {
         "def": "", 
         "id": 5859, 
-        "word": "moÃ±o"
+        "word": "moño"
     }, 
     {
         "def": "", 
@@ -31682,7 +31682,7 @@
     {
         "def": "", 
         "id": 5874, 
-        "word": "Ã±andu"
+        "word": "ñandu"
     }, 
     {
         "def": "", 
@@ -32387,7 +32387,7 @@
     {
         "def": "", 
         "id": 6015, 
-        "word": "Ã±"
+        "word": "ñ"
     }, 
     {
         "def": "", 
@@ -33167,7 +33167,7 @@
     {
         "def": "", 
         "id": 6161, 
-        "word": "Ã±"
+        "word": "ñ"
     }, 
     {
         "def": "", 
@@ -34997,7 +34997,7 @@
     {
         "def": "", 
         "id": 6513, 
-        "word": "San Juan de la PeÃ±a"
+        "word": "San Juan de la Peña"
     }, 
     {
         "def": "", 
@@ -36367,7 +36367,7 @@
     {
         "def": "", 
         "id": 6793, 
-        "word": "seÃ±aleztapen kono"
+        "word": "señaleztapen kono"
     }, 
     {
         "def": "", 
@@ -36792,7 +36792,7 @@
     {
         "def": "", 
         "id": 6876, 
-        "word": "dÃ³lar ikur"
+        "word": "dólar ikur"
     }, 
     {
         "def": "", 
@@ -39232,7 +39232,7 @@
     {
         "def": "", 
         "id": 7332, 
-        "word": "ahÃ­"
+        "word": "ahí"
     }, 
     {
         "def": "", 
@@ -40822,7 +40822,7 @@
     {
         "def": "", 
         "id": 7635, 
-        "word": "dÃ³lar"
+        "word": "dólar"
     }, 
     {
         "def": "", 
@@ -47512,7 +47512,7 @@
     {
         "def": "", 
         "id": 8884, 
-        "word": "ezâ¦ere"
+        "word": "ez…ere"
     }, 
     {
         "def": "", 
@@ -55287,7 +55287,7 @@
     {
         "def": "", 
         "id": 9982, 
-        "word": "seÃ±alizazio"
+        "word": "señalizazio"
     }, 
     {
         "def": "", 
@@ -56412,7 +56412,7 @@
     {
         "def": "", 
         "id": 10183, 
-        "word": "CastaÃ±ada"
+        "word": "Castañada"
     }, 
     {
         "def": "", 
@@ -56927,7 +56927,7 @@
     {
         "def": "", 
         "id": 10281, 
-        "word": "seÃ±alektika"
+        "word": "señalektika"
     }, 
     {
         "def": "", 
@@ -68877,7 +68877,7 @@
     {
         "def": "", 
         "id": 11945, 
-        "word": "CremÃ "
+        "word": "Cremà"
     }, 
     {
         "def": "", 
@@ -69987,7 +69987,7 @@
     {
         "def": "", 
         "id": 12167, 
-        "word": "MÃ©rida"
+        "word": "Mérida"
     }, 
     {
         "def": "", 
@@ -70112,12 +70112,12 @@
     {
         "def": "", 
         "id": 12192, 
-        "word": "MÃ¡lagako Azoka eta Kongresu Jauregia"
+        "word": "Málagako Azoka eta Kongresu Jauregia"
     }, 
     {
         "def": "", 
         "id": 12193, 
-        "word": "MÃ¡lagako katedrala"
+        "word": "Málagako katedrala"
     }, 
     {
         "def": "", 
@@ -72392,7 +72392,7 @@
     {
         "def": "", 
         "id": 12650, 
-        "word": "AzerbaiyÃ¡n"
+        "word": "Azerbaiyán"
     }, 
     {
         "def": "", 
@@ -76672,12 +76672,12 @@
     {
         "def": "", 
         "id": 13461, 
-        "word": "txanpiÃ±oi burruntzia (brotxeta)"
+        "word": "txanpiñoi burruntzia (brotxeta)"
     }, 
     {
         "def": "", 
         "id": 13462, 
-        "word": "txanpiÃ±oi burruntziak (brotxetak)"
+        "word": "txanpiñoi burruntziak (brotxetak)"
     }, 
     {
         "def": "", 
@@ -76832,12 +76832,12 @@
     {
         "def": "", 
         "id": 13493, 
-        "word": "Ã§"
+        "word": "ç"
     }, 
     {
         "def": "", 
         "id": 13494, 
-        "word": "Ã§"
+        "word": "ç"
     }, 
     {
         "def": "", 
@@ -78712,12 +78712,12 @@
     {
         "def": "", 
         "id": 13868, 
-        "word": "Ã±u"
+        "word": "ñu"
     }, 
     {
         "def": "", 
         "id": 13869, 
-        "word": "Ã±uak"
+        "word": "ñuak"
     }, 
     {
         "def": "", 
@@ -78732,7 +78732,7 @@
     {
         "def": "", 
         "id": 13872, 
-        "word": "Ã±andu"
+        "word": "ñandu"
     }, 
     {
         "def": "", 
@@ -78767,7 +78767,7 @@
     {
         "def": "", 
         "id": 13878, 
-        "word": "san cristÃ³bal y nieves"
+        "word": "san cristóbal y nieves"
     }, 
     {
         "def": "", 
@@ -78832,12 +78832,12 @@
     {
         "def": "", 
         "id": 13887, 
-        "word": "piraÃ±a"
+        "word": "piraña"
     }, 
     {
         "def": "", 
         "id": 13888, 
-        "word": "piraÃ±ak"
+        "word": "pirañak"
     }, 
     {
         "def": "", 
@@ -79092,7 +79092,7 @@
     {
         "def": "", 
         "id": 13932, 
-        "word": "iruÃ±eako katedrala"
+        "word": "iruñeako katedrala"
     }, 
     {
         "def": "", 

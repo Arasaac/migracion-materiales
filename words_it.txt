@@ -497,7 +497,7 @@
     {
         "def": "", 
         "id": 102, 
-        "word": "caffÃ¨"
+        "word": "caffè"
     }, 
     {
         "def": "", 
@@ -917,7 +917,7 @@
     {
         "def": "", 
         "id": 186, 
-        "word": "pipÃ¬"
+        "word": "pipì"
     }, 
     {
         "def": "", 
@@ -1072,7 +1072,7 @@
     {
         "def": "", 
         "id": 205, 
-        "word": "perÃ²"
+        "word": "però"
     }, 
     {
         "def": "", 
@@ -1087,7 +1087,7 @@
     {
         "def": "", 
         "id": 207, 
-        "word": "perchÃ©"
+        "word": "perché"
     }, 
     {
         "def": "", 
@@ -1112,27 +1112,27 @@
     {
         "def": "", 
         "id": 211, 
-        "word": "LunedÃ¬"
+        "word": "Lunedì"
     }, 
     {
         "def": "", 
         "id": 212, 
-        "word": "MartedÃ¬"
+        "word": "Martedì"
     }, 
     {
         "def": "", 
         "id": 213, 
-        "word": "MercoledÃ¬"
+        "word": "Mercoledì"
     }, 
     {
         "def": "", 
         "id": 214, 
-        "word": "GiovedÃ¬"
+        "word": "Giovedì"
     }, 
     {
         "def": "", 
         "id": 215, 
-        "word": "VenerdÃ¬"
+        "word": "Venerdì"
     }, 
     {
         "def": "", 
@@ -1147,7 +1147,7 @@
     {
         "def": "", 
         "id": 218, 
-        "word": "Ã¨"
+        "word": "è"
     }, 
     {
         "def": "", 
@@ -1202,7 +1202,7 @@
     {
         "def": "", 
         "id": 229, 
-        "word": "Ãlava"
+        "word": "Álava"
     }, 
     {
         "def": "", 
@@ -1227,7 +1227,7 @@
     {
         "def": "", 
         "id": 234, 
-        "word": "AlmerÃ­a"
+        "word": "Almería"
     }, 
     {
         "def": "", 
@@ -1272,7 +1272,7 @@
     {
         "def": "", 
         "id": 244, 
-        "word": "pubblicitÃ "
+        "word": "pubblicità"
     }, 
     {
         "def": "", 
@@ -1377,7 +1377,7 @@
     {
         "def": "", 
         "id": 265, 
-        "word": "Ãvila"
+        "word": "Ávila"
     }, 
     {
         "def": "", 
@@ -1567,7 +1567,7 @@
     {
         "def": "", 
         "id": 304, 
-        "word": "estremitÃ "
+        "word": "estremità"
     }, 
     {
         "def": "", 
@@ -1577,12 +1577,12 @@
     {
         "def": "", 
         "id": 306, 
-        "word": "CÃ¡ceres"
+        "word": "Cáceres"
     }, 
     {
         "def": "", 
         "id": 307, 
-        "word": "CÃ¡diz"
+        "word": "Cádiz"
     }, 
     {
         "def": "", 
@@ -1702,7 +1702,7 @@
     {
         "def": "", 
         "id": 330, 
-        "word": "CastellÃ³n"
+        "word": "Castellón"
     }, 
     {
         "def": "", 
@@ -1712,7 +1712,7 @@
     {
         "def": "", 
         "id": 332, 
-        "word": "Castilla LeÃ³n"
+        "word": "Castilla León"
     }, 
     {
         "def": "", 
@@ -1797,7 +1797,7 @@
     {
         "def": "", 
         "id": 349, 
-        "word": "cittÃ "
+        "word": "città"
     }, 
     {
         "def": "", 
@@ -1827,7 +1827,7 @@
     {
         "def": "", 
         "id": 355, 
-        "word": "ComunitÃ  di Madrid"
+        "word": "Comunità di Madrid"
     }, 
     {
         "def": "", 
@@ -2072,7 +2072,7 @@
     {
         "def": "", 
         "id": 404, 
-        "word": "EtÃ  Antica"
+        "word": "Età Antica"
     }, 
     {
         "def": "", 
@@ -2082,7 +2082,7 @@
     {
         "def": "", 
         "id": 406, 
-        "word": "EtÃ  Moderna"
+        "word": "Età Moderna"
     }, 
     {
         "def": "", 
@@ -2312,7 +2312,7 @@
     {
         "def": "", 
         "id": 453, 
-        "word": "GijÃ³n"
+        "word": "Gijón"
     }, 
     {
         "def": "", 
@@ -2387,7 +2387,7 @@
     {
         "def": "", 
         "id": 468, 
-        "word": "GuipÃºzcoa"
+        "word": "Guipúzcoa"
     }, 
     {
         "def": "", 
@@ -2472,7 +2472,7 @@
     {
         "def": "", 
         "id": 487, 
-        "word": "umiditÃ "
+        "word": "umidità"
     }, 
     {
         "def": "", 
@@ -2542,7 +2542,7 @@
     {
         "def": "", 
         "id": 501, 
-        "word": "JaÃ©n"
+        "word": "Jaén"
     }, 
     {
         "def": "", 
@@ -2577,7 +2577,7 @@
     {
         "def": "", 
         "id": 508, 
-        "word": "La CoruÃ±a"
+        "word": "La Coruña"
     }, 
     {
         "def": "", 
@@ -2637,7 +2637,7 @@
     {
         "def": "", 
         "id": 520, 
-        "word": "LÃ©rida"
+        "word": "Lérida"
     }, 
     {
         "def": "", 
@@ -2652,7 +2652,7 @@
     {
         "def": "", 
         "id": 523, 
-        "word": "libertÃ "
+        "word": "libertà"
     }, 
     {
         "def": "", 
@@ -2697,7 +2697,7 @@
     {
         "def": "", 
         "id": 532, 
-        "word": "LogroÃ±o"
+        "word": "Logroño"
     }, 
     {
         "def": "", 
@@ -2777,7 +2777,7 @@
     {
         "def": "", 
         "id": 548, 
-        "word": "piÃ¹"
+        "word": "più"
     }, 
     {
         "def": "", 
@@ -2977,7 +2977,7 @@
     {
         "def": "", 
         "id": 592, 
-        "word": "Bambino GesÃ¹"
+        "word": "Bambino Gesù"
     }, 
     {
         "def": "", 
@@ -3087,7 +3087,7 @@
     {
         "def": "", 
         "id": 615, 
-        "word": "ComunitÃ  Valenzana"
+        "word": "Comunità Valenzana"
     }, 
     {
         "def": "", 
@@ -3122,7 +3122,7 @@
     {
         "def": "", 
         "id": 622, 
-        "word": "papÃ "
+        "word": "papà"
     }, 
     {
         "def": "", 
@@ -4192,7 +4192,7 @@
     {
         "def": "", 
         "id": 838, 
-        "word": "Ã cosÃ¬!"
+        "word": "È così!"
     }, 
     {
         "def": "", 
@@ -4412,7 +4412,7 @@
     {
         "def": "", 
         "id": 882, 
-        "word": "piÃ¹ o meno"
+        "word": "più o meno"
     }, 
     {
         "def": "", 
@@ -4512,7 +4512,7 @@
     {
         "def": "", 
         "id": 902, 
-        "word": "PanamÃ¡"
+        "word": "Panamá"
     }, 
     {
         "def": "", 
@@ -4522,7 +4522,7 @@
     {
         "def": "", 
         "id": 904, 
-        "word": "PerÃ¹"
+        "word": "Perù"
     }, 
     {
         "def": "", 
@@ -5272,7 +5272,7 @@
     {
         "def": "", 
         "id": 1056, 
-        "word": "metÃ "
+        "word": "metà"
     }, 
     {
         "def": "", 
@@ -5767,7 +5767,7 @@
     {
         "def": "", 
         "id": 1152, 
-        "word": "color caffÃ¨"
+        "word": "color caffè"
     }, 
     {
         "def": "", 
@@ -6152,7 +6152,7 @@
     {
         "def": "", 
         "id": 1229, 
-        "word": "pingÃ¼ino"
+        "word": "pingüino"
     }, 
     {
         "def": "", 
@@ -6627,7 +6627,7 @@
     {
         "def": "", 
         "id": 1324, 
-        "word": "perchÃ©"
+        "word": "perché"
     }, 
     {
         "def": "", 
@@ -7417,7 +7417,7 @@
     {
         "def": "", 
         "id": 1482, 
-        "word": "sagrÃ¬"
+        "word": "sagrì"
     }, 
     {
         "def": "", 
@@ -7512,7 +7512,7 @@
     {
         "def": "", 
         "id": 1501, 
-        "word": "attivitÃ  speciale"
+        "word": "attività speciale"
     }, 
     {
         "def": "", 
@@ -8017,7 +8017,7 @@
     {
         "def": "", 
         "id": 1601, 
-        "word": "purÃ¨ di patata"
+        "word": "purè di patata"
     }, 
     {
         "def": "", 
@@ -8082,7 +8082,7 @@
     {
         "def": "", 
         "id": 1614, 
-        "word": "caffÃ¨ istantaneo"
+        "word": "caffè istantaneo"
     }, 
     {
         "def": "", 
@@ -8142,7 +8142,7 @@
     {
         "def": "", 
         "id": 1626, 
-        "word": "sangrÃ­a"
+        "word": "sangría"
     }, 
     {
         "def": "", 
@@ -8262,7 +8262,7 @@
     {
         "def": "", 
         "id": 1650, 
-        "word": "Mc DonaldÂ´s"
+        "word": "Mc Donald´s"
     }, 
     {
         "def": "", 
@@ -8272,7 +8272,7 @@
     {
         "def": "", 
         "id": 1652, 
-        "word": "menÃ¹"
+        "word": "menù"
     }, 
     {
         "def": "", 
@@ -9147,7 +9147,7 @@
     {
         "def": "", 
         "id": 1827, 
-        "word": "comÃ²"
+        "word": "comò"
     }, 
     {
         "def": "", 
@@ -10202,12 +10202,12 @@
     {
         "def": "", 
         "id": 2037, 
-        "word": "Ã¨ giunta l'ora"
+        "word": "è giunta l'ora"
     }, 
     {
         "def": "", 
         "id": 2038, 
-        "word": "lÃ¬"
+        "word": "lì"
     }, 
     {
         "def": "", 
@@ -10282,7 +10282,7 @@
     {
         "def": "", 
         "id": 2053, 
-        "word": "festa del papÃ "
+        "word": "festa del papà"
     }, 
     {
         "def": "", 
@@ -10317,7 +10317,7 @@
     {
         "def": "", 
         "id": 2060, 
-        "word": "VenerdÃ¬ Santo"
+        "word": "Venerdì Santo"
     }, 
     {
         "def": "", 
@@ -10492,7 +10492,7 @@
     {
         "def": "", 
         "id": 2095, 
-        "word": "schiavitÃ¹"
+        "word": "schiavitù"
     }, 
     {
         "def": "", 
@@ -11047,7 +11047,7 @@
     {
         "def": "", 
         "id": 2206, 
-        "word": "abilitÃ  motorie"
+        "word": "abilità motorie"
     }, 
     {
         "def": "", 
@@ -11442,7 +11442,7 @@
     {
         "def": "", 
         "id": 2286, 
-        "word": "omosessualitÃ "
+        "word": "omosessualità"
     }, 
     {
         "def": "", 
@@ -11637,7 +11637,7 @@
     {
         "def": "", 
         "id": 2325, 
-        "word": "inizierÃ² di nuovo"
+        "word": "inizierò di nuovo"
     }, 
     {
         "def": "", 
@@ -11662,12 +11662,12 @@
     {
         "def": "", 
         "id": 2330, 
-        "word": "quando Ã¨"
+        "word": "quando è"
     }, 
     {
         "def": "", 
         "id": 2331, 
-        "word": "quanto Ã¨"
+        "word": "quanto è"
     }, 
     {
         "def": "", 
@@ -11732,7 +11732,7 @@
     {
         "def": "", 
         "id": 2344, 
-        "word": "non c'Ã¨ il simbolo"
+        "word": "non c'è il simbolo"
     }, 
     {
         "def": "", 
@@ -11782,12 +11782,12 @@
     {
         "def": "", 
         "id": 2354, 
-        "word": "io lo sillaberÃ²"
+        "word": "io lo sillaberò"
     }, 
     {
         "def": "", 
         "id": 2355, 
-        "word": "com'Ã¨ il clima?"
+        "word": "com'è il clima?"
     }, 
     {
         "def": "", 
@@ -11877,7 +11877,7 @@
     {
         "def": "", 
         "id": 2373, 
-        "word": "Ã¨ quasi ora"
+        "word": "è quasi ora"
     }, 
     {
         "def": "", 
@@ -11892,7 +11892,7 @@
     {
         "def": "", 
         "id": 2376, 
-        "word": "baciamiâ¦"
+        "word": "baciami…"
     }, 
     {
         "def": "", 
@@ -11922,17 +11922,17 @@
     {
         "def": "", 
         "id": 2382, 
-        "word": "etÃ "
+        "word": "età"
     }, 
     {
         "def": "", 
         "id": 2383, 
-        "word": "Ã¨ una cretinata"
+        "word": "è una cretinata"
     }, 
     {
         "def": "", 
         "id": 2384, 
-        "word": "Ã¨ una stupidaggine"
+        "word": "è una stupidaggine"
     }, 
     {
         "def": "", 
@@ -12042,7 +12042,7 @@
     {
         "def": "", 
         "id": 2406, 
-        "word": "cos'Ã¨ questo?"
+        "word": "cos'è questo?"
     }, 
     {
         "def": "", 
@@ -12062,7 +12062,7 @@
     {
         "def": "", 
         "id": 2410, 
-        "word": "SÃ¬!"
+        "word": "Sì!"
     }, 
     {
         "def": "", 
@@ -12077,7 +12077,7 @@
     {
         "def": "", 
         "id": 2413, 
-        "word": "ti raggiungerÃ²"
+        "word": "ti raggiungerò"
     }, 
     {
         "def": "", 
@@ -12092,7 +12092,7 @@
     {
         "def": "", 
         "id": 2416, 
-        "word": "domanda di sÃ¬ o no"
+        "word": "domanda di sì o no"
     }, 
     {
         "def": "", 
@@ -12777,7 +12777,7 @@
     {
         "def": "", 
         "id": 2556, 
-        "word": "di che colore Ã¨ il pezzo?"
+        "word": "di che colore è il pezzo?"
     }, 
     {
         "def": "", 
@@ -12787,7 +12787,7 @@
     {
         "def": "", 
         "id": 2558, 
-        "word": "chi Ã¨ il primo?"
+        "word": "chi è il primo?"
     }, 
     {
         "def": "", 
@@ -12802,7 +12802,7 @@
     {
         "def": "", 
         "id": 2561, 
-        "word": "Ã¨ il tuo turno"
+        "word": "è il tuo turno"
     }, 
     {
         "def": "", 
@@ -13377,7 +13377,7 @@
     {
         "def": "", 
         "id": 2674, 
-        "word": "channukkÃ "
+        "word": "channukkà"
     }, 
     {
         "def": "", 
@@ -13432,7 +13432,7 @@
     {
         "def": "", 
         "id": 2685, 
-        "word": "fraternitÃ "
+        "word": "fraternità"
     }, 
     {
         "def": "", 
@@ -13442,7 +13442,7 @@
     {
         "def": "", 
         "id": 2687, 
-        "word": "mercoledÃ¬ delle ceneri"
+        "word": "mercoledì delle ceneri"
     }, 
     {
         "def": "", 
@@ -13722,7 +13722,7 @@
     {
         "def": "", 
         "id": 2743, 
-        "word": "papÃ  orso"
+        "word": "papà orso"
     }, 
     {
         "def": "", 
@@ -13812,7 +13812,7 @@
     {
         "def": "", 
         "id": 2766, 
-        "word": "GesÃ¹"
+        "word": "Gesù"
     }, 
     {
         "def": "", 
@@ -14902,7 +14902,7 @@
     {
         "def": "", 
         "id": 3005, 
-        "word": "caffÃ¨"
+        "word": "caffè"
     }, 
     {
         "def": "", 
@@ -15087,7 +15087,7 @@
     {
         "def": "", 
         "id": 3045, 
-        "word": "purÃ¨"
+        "word": "purè"
     }, 
     {
         "def": "", 
@@ -15587,7 +15587,7 @@
     {
         "def": "", 
         "id": 3147, 
-        "word": "psicomotricitÃ "
+        "word": "psicomotricità"
     }, 
     {
         "def": "", 
@@ -15982,7 +15982,7 @@
     {
         "def": "", 
         "id": 3229, 
-        "word": "cittÃ "
+        "word": "città"
     }, 
     {
         "def": "", 
@@ -16902,7 +16902,7 @@
     {
         "def": "", 
         "id": 3422, 
-        "word": "bambÃ¹"
+        "word": "bambù"
     }, 
     {
         "def": "", 
@@ -17837,7 +17837,7 @@
     {
         "def": "", 
         "id": 3616, 
-        "word": "menÃ¹"
+        "word": "menù"
     }, 
     {
         "def": "", 
@@ -17872,7 +17872,7 @@
     {
         "def": "", 
         "id": 3623, 
-        "word": "comunitÃ  autonoma"
+        "word": "comunità autonoma"
     }, 
     {
         "def": "", 
@@ -18172,7 +18172,7 @@
     {
         "def": "", 
         "id": 3685, 
-        "word": "colibrÃ¬"
+        "word": "colibrì"
     }, 
     {
         "def": "", 
@@ -19452,7 +19452,7 @@
     {
         "def": "", 
         "id": 3950, 
-        "word": "falÃ²"
+        "word": "falò"
     }, 
     {
         "def": "", 
@@ -19572,7 +19572,7 @@
     {
         "def": "", 
         "id": 3975, 
-        "word": "iglÃ¹"
+        "word": "iglù"
     }, 
     {
         "def": "", 
@@ -19837,7 +19837,7 @@
     {
         "def": "", 
         "id": 4030, 
-        "word": "sagrÃ¬"
+        "word": "sagrì"
     }, 
     {
         "def": "", 
@@ -20262,7 +20262,7 @@
     {
         "def": "", 
         "id": 4116, 
-        "word": "macinino del caffÃ¨"
+        "word": "macinino del caffè"
     }, 
     {
         "def": "", 
@@ -20717,7 +20717,7 @@
     {
         "def": "", 
         "id": 4209, 
-        "word": "pancarrÃ¨"
+        "word": "pancarrè"
     }, 
     {
         "def": "", 
@@ -22082,7 +22082,7 @@
     {
         "def": "", 
         "id": 4487, 
-        "word": "tazza di caffÃ¨"
+        "word": "tazza di caffè"
     }, 
     {
         "def": "", 
@@ -22572,7 +22572,7 @@
     {
         "def": "", 
         "id": 4587, 
-        "word": "Castiglia e LÃ©on"
+        "word": "Castiglia e Léon"
     }, 
     {
         "def": "", 
@@ -22867,7 +22867,7 @@
     {
         "def": "", 
         "id": 4648, 
-        "word": "bicchiere per bebÃ¨"
+        "word": "bicchiere per bebè"
     }, 
     {
         "def": "", 
@@ -23457,7 +23457,7 @@
     {
         "def": "", 
         "id": 4772, 
-        "word": "etÃ "
+        "word": "età"
     }, 
     {
         "def": "", 
@@ -23507,7 +23507,7 @@
     {
         "def": "", 
         "id": 4782, 
-        "word": "schiavitÃ¹"
+        "word": "schiavitù"
     }, 
     {
         "def": "", 
@@ -23527,7 +23527,7 @@
     {
         "def": "", 
         "id": 4787, 
-        "word": "ciÃ²"
+        "word": "ciò"
     }, 
     {
         "def": "", 
@@ -23892,7 +23892,7 @@
     {
         "def": "", 
         "id": 4857, 
-        "word": "omosessualitÃ "
+        "word": "omosessualità"
     }, 
     {
         "def": "", 
@@ -24187,7 +24187,7 @@
     {
         "def": "", 
         "id": 4916, 
-        "word": "piÃ¹ o meno"
+        "word": "più o meno"
     }, 
     {
         "def": "", 
@@ -24257,12 +24257,12 @@
     {
         "def": "", 
         "id": 4930, 
-        "word": "menÃ¹"
+        "word": "menù"
     }, 
     {
         "def": "", 
         "id": 4931, 
-        "word": "menÃ¹"
+        "word": "menù"
     }, 
     {
         "def": "", 
@@ -24907,7 +24907,7 @@
     {
         "def": "", 
         "id": 5062, 
-        "word": "perÃ²"
+        "word": "però"
     }, 
     {
         "def": "", 
@@ -25337,7 +25337,7 @@
     {
         "def": "", 
         "id": 5146, 
-        "word": "pubblicitÃ "
+        "word": "pubblicità"
     }, 
     {
         "def": "", 
@@ -25737,7 +25737,7 @@
     {
         "def": "", 
         "id": 5226, 
-        "word": "San SebastiÃ¡n"
+        "word": "San Sebastián"
     }, 
     {
         "def": "", 
@@ -26422,7 +26422,7 @@
     {
         "def": "", 
         "id": 5362, 
-        "word": "etÃ "
+        "word": "età"
     }, 
     {
         "def": "", 
@@ -26977,7 +26977,7 @@
     {
         "def": "", 
         "id": 5472, 
-        "word": "documento d'identitÃ "
+        "word": "documento d'identità"
     }, 
     {
         "def": "", 
@@ -27047,7 +27047,7 @@
     {
         "def": "", 
         "id": 5487, 
-        "word": "attivitÃ  extrascolastiche"
+        "word": "attività extrascolastiche"
     }, 
     {
         "def": "", 
@@ -27112,7 +27112,7 @@
     {
         "def": "", 
         "id": 5500, 
-        "word": "societÃ , cultura e religione"
+        "word": "società, cultura e religione"
     }, 
     {
         "def": "", 
@@ -27272,7 +27272,7 @@
     {
         "def": "", 
         "id": 5532, 
-        "word": "attivitÃ  extrascolastica"
+        "word": "attività extrascolastica"
     }, 
     {
         "def": "", 
@@ -27862,7 +27862,7 @@
     {
         "def": "", 
         "id": 5651, 
-        "word": "elettricitÃ "
+        "word": "elettricità"
     }, 
     {
         "def": "", 
@@ -28702,7 +28702,7 @@
     {
         "def": "", 
         "id": 5822, 
-        "word": "sÃ¬"
+        "word": "sì"
     }, 
     {
         "def": "", 
@@ -28872,7 +28872,7 @@
     {
         "def": "", 
         "id": 5856, 
-        "word": "indennitÃ  di trasferta"
+        "word": "indennità di trasferta"
     }, 
     {
         "def": "", 
@@ -28962,7 +28962,7 @@
     {
         "def": "", 
         "id": 5874, 
-        "word": "nandÃ¹"
+        "word": "nandù"
     }, 
     {
         "def": "", 
@@ -29632,7 +29632,7 @@
     {
         "def": "", 
         "id": 6015, 
-        "word": "Ã"
+        "word": "Ñ"
     }, 
     {
         "def": "", 
@@ -30362,7 +30362,7 @@
     {
         "def": "", 
         "id": 6161, 
-        "word": "Ã±"
+        "word": "ñ"
     }, 
     {
         "def": "", 
@@ -30432,7 +30432,7 @@
     {
         "def": "", 
         "id": 6175, 
-        "word": "fare pipÃ¬"
+        "word": "fare pipì"
     }, 
     {
         "def": "", 
@@ -31442,12 +31442,12 @@
     {
         "def": "", 
         "id": 6388, 
-        "word": "lÃ¬"
+        "word": "lì"
     }, 
     {
         "def": "", 
         "id": 6389, 
-        "word": "lÃ¬"
+        "word": "lì"
     }, 
     {
         "def": "", 
@@ -31882,7 +31882,7 @@
     {
         "def": "", 
         "id": 6484, 
-        "word": "siccitÃ "
+        "word": "siccità"
     }, 
     {
         "def": "", 
@@ -31937,7 +31937,7 @@
     {
         "def": "", 
         "id": 6496, 
-        "word": "Testone BerrugÃ³n"
+        "word": "Testone Berrugón"
     }, 
     {
         "def": "", 
@@ -31982,7 +31982,7 @@
     {
         "def": "", 
         "id": 6505, 
-        "word": "Castello de la AljaferÃ­a"
+        "word": "Castello de la Aljafería"
     }, 
     {
         "def": "", 
@@ -32022,7 +32022,7 @@
     {
         "def": "", 
         "id": 6513, 
-        "word": "San Juan de la PeÃ±a"
+        "word": "San Juan de la Peña"
     }, 
     {
         "def": "", 
@@ -32412,12 +32412,12 @@
     {
         "def": "", 
         "id": 6593, 
-        "word": "psicomotricitÃ "
+        "word": "psicomotricità"
     }, 
     {
         "def": "", 
         "id": 6594, 
-        "word": "psicomotricitÃ "
+        "word": "psicomotricità"
     }, 
     {
         "def": "", 
@@ -32672,7 +32672,7 @@
     {
         "def": "", 
         "id": 6652, 
-        "word": "Documento Nazionale di IdentitÃ "
+        "word": "Documento Nazionale di Identità"
     }, 
     {
         "def": "", 
@@ -32932,12 +32932,12 @@
     {
         "def": "", 
         "id": 6708, 
-        "word": "indÃ¹"
+        "word": "indù"
     }, 
     {
         "def": "", 
         "id": 6709, 
-        "word": "indÃ¹"
+        "word": "indù"
     }, 
     {
         "def": "", 
@@ -33817,7 +33817,7 @@
     {
         "def": "", 
         "id": 6895, 
-        "word": "piÃ¹"
+        "word": "più"
     }, 
     {
         "def": "", 
@@ -34632,12 +34632,12 @@
     {
         "def": "", 
         "id": 7057, 
-        "word": "wÃ¼rstel"
+        "word": "würstel"
     }, 
     {
         "def": "", 
         "id": 7058, 
-        "word": "wÃ¼rstel"
+        "word": "würstel"
     }, 
     {
         "def": "", 
@@ -35052,7 +35052,7 @@
     {
         "def": "", 
         "id": 7141, 
-        "word": "attivitÃ "
+        "word": "attività"
     }, 
     {
         "def": "", 
@@ -35342,7 +35342,7 @@
     {
         "def": "", 
         "id": 7199, 
-        "word": "velocitÃ "
+        "word": "velocità"
     }, 
     {
         "def": "", 
@@ -35462,7 +35462,7 @@
     {
         "def": "", 
         "id": 7223, 
-        "word": "scimpanzÃ©"
+        "word": "scimpanzé"
     }, 
     {
         "def": "", 
@@ -35652,7 +35652,7 @@
     {
         "def": "", 
         "id": 7257, 
-        "word": "di che colore Ã¨?"
+        "word": "di che colore è?"
     }, 
     {
         "def": "", 
@@ -35672,7 +35672,7 @@
     {
         "def": "", 
         "id": 7261, 
-        "word": "dov'Ã¨?"
+        "word": "dov'è?"
     }, 
     {
         "def": "", 
@@ -35872,7 +35872,7 @@
     {
         "def": "", 
         "id": 7301, 
-        "word": "manualitÃ "
+        "word": "manualità"
     }, 
     {
         "def": "", 
@@ -35922,7 +35922,7 @@
     {
         "def": "", 
         "id": 7311, 
-        "word": "chi Ã¨?"
+        "word": "chi è?"
     }, 
     {
         "def": "", 
@@ -36237,7 +36237,7 @@
     {
         "def": "", 
         "id": 7371, 
-        "word": "patÃ©"
+        "word": "paté"
     }, 
     {
         "def": "", 
@@ -36382,7 +36382,7 @@
     {
         "def": "", 
         "id": 7401, 
-        "word": "felicitÃ "
+        "word": "felicità"
     }, 
     {
         "def": "", 
@@ -36397,12 +36397,12 @@
     {
         "def": "", 
         "id": 7404, 
-        "word": "oscuritÃ "
+        "word": "oscurità"
     }, 
     {
         "def": "", 
         "id": 7405, 
-        "word": "societÃ "
+        "word": "società"
     }, 
     {
         "def": "", 
@@ -36417,7 +36417,7 @@
     {
         "def": "", 
         "id": 7408, 
-        "word": "veritÃ "
+        "word": "verità"
     }, 
     {
         "def": "", 
@@ -37377,12 +37377,12 @@
     {
         "def": "", 
         "id": 7598, 
-        "word": "localitÃ "
+        "word": "località"
     }, 
     {
         "def": "", 
         "id": 7599, 
-        "word": "cittÃ "
+        "word": "città"
     }, 
     {
         "def": "", 
@@ -37942,7 +37942,7 @@
     {
         "def": "", 
         "id": 7712, 
-        "word": "lÃ¬"
+        "word": "lì"
     }, 
     {
         "def": "", 
@@ -37967,7 +37967,7 @@
     {
         "def": "", 
         "id": 7717, 
-        "word": "BerrugÃ³n"
+        "word": "Berrugón"
     }, 
     {
         "def": "", 
@@ -38012,7 +38012,7 @@
     {
         "def": "", 
         "id": 7726, 
-        "word": "La AlfajerÃ­a"
+        "word": "La Alfajería"
     }, 
     {
         "def": "", 
@@ -38107,7 +38107,7 @@
     {
         "def": "", 
         "id": 7745, 
-        "word": "maestÃ "
+        "word": "maestà"
     }, 
     {
         "def": "", 
@@ -38242,7 +38242,7 @@
     {
         "def": "", 
         "id": 7772, 
-        "word": "Documento Nazionale di IdentitÃ "
+        "word": "Documento Nazionale di Identità"
     }, 
     {
         "def": "", 
@@ -38497,7 +38497,7 @@
     {
         "def": "", 
         "id": 7823, 
-        "word": "quantitÃ "
+        "word": "quantità"
     }, 
     {
         "def": "", 
@@ -38667,7 +38667,7 @@
     {
         "def": "", 
         "id": 7857, 
-        "word": "attivitÃ "
+        "word": "attività"
     }, 
     {
         "def": "", 
@@ -39487,12 +39487,12 @@
     {
         "def": "", 
         "id": 8020, 
-        "word": "nÃ©cessaire"
+        "word": "nécessaire"
     }, 
     {
         "def": "", 
         "id": 8021, 
-        "word": "nÃ©cessaire"
+        "word": "nécessaire"
     }, 
     {
         "def": "", 
@@ -40302,7 +40302,7 @@
     {
         "def": "", 
         "id": 8183, 
-        "word": "c'Ã¨"
+        "word": "c'è"
     }, 
     {
         "def": "", 
@@ -40357,7 +40357,7 @@
     {
         "def": "", 
         "id": 8191, 
-        "word": "sÃ©"
+        "word": "sé"
     }, 
     {
         "def": "", 
@@ -40442,7 +40442,7 @@
     {
         "def": "", 
         "id": 8206, 
-        "word": "caffÃ¨"
+        "word": "caffè"
     }, 
     {
         "def": "", 
@@ -41242,7 +41242,7 @@
     {
         "def": "", 
         "id": 8364, 
-        "word": "giÃ "
+        "word": "già"
     }, 
     {
         "def": "", 
@@ -41272,12 +41272,12 @@
     {
         "def": "", 
         "id": 8370, 
-        "word": "cosÃ¬"
+        "word": "così"
     }, 
     {
         "def": "", 
         "id": 8371, 
-        "word": "nÃ©"
+        "word": "né"
     }, 
     {
         "def": "", 
@@ -41322,7 +41322,7 @@
     {
         "def": "", 
         "id": 8380, 
-        "word": "bensÃ¬"
+        "word": "bensì"
     }, 
     {
         "def": "", 
@@ -41377,7 +41377,7 @@
     {
         "def": "", 
         "id": 8391, 
-        "word": "fuorchÃ©"
+        "word": "fuorché"
     }, 
     {
         "def": "", 
@@ -41462,7 +41462,7 @@
     {
         "def": "", 
         "id": 8407, 
-        "word": "poichÃ©"
+        "word": "poiché"
     }, 
     {
         "def": "", 
@@ -41507,7 +41507,7 @@
     {
         "def": "", 
         "id": 8416, 
-        "word": "cosÃ¬"
+        "word": "così"
     }, 
     {
         "def": "", 
@@ -41627,7 +41627,7 @@
     {
         "def": "", 
         "id": 8439, 
-        "word": "ciÃ²"
+        "word": "ciò"
     }, 
     {
         "def": "", 
@@ -41727,7 +41727,7 @@
     {
         "def": "", 
         "id": 8457, 
-        "word": "realtÃ "
+        "word": "realtà"
     }, 
     {
         "def": "", 
@@ -42547,7 +42547,7 @@
     {
         "def": "", 
         "id": 8621, 
-        "word": "possibilitÃ "
+        "word": "possibilità"
     }, 
     {
         "def": "", 
@@ -42557,7 +42557,7 @@
     {
         "def": "", 
         "id": 8623, 
-        "word": "capacitÃ "
+        "word": "capacità"
     }, 
     {
         "def": "", 
@@ -42617,17 +42617,17 @@
     {
         "def": "", 
         "id": 8635, 
-        "word": "comunitÃ "
+        "word": "comunità"
     }, 
     {
         "def": "", 
         "id": 8636, 
-        "word": "comunitÃ "
+        "word": "comunità"
     }, 
     {
         "def": "", 
         "id": 8637, 
-        "word": "necessitÃ "
+        "word": "necessità"
     }, 
     {
         "def": "", 
@@ -42662,12 +42662,12 @@
     {
         "def": "", 
         "id": 8644, 
-        "word": "qualitÃ "
+        "word": "qualità"
     }, 
     {
         "def": "", 
         "id": 8645, 
-        "word": "qualitÃ "
+        "word": "qualità"
     }, 
     {
         "def": "", 
@@ -42702,7 +42702,7 @@
     {
         "def": "", 
         "id": 8652, 
-        "word": "universitÃ "
+        "word": "università"
     }, 
     {
         "def": "", 
@@ -43557,7 +43557,7 @@
     {
         "def": "", 
         "id": 8823, 
-        "word": "canapÃ¨"
+        "word": "canapè"
     }, 
     {
         "def": "", 
@@ -43667,12 +43667,12 @@
     {
         "def": "", 
         "id": 8845, 
-        "word": "di che sesso Ã¨?"
+        "word": "di che sesso è?"
     }, 
     {
         "def": "", 
         "id": 8846, 
-        "word": "chi Ã¨?"
+        "word": "chi è?"
     }, 
     {
         "def": "", 
@@ -43977,7 +43977,7 @@
     {
         "def": "", 
         "id": 8907, 
-        "word": "autoritÃ "
+        "word": "autorità"
     }, 
     {
         "def": "", 
@@ -44217,7 +44217,7 @@
     {
         "def": "", 
         "id": 8955, 
-        "word": "piÃ¹ grande"
+        "word": "più grande"
     }, 
     {
         "def": "", 
@@ -44432,12 +44432,12 @@
     {
         "def": "", 
         "id": 8999, 
-        "word": "unitÃ "
+        "word": "unità"
     }, 
     {
         "def": "", 
         "id": 9000, 
-        "word": "unitÃ "
+        "word": "unità"
     }, 
     {
         "def": "", 
@@ -44582,7 +44582,7 @@
     {
         "def": "", 
         "id": 9029, 
-        "word": "cosa Ã¨?"
+        "word": "cosa è?"
     }, 
     {
         "def": "", 
@@ -45012,7 +45012,7 @@
     {
         "def": "", 
         "id": 9114, 
-        "word": "volontÃ "
+        "word": "volontà"
     }, 
     {
         "def": "", 
@@ -45122,7 +45122,7 @@
     {
         "def": "", 
         "id": 9136, 
-        "word": "possibilitÃ "
+        "word": "possibilità"
     }, 
     {
         "def": "", 
@@ -45242,7 +45242,7 @@
     {
         "def": "", 
         "id": 9160, 
-        "word": "saltare a piÃ¨ pari"
+        "word": "saltare a piè pari"
     }, 
     {
         "def": "", 
@@ -45587,12 +45587,12 @@
     {
         "def": "", 
         "id": 9229, 
-        "word": "chi Ã¨ lui?"
+        "word": "chi è lui?"
     }, 
     {
         "def": "", 
         "id": 9230, 
-        "word": "chi Ã¨ lei?"
+        "word": "chi è lei?"
     }, 
     {
         "def": "", 
@@ -46097,12 +46097,12 @@
     {
         "def": "", 
         "id": 9331, 
-        "word": "c'Ã¨ sole?"
+        "word": "c'è sole?"
     }, 
     {
         "def": "", 
         "id": 9332, 
-        "word": "Ã¨ soleggiato?"
+        "word": "è soleggiato?"
     }, 
     {
         "def": "", 
@@ -46122,17 +46122,17 @@
     {
         "def": "", 
         "id": 9336, 
-        "word": "Ã¨ nuvoloso?"
+        "word": "è nuvoloso?"
     }, 
     {
         "def": "", 
         "id": 9337, 
-        "word": "c'Ã¨ vento?"
+        "word": "c'è vento?"
     }, 
     {
         "def": "", 
         "id": 9338, 
-        "word": "Ã¨ ventoso?"
+        "word": "è ventoso?"
     }, 
     {
         "def": "", 
@@ -46152,12 +46152,12 @@
     {
         "def": "", 
         "id": 9342, 
-        "word": "c'Ã¨ sole!"
+        "word": "c'è sole!"
     }, 
     {
         "def": "", 
         "id": 9343, 
-        "word": "Ã¨ soleggiato!"
+        "word": "è soleggiato!"
     }, 
     {
         "def": "", 
@@ -46177,12 +46177,12 @@
     {
         "def": "", 
         "id": 9347, 
-        "word": "Ã¨ nuvoloso!"
+        "word": "è nuvoloso!"
     }, 
     {
         "def": "", 
         "id": 9348, 
-        "word": "c'Ã¨ vento!"
+        "word": "c'è vento!"
     }, 
     {
         "def": "", 
@@ -47182,12 +47182,12 @@
     {
         "def": "", 
         "id": 9548, 
-        "word": "comunitÃ  educativa"
+        "word": "comunità educativa"
     }, 
     {
         "def": "", 
         "id": 9549, 
-        "word": "pari opportunitÃ "
+        "word": "pari opportunità"
     }, 
     {
         "def": "", 
@@ -47242,7 +47242,7 @@
     {
         "def": "", 
         "id": 9560, 
-        "word": "accessibilitÃ "
+        "word": "accessibilità"
     }, 
     {
         "def": "", 
@@ -47437,7 +47437,7 @@
     {
         "def": "", 
         "id": 9599, 
-        "word": "bisessualitÃ "
+        "word": "bisessualità"
     }, 
     {
         "def": "", 
@@ -47452,7 +47452,7 @@
     {
         "def": "", 
         "id": 9602, 
-        "word": "transessualitÃ "
+        "word": "transessualità"
     }, 
     {
         "def": "", 
@@ -47542,7 +47542,7 @@
     {
         "def": "", 
         "id": 9620, 
-        "word": "quale Ã¨ la tua professione?"
+        "word": "quale è la tua professione?"
     }, 
     {
         "def": "", 
@@ -47552,7 +47552,7 @@
     {
         "def": "", 
         "id": 9622, 
-        "word": "quale Ã¨ il tuo lavoro?"
+        "word": "quale è il tuo lavoro?"
     }, 
     {
         "def": "", 
@@ -47562,7 +47562,7 @@
     {
         "def": "", 
         "id": 9624, 
-        "word": "quale Ã¨ il tuo indirizzo?"
+        "word": "quale è il tuo indirizzo?"
     }, 
     {
         "def": "", 
@@ -47602,12 +47602,12 @@
     {
         "def": "", 
         "id": 9632, 
-        "word": "quale Ã¨ la tua e-mail?"
+        "word": "quale è la tua e-mail?"
     }, 
     {
         "def": "", 
         "id": 9633, 
-        "word": "quale Ã¨ la tua posta elettronica?"
+        "word": "quale è la tua posta elettronica?"
     }, 
     {
         "def": "", 
@@ -47677,7 +47677,7 @@
     {
         "def": "", 
         "id": 9646, 
-        "word": "Ã¨ simpatico!"
+        "word": "è simpatico!"
     }, 
     {
         "def": "", 
@@ -47877,12 +47877,12 @@
     {
         "def": "", 
         "id": 9686, 
-        "word": "creativitÃ "
+        "word": "creatività"
     }, 
     {
         "def": "", 
         "id": 9687, 
-        "word": "dignitÃ "
+        "word": "dignità"
     }, 
     {
         "def": "", 
@@ -47977,7 +47977,7 @@
     {
         "def": "", 
         "id": 9706, 
-        "word": "ereditÃ "
+        "word": "eredità"
     }, 
     {
         "def": "", 
@@ -48572,7 +48572,7 @@
     {
         "def": "", 
         "id": 9825, 
-        "word": "bebÃ¨"
+        "word": "bebè"
     }, 
     {
         "def": "", 
@@ -49137,7 +49137,7 @@
     {
         "def": "", 
         "id": 9938, 
-        "word": "caffÃ¨"
+        "word": "caffè"
     }, 
     {
         "def": "", 
@@ -49322,7 +49322,7 @@
     {
         "def": "", 
         "id": 9975, 
-        "word": "nazionalitÃ "
+        "word": "nazionalità"
     }, 
     {
         "def": "", 
@@ -49397,7 +49397,7 @@
     {
         "def": "", 
         "id": 9990, 
-        "word": "ausili per la mobilitÃ "
+        "word": "ausili per la mobilità"
     }, 
     {
         "def": "", 
@@ -49482,7 +49482,7 @@
     {
         "def": "", 
         "id": 10007, 
-        "word": "bignÃ¨"
+        "word": "bignè"
     }, 
     {
         "def": "", 
@@ -49827,7 +49827,7 @@
     {
         "def": "", 
         "id": 10076, 
-        "word": "LeÃ³n"
+        "word": "León"
     }, 
     {
         "def": "", 
@@ -50407,7 +50407,7 @@
     {
         "def": "", 
         "id": 10192, 
-        "word": "povertÃ "
+        "word": "povertà"
     }, 
     {
         "def": "", 
@@ -50772,7 +50772,7 @@
     {
         "def": "", 
         "id": 10265, 
-        "word": "proprietÃ  intellettuale"
+        "word": "proprietà intellettuale"
     }, 
     {
         "def": "", 
@@ -51102,17 +51102,17 @@
     {
         "def": "", 
         "id": 10331, 
-        "word": "tecnico superiore di attivitÃ  specifiche"
+        "word": "tecnico superiore di attività specifiche"
     }, 
     {
         "def": "", 
         "id": 10332, 
-        "word": "tecnica superiore di attivitÃ  specifiche"
+        "word": "tecnica superiore di attività specifiche"
     }, 
     {
         "def": "", 
         "id": 10333, 
-        "word": "UnitÃ  di Impiego, Uguaglianza, Cooperazione e Comunicazione"
+        "word": "Unità di Impiego, Uguaglianza, Cooperazione e Comunicazione"
     }, 
     {
         "def": "", 
@@ -51232,7 +51232,7 @@
     {
         "def": "", 
         "id": 10357, 
-        "word": "comÃ²"
+        "word": "comò"
     }, 
     {
         "def": "", 
@@ -52352,7 +52352,7 @@
     {
         "def": "", 
         "id": 10581, 
-        "word": "utilitÃ "
+        "word": "utilità"
     }, 
     {
         "def": "", 
@@ -53142,7 +53142,7 @@
     {
         "def": "", 
         "id": 10740, 
-        "word": "gioventÃ¹"
+        "word": "gioventù"
     }, 
     {
         "def": "", 
@@ -53157,7 +53157,7 @@
     {
         "def": "", 
         "id": 10743, 
-        "word": "maturitÃ "
+        "word": "maturità"
     }, 
     {
         "def": "", 
@@ -53337,7 +53337,7 @@
     {
         "def": "", 
         "id": 10779, 
-        "word": "treno ad alta velocitÃ "
+        "word": "treno ad alta velocità"
     }, 
     {
         "def": "", 
@@ -53372,7 +53372,7 @@
     {
         "def": "", 
         "id": 10786, 
-        "word": "bambÃ¹"
+        "word": "bambù"
     }, 
     {
         "def": "", 
@@ -53742,12 +53742,12 @@
     {
         "def": "", 
         "id": 10860, 
-        "word": "DalÃ­"
+        "word": "Dalí"
     }, 
     {
         "def": "", 
         "id": 10861, 
-        "word": "Salvador DalÃ­"
+        "word": "Salvador Dalí"
     }, 
     {
         "def": "", 
@@ -53877,7 +53877,7 @@
     {
         "def": "", 
         "id": 10888, 
-        "word": "Statua della LibertÃ "
+        "word": "Statua della Libertà"
     }, 
     {
         "def": "", 
@@ -54032,7 +54032,7 @@
     {
         "def": "", 
         "id": 10920, 
-        "word": "karatÃ¨"
+        "word": "karatè"
     }, 
     {
         "def": "", 
@@ -54267,7 +54267,7 @@
     {
         "def": "", 
         "id": 10967, 
-        "word": "Porta di AlcalÃ¡"
+        "word": "Porta di Alcalá"
     }, 
     {
         "def": "", 
@@ -54507,7 +54507,7 @@
     {
         "def": "", 
         "id": 11015, 
-        "word": "treni ad alta velocitÃ "
+        "word": "treni ad alta velocità"
     }, 
     {
         "def": "", 
@@ -54612,7 +54612,7 @@
     {
         "def": "", 
         "id": 11037, 
-        "word": "sdraiarsi a faccia in giÃ¹"
+        "word": "sdraiarsi a faccia in giù"
     }, 
     {
         "def": "", 
@@ -54657,7 +54657,7 @@
     {
         "def": "", 
         "id": 11046, 
-        "word": "fideuÃ¡"
+        "word": "fideuá"
     }, 
     {
         "def": "", 
@@ -54857,7 +54857,7 @@
     {
         "def": "", 
         "id": 11086, 
-        "word": "aula di psicomotricitÃ "
+        "word": "aula di psicomotricità"
     }, 
     {
         "def": "", 
@@ -54902,12 +54902,12 @@
     {
         "def": "", 
         "id": 11095, 
-        "word": "multiculturalitÃ "
+        "word": "multiculturalità"
     }, 
     {
         "def": "", 
         "id": 11096, 
-        "word": "interculturalitÃ "
+        "word": "interculturalità"
     }, 
     {
         "def": "", 
@@ -56137,7 +56137,7 @@
     {
         "def": "", 
         "id": 11342, 
-        "word": "scimpanzÃ©"
+        "word": "scimpanzé"
     }, 
     {
         "def": "", 
@@ -56337,12 +56337,12 @@
     {
         "def": "", 
         "id": 11383, 
-        "word": "cittÃ "
+        "word": "città"
     }, 
     {
         "def": "", 
         "id": 11384, 
-        "word": "localitÃ "
+        "word": "località"
     }, 
     {
         "def": "", 
@@ -56352,7 +56352,7 @@
     {
         "def": "", 
         "id": 11386, 
-        "word": "cittÃ "
+        "word": "città"
     }, 
     {
         "def": "", 
@@ -56637,7 +56637,7 @@
     {
         "def": "", 
         "id": 11443, 
-        "word": "colibrÃ¬"
+        "word": "colibrì"
     }, 
     {
         "def": "", 
@@ -56812,7 +56812,7 @@
     {
         "def": "", 
         "id": 11478, 
-        "word": "Arca di NoÃ¨"
+        "word": "Arca di Noè"
     }, 
     {
         "def": "", 
@@ -56997,22 +56997,22 @@
     {
         "def": "", 
         "id": 11515, 
-        "word": "cajÃ³n"
+        "word": "cajón"
     }, 
     {
         "def": "", 
         "id": 11516, 
-        "word": "cajÃ³n "
+        "word": "cajón "
     }, 
     {
         "def": "", 
         "id": 11517, 
-        "word": "cajÃ³n"
+        "word": "cajón"
     }, 
     {
         "def": "", 
         "id": 11518, 
-        "word": "cajÃ³n"
+        "word": "cajón"
     }, 
     {
         "def": "", 
@@ -57417,7 +57417,7 @@
     {
         "def": "", 
         "id": 11599, 
-        "word": "GesÃ¹ Cristo"
+        "word": "Gesù Cristo"
     }, 
     {
         "def": "", 
@@ -57532,12 +57532,12 @@
     {
         "def": "", 
         "id": 11622, 
-        "word": "MosÃ¨"
+        "word": "Mosè"
     }, 
     {
         "def": "", 
         "id": 11623, 
-        "word": "NoÃ¨"
+        "word": "Noè"
     }, 
     {
         "def": "", 
@@ -58012,7 +58012,7 @@
     {
         "def": "", 
         "id": 11718, 
-        "word": "caffÃ¨ cappuccino"
+        "word": "caffè cappuccino"
     }, 
     {
         "def": "", 
@@ -58027,7 +58027,7 @@
     {
         "def": "", 
         "id": 11721, 
-        "word": "caffÃ¨ decaffeinato"
+        "word": "caffè decaffeinato"
     }, 
     {
         "def": "", 
@@ -58037,7 +58037,7 @@
     {
         "def": "", 
         "id": 11723, 
-        "word": "caffÃ¨ decaffeinati"
+        "word": "caffè decaffeinati"
     }, 
     {
         "def": "", 
@@ -58052,7 +58052,7 @@
     {
         "def": "", 
         "id": 11726, 
-        "word": "caffÃ¨ moca"
+        "word": "caffè moca"
     }, 
     {
         "def": "", 
@@ -58337,7 +58337,7 @@
     {
         "def": "", 
         "id": 11783, 
-        "word": "Â¿corretto o incorretto?"
+        "word": "¿corretto o incorretto?"
     }, 
     {
         "def": "", 
@@ -58407,7 +58407,7 @@
     {
         "def": "", 
         "id": 11797, 
-        "word": "sala per attivitÃ "
+        "word": "sala per attività"
     }, 
     {
         "def": "", 
@@ -58422,7 +58422,7 @@
     {
         "def": "", 
         "id": 11800, 
-        "word": "sala caffÃ¨"
+        "word": "sala caffè"
     }, 
     {
         "def": "", 
@@ -58492,7 +58492,7 @@
     {
         "def": "", 
         "id": 11814, 
-        "word": "tecnico di attivitÃ  sportive"
+        "word": "tecnico di attività sportive"
     }, 
     {
         "def": "", 
@@ -58617,7 +58617,7 @@
     {
         "def": "", 
         "id": 11839, 
-        "word": "perchÃ©"
+        "word": "perché"
     }, 
     {
         "def": "", 
@@ -58717,7 +58717,7 @@
     {
         "def": "", 
         "id": 11859, 
-        "word": "superioritÃ "
+        "word": "superiorità"
     }, 
     {
         "def": "", 
@@ -59622,7 +59622,7 @@
     {
         "def": "", 
         "id": 12040, 
-        "word": "mascletÃ "
+        "word": "mascletà"
     }, 
     {
         "def": "", 
@@ -60197,7 +60197,7 @@
     {
         "def": "", 
         "id": 12155, 
-        "word": "sofÃ "
+        "word": "sofà"
     }, 
     {
         "def": "", 
@@ -60252,12 +60252,12 @@
     {
         "def": "", 
         "id": 12166, 
-        "word": "Teatro romano di MÃ©rida"
+        "word": "Teatro romano di Mérida"
     }, 
     {
         "def": "", 
         "id": 12167, 
-        "word": "MÃ©rida"
+        "word": "Mérida"
     }, 
     {
         "def": "", 
@@ -60412,12 +60412,12 @@
     {
         "def": "", 
         "id": 12198, 
-        "word": "pacchetto di caffÃ¨"
+        "word": "pacchetto di caffè"
     }, 
     {
         "def": "", 
         "id": 12199, 
-        "word": "pacchetti di caffÃ¨"
+        "word": "pacchetti di caffè"
     }, 
     {
         "def": "", 
@@ -60727,7 +60727,7 @@
     {
         "def": "", 
         "id": 12261, 
-        "word": "intimitÃ "
+        "word": "intimità"
     }, 
     {
         "def": "", 
@@ -60977,12 +60977,12 @@
     {
         "def": "", 
         "id": 12311, 
-        "word": "baccalÃ "
+        "word": "baccalà"
     }, 
     {
         "def": "", 
         "id": 12312, 
-        "word": "baccalÃ "
+        "word": "baccalà"
     }, 
     {
         "def": "", 
@@ -61792,7 +61792,7 @@
     {
         "def": "", 
         "id": 12474, 
-        "word": "tupÃ¨"
+        "word": "tupè"
     }, 
     {
         "def": "", 

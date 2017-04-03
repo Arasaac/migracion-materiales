@@ -1070,7 +1070,7 @@
         "word": "is"
     }, 
     {
-        "def": "m. Family Tree of AbietÃÂ¡ceas, which reaches 50 m in height, with tall and straight trunk, bark whitish, conical crown with horizontal branches, needle-like leaves and persistent, inconspicuous flowers and fruit in almost cylindrical cones.", 
+        "def": "m. Family Tree of AbietĂÂĄceas, which reaches 50 m in height, with tall and straight trunk, bark whitish, conical crown with horizontal branches, needle-like leaves and persistent, inconspicuous flowers and fruit in almost cylindrical cones.", 
         "id": 2190, 
         "word": "fir tree"
     }, 
@@ -1130,7 +1130,7 @@
         "word": "Albacete"
     }, 
     {
-        "def": "It is the second largest city of Valencia, with a population of 322,431 inhabitants. Located on the Mediterranean coast, is the capital of the province of Alicante and the region of AlacantÃÂ­.Es a city to tourism and services.", 
+        "def": "It is the second largest city of Valencia, with a population of 322,431 inhabitants. Located on the Mediterranean coast, is the capital of the province of Alicante and the region of AlacantĂÂ­.Es a city to tourism and services.", 
         "id": 231, 
         "word": "Alicante"
     }, 
@@ -1145,7 +1145,7 @@
         "word": "almonds"
     }, 
     {
-        "def": "It is a Spanish province, located in SE Spain and integrated into the Autonomous Community of Andalusia. The provincial capital is the city of AlmerÃÂ­a, in 2006 its population was 635,850 inhabitants.", 
+        "def": "It is a Spanish province, located in SE Spain and integrated into the Autonomous Community of Andalusia. The provincial capital is the city of AlmerĂÂ­a, in 2006 its population was 635,850 inhabitants.", 
         "id": 234, 
         "word": "Almeria"
     }, 
@@ -1205,7 +1205,7 @@
         "word": "to learn"
     }, 
     {
-        "def": "Aragon is an autonomous community of Spain resulting from the historical kingdom of the same name and includes the central section of the Ebro valley located in northern Spain, bordering the regions of Castilla-La Mancha, Castilla y LeÃÂ³n, Catalonia", 
+        "def": "Aragon is an autonomous community of Spain resulting from the historical kingdom of the same name and includes the central section of the Ebro valley located in northern Spain, bordering the regions of Castilla-La Mancha, Castilla y LeĂÂłn, Catalonia", 
         "id": 247, 
         "word": "Aragon"
     }, 
@@ -1250,7 +1250,7 @@
         "word": "attractive"
     }, 
     {
-        "def": "f. Technique or test to measure hearing in relation to the different frequencies of sound: Audiometry is a unique technique of Otolaryngology. Also known as acumetrÃÂ­a.", 
+        "def": "f. Technique or test to measure hearing in relation to the different frequencies of sound: Audiometry is a unique technique of Otolaryngology. Also known as acumetrĂÂ­a.", 
         "id": 256, 
         "word": "audiometry"
     }, 
@@ -1295,7 +1295,7 @@
         "word": "birds"
     }, 
     {
-        "def": "It is a Spanish city in Castilla y LeÃÂ³n, capital of the homonymous province. Located to 1,128 m high on a rocky promontory on the right bank Adaja River, a tributary of the Duero, with the highest provincial capital of Spain, and the fourth highest", 
+        "def": "It is a Spanish city in Castilla y LeĂÂłn, capital of the homonymous province. Located to 1,128 m high on a rocky promontory on the right bank Adaja River, a tributary of the Duero, with the highest provincial capital of Spain, and the fourth highest", 
         "id": 265, 
         "word": "Avila"
     }, 
@@ -1405,7 +1405,7 @@
         "word": "bikini"
     }, 
     {
-        "def": "It is the capital of the province of Vizcaya province, in the Basque Country in northern Spain. It is located in the district of Greater Bilbao, a continuous urban area stretching along the estuary of Bilbao, or the NerviÃÂÃÂ³n, giving shelter", 
+        "def": "It is the capital of the province of Vizcaya province, in the Basque Country in northern Spain. It is located in the district of Greater Bilbao, a continuous urban area stretching along the estuary of Bilbao, or the NerviĂÂĂÂłn, giving shelter", 
         "id": 287, 
         "word": "Bilbao"
     }, 
@@ -1465,7 +1465,7 @@
         "word": "scarf"
     }, 
     {
-        "def": "Spanish Town, capital of Burgos province northeast of the Autonomous Community of Castilla y LeÃÂ³n.", 
+        "def": "Spanish Town, capital of Burgos province northeast of the Autonomous Community of Castilla y LeĂÂłn.", 
         "id": 300, 
         "word": "Burgos"
     }, 
@@ -1570,7 +1570,7 @@
         "word": "Canary Islands"
     }, 
     {
-        "def": "Is an autonomous province in Spanish. Bordered on the east by the Basque Country (Biscay), the south by Castile and LeÃÂ³n (provinces of LeÃÂ³n, Palencia and Burgos), the west by the Principality of Asturias and the north by the Cantabrian Sea. ", 
+        "def": "Is an autonomous province in Spanish. Bordered on the east by the Basque Country (Biscay), the south by Castile and LeĂÂłn (provinces of LeĂÂłn, Palencia and Burgos), the west by the Principality of Asturias and the north by the Cantabrian Sea. ", 
         "id": 321, 
         "word": "Cantabria"
     }, 
@@ -1615,12 +1615,12 @@
         "word": "waterfall"
     }, 
     {
-        "def": "It is one of the 50 provinces in which Spain is divided administratively, and is located in the northernmost part of the Valencian Community. Its capital is CastellÃÂ³n de la Plana (172,110 pop.).Hasa population of 559,761 inhabitants. (2006).", 
+        "def": "It is one of the 50 provinces in which Spain is divided administratively, and is located in the northernmost part of the Valencian Community. Its capital is CastellĂÂłn de la Plana (172,110 pop.).Hasa population of 559,761 inhabitants. (2006).", 
         "id": 330, 
         "word": "Castellon"
     }, 
     {
-        "def": "Spanish autonomous community is made up of the following provinces: Albacete, Ciudad Real, Cuenca, Guadalajara and Toledo. The community is bordered by Castile and LeÃÂ³n, Madrid, Aragon, Valencia, Murcia, Andalusia and Extremadura.", 
+        "def": "Spanish autonomous community is made up of the following provinces: Albacete, Ciudad Real, Cuenca, Guadalajara and Toledo. The community is bordered by Castile and LeĂÂłn, Madrid, Aragon, Valencia, Murcia, Andalusia and Extremadura.", 
         "id": 331, 
         "word": "Castille-La Mancha"
     }, 
@@ -1630,7 +1630,7 @@
         "word": "Castile-Leon"
     }, 
     {
-        "def": "It is a Spanish autonomous community in northeastern Iberian Peninsula. It occupies an area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂabout 32,000 km ÃÂÃÂ² which borders the north by France and Andorra, on the east by the Med", 
+        "def": "It is a Spanish autonomous community in northeastern Iberian Peninsula. It occupies an area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂabout 32,000 km ĂÂĂÂ˛ which borders the north by France and Andorra, on the east by the Med", 
         "id": 333, 
         "word": "Catalonia"
     }, 
@@ -1740,7 +1740,7 @@
         "word": "comedy"
     }, 
     {
-        "def": "Is an autonomous community of Spain located in the center of the Iberian Peninsula and, within it, in the heart of the Central Plateau. It borders the provinces of Guadalajara, Cuenca, Toledo (Castilla-La Mancha), Avila and Segovia (Castilla y LeÃÂ³n", 
+        "def": "Is an autonomous community of Spain located in the center of the Iberian Peninsula and, within it, in the heart of the Central Plateau. It borders the provinces of Guadalajara, Cuenca, Toledo (Castilla-La Mancha), Avila and Segovia (Castilla y LeĂÂłn", 
         "id": 355, 
         "word": "Madrid Region"
     }, 
@@ -1920,7 +1920,7 @@
         "word": "day"
     }, 
     {
-        "def": "m. Book in which, usually alphabetical order, are contained and defined all the words of one or more languages ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂor a particular subject or discipline.", 
+        "def": "m. Book in which, usually alphabetical order, are contained and defined all the words of one or more languages ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂor a particular subject or discipline.", 
         "id": 391, 
         "word": "dictionary"
     }, 
@@ -2090,7 +2090,7 @@
         "word": "structure"
     }, 
     {
-        "def": "It is one of the continents that formed the supercontinent Eurasia, located between latitudes 36 ÃÂº and 70 ÃÂº north latitude, which in conventional and historical reasons is considered a continent. Extends into the eastern half of the hemisp", 
+        "def": "It is one of the continents that formed the supercontinent Eurasia, located between latitudes 36 ĂÂş and 70 ĂÂş north latitude, which in conventional and historical reasons is considered a continent. Extends into the eastern half of the hemisp", 
         "id": 425, 
         "word": "Europe"
     }, 
@@ -2115,7 +2115,7 @@
         "word": "expansion"
     }, 
     {
-        "def": "f. Increased area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂsomething.", 
+        "def": "f. Increased area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂsomething.", 
         "id": 430, 
         "word": "extension"
     }, 
@@ -2147,7 +2147,7 @@
     {
         "def": "m. Dessert made whisking egg yolks, milk and sugar, and fruit set in a water bath in a mold in the form of a truncated cone topped with toasted sugar.", 
         "id": 437, 
-        "word": "crÃ¨me caramel"
+        "word": "crĂ¨me caramel"
     }, 
     {
         "def": "f. Divisions of one thing into parts.", 
@@ -2180,7 +2180,7 @@
         "word": "to found"
     }, 
     {
-        "def": "It is a Spanish region, located northwest of the Iberian Peninsula. Geographically bounded on the north by the Cantabrian Sea, southern Portugal, the west by the Atlantic Ocean and the east by the Principality of Asturias and Castilla and LeÃÂ³n (pro", 
+        "def": "It is a Spanish region, located northwest of the Iberian Peninsula. Geographically bounded on the north by the Cantabrian Sea, southern Portugal, the west by the Atlantic Ocean and the east by the Principality of Asturias and Castilla and LeĂÂłn (pro", 
         "id": 444, 
         "word": "Galicia"
     }, 
@@ -2220,12 +2220,12 @@
         "word": "geology"
     }, 
     {
-        "def": "It is a city in Catalonia, Spain. It is the capital of the homonymous province. It has 89,890 inhabitants. Ter rivers pass, GÃÂ¼ell, Galligants and Onar. Is 75 m above sea level.", 
+        "def": "It is a city in Catalonia, Spain. It is the capital of the homonymous province. It has 89,890 inhabitants. Ter rivers pass, GĂÂźell, Galligants and Onar. Is 75 m above sea level.", 
         "id": 452, 
         "word": "Gerona"
     }, 
     {
-        "def": "It is a city and municipality in the Cantabrian coast in the Principality of Asturias (Spain). The townshiphasan area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ181.6 km2 and a population of 273,931 inhabitants. Being populated territory b", 
+        "def": "It is a city and municipality in the Cantabrian coast in the Principality of Asturias (Spain). The townshiphasan area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂ181.6 km2 and a population of 273,931 inhabitants. Being populated territory b", 
         "id": 453, 
         "word": "Gijon"
     }, 
@@ -2300,12 +2300,12 @@
         "word": "guide"
     }, 
     {
-        "def": "Is a province of the Basque Country and also a Spanish province. Its capital is San Sebastian. It borders the French dÃÂ©partement of PyrÃÂ©nÃÂ©es-Atlantiques in the northeast, Navarra to the east, west Vizcaya, Alava south and the Cantabri", 
+        "def": "Is a province of the Basque Country and also a Spanish province. Its capital is San Sebastian. It borders the French dĂÂŠpartement of PyrĂÂŠnĂÂŠes-Atlantiques in the northeast, Navarra to the east, west Vizcaya, Alava south and the Cantabri", 
         "id": 468, 
         "word": "Guipuzcoa"
     }, 
     {
-        "def": "tr. Fire food preparation, making them especially after cooking sauce sautÃÂ©ed.", 
+        "def": "tr. Fire food preparation, making them especially after cooking sauce sautĂÂŠed.", 
         "id": 469, 
         "word": "to stew"
     }, 
@@ -2370,7 +2370,7 @@
         "word": "hotel"
     }, 
     {
-        "def": "It is the capital of the homonymous province of Huelva, Andalusia, Spanish EspaÃÂ±a.Localidad located at the confluence of the rivers Tinto and Odiel. Huelva city is directly connected to the capital of the autonomous region, Sevilla, 90 km, through ", 
+        "def": "It is the capital of the homonymous province of Huelva, Andalusia, Spanish EspaĂÂąa.Localidad located at the confluence of the rivers Tinto and Odiel. Huelva city is directly connected to the capital of the autonomous region, Sevilla, 90 km, through ", 
         "id": 484, 
         "word": "Huelva"
     }, 
@@ -2455,7 +2455,7 @@
         "word": "island"
     }, 
     {
-        "def": "It is the capital of the province of JaÃÂÃÂ©n, located in southern Spain and in the Northeast region of Andalusia. Hasa population of 117,540 inhabitants. JaÃÂÃÂ©n is part of the metropolitan area of ÃÂ¢ÃÂÃÂÃ", 
+        "def": "It is the capital of the province of JaĂÂĂÂŠn, located in southern Spain and in the Northeast region of Andalusia. Hasa population of 117,540 inhabitants. JaĂÂĂÂŠn is part of the metropolitan area of ĂÂ˘ĂÂĂÂĂ", 
         "id": 501, 
         "word": "Jaen"
     }, 
@@ -2490,9 +2490,9 @@
         "word": "law court"
     }, 
     {
-        "def": "It is the capital of the province of La CoruÃÂ±a (Autonomous Community of Galicia, Spain). Located in the northwest corner of the country. Atlantic City is a mild climate. The town population reaches 243,349.", 
+        "def": "It is the capital of the province of La CoruĂÂąa (Autonomous Community of Galicia, Spain). Located in the northwest corner of the country. Atlantic City is a mild climate. The town population reaches 243,349.", 
         "id": 508, 
-        "word": "La CoruÃ±a"
+        "word": "La CoruĂąa"
     }, 
     {
         "def": "m. Large body of water, usually sweet, accumulated in depressions.", 
@@ -2590,7 +2590,7 @@
         "word": "original"
     }, 
     {
-        "def": "f. Plain area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂflat land.", 
+        "def": "f. Plain area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂflat land.", 
         "id": 528, 
         "word": "plain"
     }, 
@@ -2612,7 +2612,7 @@
     {
         "def": "Is a municipality located in northern Spain, capital of the Autonomous Community of La Rioja Province. It is also its most populous town, concentrating almost half of all community-and its economic hub, cultural and service.", 
         "id": 532, 
-        "word": "LogroÃ±o"
+        "word": "LogroĂąo"
     }, 
     {
         "def": "f. The larger of the two major dimensions that have the stuff or plane figures.", 
@@ -2625,7 +2625,7 @@
         "word": "lights"
     }, 
     {
-        "def": "Is the name of the capital of the province of the same name, in Galicia, Spain. The city was founded between the years 26 and 12 BC by Paulo Fabio MÃÂ¡ximo. It is the oldest capital of Galicia.", 
+        "def": "Is the name of the capital of the province of the same name, in Galicia, Spain. The city was founded between the years 26 and 12 BC by Paulo Fabio MĂÂĄximo. It is the oldest capital of Galicia.", 
         "id": 535, 
         "word": "Lugo"
     }, 
@@ -2635,7 +2635,7 @@
         "word": "moon"
     }, 
     {
-        "def": "It is the capital of Spain. It is not only capital, but also of his province and the Community of Madrid. It houses a population of 3,129,600 inhabitants, with a metropolitan area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ5,843,031, makin", 
+        "def": "It is the capital of Spain. It is not only capital, but also of his province and the Community of Madrid. It houses a population of 3,129,600 inhabitants, with a metropolitan area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂ5,843,031, makin", 
         "id": 537, 
         "word": "Madrid"
     }, 
@@ -2645,7 +2645,7 @@
         "word": "bad"
     }, 
     {
-        "def": "Capital of the eponymous province in the autonomous community of Andalusia in southern Spain. With its 560,631 inhabitants in 2006 the city of MÃÂ¡laga is the sixth in population in Spain. Located at the west end of the Mediterranean Sea, just over 1", 
+        "def": "Capital of the eponymous province in the autonomous community of Andalusia in southern Spain. With its 560,631 inhabitants in 2006 the city of MĂÂĄlaga is the sixth in population in Spain. Located at the west end of the Mediterranean Sea, just over 1", 
         "id": 539, 
         "word": "Malaga"
     }, 
@@ -2735,7 +2735,7 @@
         "word": "membrane"
     }, 
     {
-        "def": "adv. comp. It denotes the idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂlack, reduction, restriction of inferiority compared sobreentendida expressed.", 
+        "def": "adv. comp. It denotes the idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂlack, reduction, restriction of inferiority compared sobreentendida expressed.", 
         "id": 558, 
         "word": "minus"
     }, 
@@ -2890,7 +2890,7 @@
         "word": "snow"
     }, 
     {
-        "def": "It is a Christian devotion to Jesus Christ, when he was niÃÂ±o.En parts of Latin America on Christmas Day, gifts do not bring Santa Claus, or the Magi, but the Divine Child, as it was affectionately called the Baby Jesus. Most of the festivities are ", 
+        "def": "It is a Christian devotion to Jesus Christ, when he was niĂÂąo.En parts of Latin America on Christmas Day, gifts do not bring Santa Claus, or the Magi, but the Divine Child, as it was affectionately called the Baby Jesus. Most of the festivities are ", 
         "id": 592, 
         "word": "Baby Jesus"
     }, 
@@ -2930,7 +2930,7 @@
         "word": "clouds"
     }, 
     {
-        "def": "f. Frutos del nogal, de cÃÂ¡scara dura, rugosa, de color marrÃÂ³n claro que en su interior tiene dos partes carnosas y simÃÂ©tricas separadas por una membrana.", 
+        "def": "f. Frutos del nogal, de cĂÂĄscara dura, rugosa, de color marrĂÂłn claro que en su interior tiene dos partes carnosas y simĂÂŠtricas separadas por una membrana.", 
         "id": 601, 
         "word": "walnuts"
     }, 
@@ -2975,7 +2975,7 @@
         "word": "sheep"
     }, 
     {
-        "def": "Es una ciudad y concejo asturiano de origen medieval (siglo VIII), capital del Principado de Asturias (EspaÃÂ±a). Tiene 215.371 habitantes en el municipio. Es, ademÃÂ¡s, la capital comercial y de negocios, y el centro administrativo y universita", 
+        "def": "Es una ciudad y concejo asturiano de origen medieval (siglo VIII), capital del Principado de Asturias (EspaĂÂąa). Tiene 215.371 habitantes en el municipio. Es, ademĂÂĄs, la capital comercial y de negocios, y el centro administrativo y universita", 
         "id": 610, 
         "word": "Oviedo"
     }, 
@@ -3005,7 +3005,7 @@
         "word": "Valencia Region"
     }, 
     {
-        "def": "Also called the Basque Country and the Basque Autonomous Community is a Spanish region, located on the northeast corner of the Cantabrian fringe, bordering the north by the Bay of Biscay and France, the south by La Rioja and Castilla y LeÃÂ³n, west t", 
+        "def": "Also called the Basque Country and the Basque Autonomous Community is a Spanish region, located on the northeast corner of the Cantabrian fringe, bordering the north by the Bay of Biscay and France, the south by La Rioja and Castilla y LeĂÂłn, west t", 
         "id": 616, 
         "word": "Basque Country"
     }, 
@@ -3060,7 +3060,7 @@
         "word": "similar"
     }, 
     {
-        "def": "adj. Que tiene semejanza o analogÃÂ­a con una cosa: es muy similar a su padre; son dos coches similares.", 
+        "def": "adj. Que tiene semejanza o analogĂÂ­a con una cosa: es muy similar a su padre; son dos coches similares.", 
         "id": 627, 
         "word": "similar"
     }, 
@@ -3085,7 +3085,7 @@
         "word": "potato"
     }, 
     {
-        "def": "Those who are prepared, sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂor in the form of sticks and frying in hot olive oil until golden brown, removing the oil drained, and salÃÂÃÂ¡ndose.", 
+        "def": "Those who are prepared, sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂor in the form of sticks and frying in hot olive oil until golden brown, removing the oil drained, and salĂÂĂÂĄndose.", 
         "id": 632, 
         "word": "fried potatoes"
     }, 
@@ -3115,7 +3115,7 @@
         "word": "fish"
     }, 
     {
-        "def": "adj. Que tiene abundantes pecas: niÃÂ±o pecoso; espalda pecosa.", 
+        "def": "adj. Que tiene abundantes pecas: niĂÂąo pecoso; espalda pecosa.", 
         "id": 638, 
         "word": "freckled"
     }, 
@@ -3125,7 +3125,7 @@
         "word": "to paste"
     }, 
     {
-        "def": "adj. Que tiene el pelo de color rojizo: me gusta su barba pelirroja. TambiÃÂ©n s.: los pelirrojos suelen tener pecas.", 
+        "def": "adj. Que tiene el pelo de color rojizo: me gusta su barba pelirroja. TambiĂÂŠn s.: los pelirrojos suelen tener pecas.", 
         "id": 640, 
         "word": "red-haired"
     }, 
@@ -3415,7 +3415,7 @@
         "word": "river"
     }, 
     {
-        "def": "La Rioja is a region of Spain located in the north of the Iberian Peninsula between the Ebro Valley to the north and the Iberian to the south. It borders the northern Basque Country (ÃÂlava), Navarre in the northeast, southeast Aragon (province of Z", 
+        "def": "La Rioja is a region of Spain located in the north of the Iberian Peninsula between the Ebro Valley to the north and the Iberian to the south. It borders the northern Basque Country (ĂÂlava), Navarre in the northeast, southeast Aragon (province of Z", 
         "id": 699, 
         "word": "La Rioja"
     }, 
@@ -3435,7 +3435,7 @@
         "word": "clothes"
     }, 
     {
-        "def": "adj. De color parecido al del oro, aplicado particularmente al pelo y a la persona que lo tiene asÃÂ­.", 
+        "def": "adj. De color parecido al del oro, aplicado particularmente al pelo y a la persona que lo tiene asĂÂ­.", 
         "id": 703, 
         "word": "blond"
     }, 
@@ -3445,7 +3445,7 @@
         "word": "salt"
     }, 
     {
-        "def": "It is a Spanish city, capital of the eponymous province in the autonomous community of Castilla y LeÃÂ³n. It is located in Campo de Salamanca, beside the river Tormes. Salamanca is famous primarily for two reasons: by having one of the oldest and mos", 
+        "def": "It is a Spanish city, capital of the eponymous province in the autonomous community of Castilla y LeĂÂłn. It is located in Campo de Salamanca, beside the river Tormes. Salamanca is famous primarily for two reasons: by having one of the oldest and mos", 
         "id": 705, 
         "word": "Salamanca"
     }, 
@@ -3470,7 +3470,7 @@
         "word": "blood"
     }, 
     {
-        "def": "Joseph of Nazareth was, according to the Christian religion, the husband of Mary, the mother of Jesus of Nazareth and, therefore, foster father of Jesus. Was a carpenter by trade, a profession he taught his son and humble. San JosÃÂ© is represented f", 
+        "def": "Joseph of Nazareth was, according to the Christian religion, the husband of Mary, the mother of Jesus of Nazareth and, therefore, foster father of Jesus. Was a carpenter by trade, a profession he taught his son and humble. San JosĂÂŠ is represented f", 
         "id": 710, 
         "word": "Saint Joseph"
     }, 
@@ -3485,7 +3485,7 @@
         "word": "Santander"
     }, 
     {
-        "def": "It is a Spanish city in the southern part of the autonomous community of Castilla y LeÃÂ³n, capital of the province of the same name. It is situated at the confluence of the rivers and Cries Eresma the foot of the Sierra de Guadarrama.", 
+        "def": "It is a Spanish city in the southern part of the autonomous community of Castilla y LeĂÂłn, capital of the province of the same name. It is situated at the confluence of the rivers and Cries Eresma the foot of the Sierra de Guadarrama.", 
         "id": 713, 
         "word": "Segovia"
     }, 
@@ -3500,7 +3500,7 @@
         "word": "week"
     }, 
     {
-        "def": "adj. Que no tiene complicaciÃÂ³n, fÃÂ¡cil.", 
+        "def": "adj. Que no tiene complicaciĂÂłn, fĂÂĄcil.", 
         "id": 716, 
         "word": "simple"
     }, 
@@ -3555,7 +3555,7 @@
         "word": "century"
     }, 
     {
-        "def": "adj.m.Que inspira simpatÃÂ­a o la muestra: es tan simpÃÂ¡tico que no tiene enemigo alguno.", 
+        "def": "adj.m.Que inspira simpatĂÂ­a o la muestra: es tan simpĂÂĄtico que no tiene enemigo alguno.", 
         "id": 727, 
         "word": "pleasant"
     }, 
@@ -3625,7 +3625,7 @@
         "word": "his"
     }, 
     {
-        "def": "It is a city located in the south of the Autonomous Community of Catalonia. It is the capital of the province of the same name, and TarragonÃÂ¨s region. It is washed by the waters of the Mediterranean. City with a cultural historical tradition, is a ", 
+        "def": "It is a city located in the south of the Autonomous Community of Catalonia. It is the capital of the province of the same name, and TarragonĂÂ¨s region. It is washed by the waters of the Mediterranean. City with a cultural historical tradition, is a ", 
         "id": 742, 
         "word": "Tarragona"
     }, 
@@ -3650,7 +3650,7 @@
         "word": "to telephone"
     }, 
     {
-        "def": "f. Sistema de transmisiÃÂ³n de imÃÂ¡genes y sonidos a distancia, mediante ondas hercianas: la televisiÃÂ³n llegÃÂ³ a EspaÃÂ±a en los aÃÂ±os sesenta.", 
+        "def": "f. Sistema de transmisiĂÂłn de imĂÂĄgenes y sonidos a distancia, mediante ondas hercianas: la televisiĂÂłn llegĂÂł a EspaĂÂąa en los aĂÂąos sesenta.", 
         "id": 747, 
         "word": "television"
     }, 
@@ -3700,7 +3700,7 @@
         "word": "free time"
     }, 
     {
-        "def": "adj. CaracterÃÂ­stico o representativo de un tipo o modelo, del que reproduce las caracterÃÂ­sticas: tiene el comportamiento tÃÂ­pico de los enfermos paranoicos.", 
+        "def": "adj. CaracterĂÂ­stico o representativo de un tipo o modelo, del que reproduce las caracterĂÂ­sticas: tiene el comportamiento tĂÂ­pico de los enfermos paranoicos.", 
         "id": 758, 
         "word": "typical"
     }, 
@@ -3800,7 +3800,7 @@
         "word": "Valencia"
     }, 
     {
-        "def": "It is a Spanish city located in the center of the Autonomous Community of Castilla y LeÃÂ³n. It is the capital of the province of Valladolid and Castile and Leon [1], and hosted the Spanish court and later Spanish imperial.", 
+        "def": "It is a Spanish city located in the center of the Autonomous Community of Castilla y LeĂÂłn. It is the capital of the province of Valladolid and Castile and Leon [1], and hosted the Spanish court and later Spanish imperial.", 
         "id": 778, 
         "word": "Valladolid"
     }, 
@@ -3840,7 +3840,7 @@
         "word": "to travel"
     }, 
     {
-        "def": "Adj. Se dice de lo que tiene muchos aÃÂ±os: un olmo viejo; una persona vieja. TambiÃÂ©n s.", 
+        "def": "Adj. Se dice de lo que tiene muchos aĂÂąos: un olmo viejo; una persona vieja. TambiĂÂŠn s.", 
         "id": 786, 
         "word": "old"
     }, 
@@ -3875,7 +3875,7 @@
         "word": "widower"
     }, 
     {
-        "def": "adj. Que tiene vida: las plantas son seres vivos. TambiÃÂ©n s.: los vivos y los muertos.", 
+        "def": "adj. Que tiene vida: las plantas son seres vivos. TambiĂÂŠn s.: los vivos y los muertos.", 
         "id": 793, 
         "word": "alive"
     }, 
@@ -3895,7 +3895,7 @@
         "word": "zambomba"
     }, 
     {
-        "def": "It is a Spanish city, capital of the province of Zamora, which lies to the northwest, near the border with Portugal. Belongs to the autonomous community of Castilla y LeÃÂ³n, and is crossed by the Duero River.", 
+        "def": "It is a Spanish city, capital of the province of Zamora, which lies to the northwest, near the border with Portugal. Belongs to the autonomous community of Castilla y LeĂÂłn, and is crossed by the Duero River.", 
         "id": 797, 
         "word": "Zamora"
     }, 
@@ -4190,7 +4190,7 @@
         "word": "waistcoat"
     }, 
     {
-        "def": "f. Prenda de abrigo que se ajusta a la cadera o a la cintura mediante una pieza elÃÂ¡stica: cazadora de cuero.", 
+        "def": "f. Prenda de abrigo que se ajusta a la cadera o a la cintura mediante una pieza elĂÂĄstica: cazadora de cuero.", 
         "id": 859, 
         "word": "jacket"
     }, 
@@ -4230,7 +4230,7 @@
         "word": "confused"
     }, 
     {
-        "def": "adj. Que tiene curiosidad. TambiÃÂ©n s.: es un curioso y un impertinente.", 
+        "def": "adj. Que tiene curiosidad. TambiĂÂŠn s.: es un curioso y un impertinente.", 
         "id": 867, 
         "word": "curious"
     }, 
@@ -4275,7 +4275,7 @@
         "word": "happy"
     }, 
     {
-        "def": "adj. Que tiene una temperatura moderadamente frÃÂ­a.", 
+        "def": "adj. Que tiene una temperatura moderadamente frĂÂ­a.", 
         "id": 876, 
         "word": "fresh"
     }, 
@@ -4345,7 +4345,7 @@
         "word": "Bolivia"
     }, 
     {
-        "def": "La RepÃÂºblica Federativa del Brasil es el paÃÂ­s mÃÂ¡s grande de AmÃÂ©rica del Sur y el quinto del mundo. Brasil tiene zonas limÃÂ­trofes con todos los paÃÂ­ses sudamericanos con la excepciÃÂ³n de Chile y Ecuador. Al no", 
+        "def": "La RepĂÂşblica Federativa del Brasil es el paĂÂ­s mĂÂĄs grande de AmĂÂŠrica del Sur y el quinto del mundo. Brasil tiene zonas limĂÂ­trofes con todos los paĂÂ­ses sudamericanos con la excepciĂÂłn de Chile y Ecuador. Al no", 
         "id": 890, 
         "word": "Brazil"
     }, 
@@ -4355,7 +4355,7 @@
         "word": "Central America"
     }, 
     {
-        "def": "Es una naciÃÂ³n ubicada en la zona noroccidental de AmÃÂ©rica del Sur, su extensiÃÂ³n territorial es de 1.141.748 km2[3] y es el ÃÂºnico paÃÂ­s del continente suramericano que tiene costas en ambos, el OcÃÂ©ano PacÃÂ­fic", 
+        "def": "Es una naciĂÂłn ubicada en la zona noroccidental de AmĂÂŠrica del Sur, su extensiĂÂłn territorial es de 1.141.748 km2[3] y es el ĂÂşnico paĂÂ­s del continente suramericano que tiene costas en ambos, el OcĂÂŠano PacĂÂ­fic", 
         "id": 892, 
         "word": "Colombia"
     }, 
@@ -4380,7 +4380,7 @@
         "word": "Ecuador"
     }, 
     {
-        "def": "Es un paÃÂ­s de clima tropical localizado en la AmÃÂ©rica Central, con una poblaciÃÂ³n de aproximadamente 6.7 millones de habitantes. Debido a su extensiÃÂ³n territorial (21,041 kmÃÂ²) tiene la densidad poblacional mÃÂ¡s alt", 
+        "def": "Es un paĂÂ­s de clima tropical localizado en la AmĂÂŠrica Central, con una poblaciĂÂłn de aproximadamente 6.7 millones de habitantes. Debido a su extensiĂÂłn territorial (21,041 kmĂÂ˛) tiene la densidad poblacional mĂÂĄs alt", 
         "id": 897, 
         "word": "El Salvador"
     }, 
@@ -4395,7 +4395,7 @@
         "word": "Honduras"
     }, 
     {
-        "def": "Es un paÃÂ­s que pertenece a NorteamÃÂ©rica pero a su vez tambiÃÂ©n a LatinoamÃÂ©rica, HispanoamÃÂ©rica e IberoamÃÂ©rica. Limita con Estados Unidos de AmÃÂ©rica al norte, y al sureste con Guatemala y Belice. Limita al es", 
+        "def": "Es un paĂÂ­s que pertenece a NorteamĂÂŠrica pero a su vez tambiĂÂŠn a LatinoamĂÂŠrica, HispanoamĂÂŠrica e IberoamĂÂŠrica. Limita con Estados Unidos de AmĂÂŠrica al norte, y al sureste con Guatemala y Belice. Limita al es", 
         "id": 900, 
         "word": "Mexico"
     }, 
@@ -4440,7 +4440,7 @@
         "word": "Trinidad and Tobago"
     }, 
     {
-        "def": "Es un paÃÂ­s de AmÃÂ©rica del Sur cuyo territorio es el segundo mÃÂ¡s pequeÃÂ±o del subcontinente, con una superficie de 176.215 kmÃÂ². Limita con el Brasil al norte y noreste y con Argentina al oeste. El lÃÂ­mite es el RÃ", 
+        "def": "Es un paĂÂ­s de AmĂÂŠrica del Sur cuyo territorio es el segundo mĂÂĄs pequeĂÂąo del subcontinente, con una superficie de 176.215 kmĂÂ˛. Limita con el Brasil al norte y noreste y con Argentina al oeste. El lĂÂ­mite es el RĂ", 
         "id": 909, 
         "word": "Uruguay"
     }, 
@@ -4615,7 +4615,7 @@
         "word": "toiletries"
     }, 
     {
-        "def": "f. Rama de la medicina que tiene por objeto la conservaciÃÂ³n de la salud y la prevenciÃÂ³n de enfermedades.", 
+        "def": "f. Rama de la medicina que tiene por objeto la conservaciĂÂłn de la salud y la prevenciĂÂłn de enfermedades.", 
         "id": 945, 
         "word": "hygiene"
     }, 
@@ -5110,7 +5110,7 @@
         "word": "empty"
     }, 
     {
-        "def": "adj. Enough, enough to cover what is necessary: ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂthere are more than enough barbecue for everyone.", 
+        "def": "adj. Enough, enough to cover what is necessary: ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂthere are more than enough barbecue for everyone.", 
         "id": 1046, 
         "word": "enough"
     }, 
@@ -6630,7 +6630,7 @@
         "word": "v"
     }, 
     {
-        "def": "f. Twenty-sixth letter of the Spanish alphabet, and twenty-third international Latin order, used to voices from abroad. In languages ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂwhere there as a phoneme, the joint is now in or glide, as in Engl", 
+        "def": "f. Twenty-sixth letter of the Spanish alphabet, and twenty-third international Latin order, used to voices from abroad. In languages ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂwhere there as a phoneme, the joint is now in or glide, as in Engl", 
         "id": 1356, 
         "word": "w"
     }, 
@@ -7855,7 +7855,7 @@
         "word": "yogurt"
     }, 
     {
-        "def": "Fresh water has its greatest density at 4 ÃÂ° C is less dense when cooled or heated.", 
+        "def": "Fresh water has its greatest density at 4 ĂÂ° C is less dense when cooled or heated.", 
         "id": 1607, 
         "word": "freshwater"
     }, 
@@ -8750,7 +8750,7 @@
         "word": "garden spade"
     }, 
     {
-        "def": "f. PalmÃÂ¡ceo tree characteristic of subtropical and tropical regions, up to 30 m tall with upright stem topped by a tuft of leaves stalked, fragrant white flowers and fleshy fruit, date palm, coconut palm.", 
+        "def": "f. PalmĂÂĄceo tree characteristic of subtropical and tropical regions, up to 30 m tall with upright stem topped by a tuft of leaves stalked, fragrant white flowers and fleshy fruit, date palm, coconut palm.", 
         "id": 1799, 
         "word": "palm tree"
     }, 
@@ -9575,7 +9575,7 @@
         "word": "shake"
     }, 
     {
-        "def": "Divide or separate the sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂbread.", 
+        "def": "Divide or separate the sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂbread.", 
         "id": 1965, 
         "word": "cut the bread"
     }, 
@@ -11315,7 +11315,7 @@
         "word": "change the board"
     }, 
     {
-        "def": "MofidfiquÃÂ© opinion.", 
+        "def": "MofidfiquĂÂŠ opinion.", 
         "id": 2324, 
         "word": "change opinion"
     }, 
@@ -11700,7 +11700,7 @@
         "word": "Oh no!"
     }, 
     {
-        "def": "Free expression to be added to a request: acÃÂ©rcame salt, please.", 
+        "def": "Free expression to be added to a request: acĂÂŠrcame salt, please.", 
         "id": 2403, 
         "word": "please"
     }, 
@@ -11757,7 +11757,7 @@
     {
         "def": "Possess?", 
         "id": 2414, 
-        "word": "Do you have â¦?"
+        "word": "Do you have âŚ?"
     }, 
     {
         "def": "Expression used when a person remembers that he has forgotten something.", 
@@ -11970,7 +11970,7 @@
         "word": "theatre"
     }, 
     {
-        "def": "Cinematographic work, a film by AlmodÃÂ³var.", 
+        "def": "Cinematographic work, a film by AlmodĂÂłvar.", 
         "id": 2461, 
         "word": "film"
     }, 
@@ -12580,7 +12580,7 @@
         "word": "toy box"
     }, 
     {
-        "def": "Recipient of various shapes and used to host tamaaÃÂ±os surprises.", 
+        "def": "Recipient of various shapes and used to host tamaaĂÂąos surprises.", 
         "id": 2593, 
         "word": "box of surprises"
     }, 
@@ -12950,7 +12950,7 @@
         "word": "alter"
     }, 
     {
-        "def": "m. EspÃÂ­ritu heavenly creator for su Dios ministry.", 
+        "def": "m. EspĂÂ­ritu heavenly creator for su Dios ministry.", 
         "id": 2667, 
         "word": "angel"
     }, 
@@ -13615,7 +13615,7 @@
         "word": "trap"
     }, 
     {
-        "def": "Tr., Intr. and prnl. Increase, to grow the size, number or area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂsomething.", 
+        "def": "Tr., Intr. and prnl. Increase, to grow the size, number or area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂsomething.", 
         "id": 2825, 
         "word": "increase"
     }, 
@@ -14550,7 +14550,7 @@
         "word": "milk"
     }, 
     {
-        "def": "f. PapilonÃÂ¡cea annual herbaceous plant, stems branched, lanceolate leaves, white flowers with purple veins and fruit in small pods, with two or three brown seeds shaped disk, which serve as food.", 
+        "def": "f. PapilonĂÂĄcea annual herbaceous plant, stems branched, lanceolate leaves, white flowers with purple veins and fruit in small pods, with two or three brown seeds shaped disk, which serve as food.", 
         "id": 3024, 
         "word": "lentils"
     }, 
@@ -14635,7 +14635,7 @@
         "word": "banana"
     }, 
     {
-        "def": "Family Tree of platanÃÂ¡ceas, high-rise, wide trunk and flowers in globose inflorescences, and is used as an ornamental in the streets and walks.", 
+        "def": "Family Tree of platanĂÂĄceas, high-rise, wide trunk and flowers in globose inflorescences, and is used as an ornamental in the streets and walks.", 
         "id": 3043, 
         "word": "banana tree"
     }, 
@@ -16440,7 +16440,7 @@
         "word": "scales"
     }, 
     {
-        "def": "f. Ball, generally flexible material, hollow or solid, which is used in the fÃÂºtbol.Tiene a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
+        "def": "f. Ball, generally flexible material, hollow or solid, which is used in the fĂÂştbol.Tiene a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
         "id": 3420, 
         "word": "football ball"
     }, 
@@ -16685,7 +16685,7 @@
         "word": "car"
     }, 
     {
-        "def": "m.VagÃÂ³n the subway train.", 
+        "def": "m.VagĂÂłn the subway train.", 
         "id": 3472, 
         "word": "wagon"
     }, 
@@ -18900,7 +18900,7 @@
         "word": "hammock"
     }, 
     {
-        "def": "The same sandwich is often done with special round bread, lettuce and tomato. And French fries: are those that are prepared, sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂor in the form of sticks and frying in hot olive oil until golden b", 
+        "def": "The same sandwich is often done with special round bread, lettuce and tomato. And French fries: are those that are prepared, sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂor in the form of sticks and frying in hot olive oil until golden b", 
         "id": 3941, 
         "word": "hamburger and chips"
     }, 
@@ -19902,7 +19902,7 @@
     {
         "def": "f.Persona maintaining a relationship with another for marriage.", 
         "id": 4156, 
-        "word": "fiancÃ©e"
+        "word": "fiancĂŠe"
     }, 
     {
         "def": "f.Persona maintaining a relationship with another of any kind.", 
@@ -19917,7 +19917,7 @@
     {
         "def": "m. Person who maintains a relationship with another for marriage.", 
         "id": 4159, 
-        "word": "fiancÃ©"
+        "word": "fiancĂŠ"
     }, 
     {
         "def": "With another person who maintains a relationship of any kind.", 
@@ -20395,7 +20395,7 @@
         "word": "tennis ball"
     }, 
     {
-        "def": "f. Ball, generally flexible material, hollow or solid, which is used in the fÃÂºtbol.Tiene a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
+        "def": "f. Ball, generally flexible material, hollow or solid, which is used in the fĂÂştbol.Tiene a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
         "id": 4259, 
         "word": "football"
     }, 
@@ -20635,7 +20635,7 @@
         "word": "disc-jockey"
     }, 
     {
-        "def": "Present in the Antarctic is the largest of all pingÃÂ¼inos.Destacan as great swimmers because of their particular form of protection from cold, on monogamy and peculiar journey made in search of breeding habitat.", 
+        "def": "Present in the Antarctic is the largest of all pingĂÂźinos.Destacan as great swimmers because of their particular form of protection from cold, on monogamy and peculiar journey made in search of breeding habitat.", 
         "id": 4308, 
         "word": "emperor penguin"
     }, 
@@ -21070,7 +21070,7 @@
         "word": "beam"
     }, 
     {
-        "def": "f. Slices, sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂbread, especially", 
+        "def": "f. Slices, sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂbread, especially", 
         "id": 4398, 
         "word": "slices"
     }, 
@@ -21770,7 +21770,7 @@
         "word": "tram"
     }, 
     {
-        "def": "is a paper and pencil game between two players, O and X, which mark the spaces in a 3 ÃÂ 3 board alternately. A player wins if he can have a line of three symbols: the line can be horizontal, vertical or diagonal.", 
+        "def": "is a paper and pencil game between two players, O and X, which mark the spaces in a 3 ĂÂ 3 board alternately. A player wins if he can have a line of three symbols: the line can be horizontal, vertical or diagonal.", 
         "id": 4548, 
         "word": "ticktacktoe"
     }, 
@@ -21810,7 +21810,7 @@
         "word": "horn"
     }, 
     {
-        "def": "ClarÃÂ­n.", 
+        "def": "ClarĂÂ­n.", 
         "id": 4556, 
         "word": "trumpet"
     }, 
@@ -21930,7 +21930,7 @@
         "word": "Germany"
     }, 
     {
-        "def": "It is a Spanish autonomous community of eight provinces: AlmerÃÂ­a, CÃÂ¡diz, CÃÂ³rdoba, Granada, Huelva, Jaen, Malaga and Sevilla. The administrative capital is Seville. It is the most populated autonomous community.", 
+        "def": "It is a Spanish autonomous community of eight provinces: AlmerĂÂ­a, CĂÂĄdiz, CĂÂłrdoba, Granada, Huelva, Jaen, Malaga and Sevilla. The administrative capital is Seville. It is the most populated autonomous community.", 
         "id": 4582, 
         "word": "Andalusia"
     }, 
@@ -21975,7 +21975,7 @@
         "word": "Slovenia"
     }, 
     {
-        "def": "It is a Spanish region, located on the northeast corner of the Cantabrian fringe, bordering the north by the Bay of Biscay and France, the south by La Rioja and Castilla y LeÃÂ³n, west to the Autonomous Community of Cantabria and east by the Communit", 
+        "def": "It is a Spanish region, located on the northeast corner of the Cantabrian fringe, bordering the north by the Bay of Biscay and France, the south by La Rioja and Castilla y LeĂÂłn, west to the Autonomous Community of Cantabria and east by the Communit", 
         "id": 4595, 
         "word": "Basque Country"
     }, 
@@ -21990,7 +21990,7 @@
         "word": "Italy"
     }, 
     {
-        "def": "It is a country in Asia consists of an archipelago located between the Pacific Ocean and the Sea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂJapan, east of the Korean peninsula. Known as the \"Land of the Rising Sun\" is an economic powerhous", 
+        "def": "It is a country in Asia consists of an archipelago located between the Pacific Ocean and the Sea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂJapan, east of the Korean peninsula. Known as the \"Land of the Rising Sun\" is an economic powerhous", 
         "id": 4600, 
         "word": "Japan"
     }, 
@@ -22025,7 +22025,7 @@
         "word": "Saturn"
     }, 
     {
-        "def": "Europe is a country that is part of the Union Europea.EstÃÂ¡ located in northern Europe, in the eastern part of the Scandinavian peninsula. Bordered on the north by Norway and Finland, east to Finland and the Gulf of Bothnia, the Baltic Sea south and", 
+        "def": "Europe is a country that is part of the Union Europea.EstĂÂĄ located in northern Europe, in the eastern part of the Scandinavian peninsula. Bordered on the north by Norway and Finland, east to Finland and the Gulf of Bothnia, the Baltic Sea south and", 
         "id": 4608, 
         "word": "Sweden"
     }, 
@@ -22062,7 +22062,7 @@
     {
         "def": "adj. Obsessed, dominated by a passion blind hatred.", 
         "id": 4617, 
-        "word": "blinded by â¦"
+        "word": "blinded by âŚ"
     }, 
     {
         "def": "f. Instrument consisting of a wide blade of steel, a single cut, with the handle to handle", 
@@ -22295,7 +22295,7 @@
         "word": "A"
     }, 
     {
-        "def": "f. Second letter of the Spanish alphabet and first of his name is consonant mayÃÂºsculas.Su be.", 
+        "def": "f. Second letter of the Spanish alphabet and first of his name is consonant mayĂÂşsculas.Su be.", 
         "id": 4678, 
         "word": "B"
     }, 
@@ -22640,7 +22640,7 @@
         "word": "number twenty-one"
     }, 
     {
-        "def": "f. Twenty-sixth letter of the Spanish alphabet, and twenty-third international Latin order, used to voices from abroad. In languages ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂwhere there as a phoneme, the joint is now in or glide, as in Engl", 
+        "def": "f. Twenty-sixth letter of the Spanish alphabet, and twenty-third international Latin order, used to voices from abroad. In languages ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂwhere there as a phoneme, the joint is now in or glide, as in Engl", 
         "id": 4751, 
         "word": "W"
     }, 
@@ -24152,7 +24152,7 @@
     {
         "def": "At the beginning of a sentence enhancer has value, but what form of rain!", 
         "id": 5062, 
-        "word": "yes butâ¦"
+        "word": "yes butâŚ"
     }, 
     {
         "def": "m. Default difficulty or objection quibble.", 
@@ -24660,12 +24660,12 @@
         "word": "lightning"
     }, 
     {
-        "def": "Each one of the lines, usually straight, that part of the world that produces a particular form of enrgÃÂ­a and point the direction in which the spreads: the laser beam.", 
+        "def": "Each one of the lines, usually straight, that part of the world that produces a particular form of enrgĂÂ­a and point the direction in which the spreads: the laser beam.", 
         "id": 5165, 
         "word": "beam"
     }, 
     {
-        "def": "adj. and com. A supporter of Realism: GaldÃÂ³s and ClarÃÂ­n were realists.", 
+        "def": "adj. and com. A supporter of Realism: GaldĂÂłs and ClarĂÂ­n were realists.", 
         "id": 5166, 
         "word": "realists"
     }, 
@@ -25210,7 +25210,7 @@
         "word": "solution"
     }, 
     {
-        "def": "MAT. Result that satisfied the requirements of a problem or an equation: the teacher values ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂboth the development of the problem and the solution.", 
+        "def": "MAT. Result that satisfied the requirements of a problem or an equation: the teacher values ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂboth the development of the problem and the solution.", 
         "id": 5282, 
         "word": "solution"
     }, 
@@ -25855,7 +25855,7 @@
         "word": "some"
     }, 
     {
-        "def": "f. Plant orquidÃÂ¡cea American, very long, gnarled stems, oval entire leaves, flowers large, greenish, and capsular fruit in the form bean, which contains many seeds, vanilla is a climbing plant.", 
+        "def": "f. Plant orquidĂÂĄcea American, very long, gnarled stems, oval entire leaves, flowers large, greenish, and capsular fruit in the form bean, which contains many seeds, vanilla is a climbing plant.", 
         "id": 5412, 
         "word": "vanilla"
     }, 
@@ -26210,7 +26210,7 @@
         "word": "tutor"
     }, 
     {
-        "def": "Encounter or meeting between a teacher and one or more of its students in order to exchange information, analyze, guide and evaluate a problem or project, discuss a topic, discuss an issue ... ÃÂºltil of academic and professional student.", 
+        "def": "Encounter or meeting between a teacher and one or more of its students in order to exchange information, analyze, guide and evaluate a problem or project, discuss a topic, discuss an issue ... ĂÂşltil of academic and professional student.", 
         "id": 5483, 
         "word": "tutorship"
     }, 
@@ -26250,7 +26250,7 @@
         "word": "subjects"
     }, 
     {
-        "def": "Iberian Romance language group. It is one of the six official languages ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂof the Organization of the United Nations. It is the third language in number of speakers in the world with 440 million people ", 
+        "def": "Iberian Romance language group. It is one of the six official languages ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂof the Organization of the United Nations. It is the third language in number of speakers in the world with 440 million people ", 
         "id": 5492, 
         "word": "Spanish"
     }, 
@@ -26347,7 +26347,7 @@
     {
         "def": "Group of individuals that they have also obtained a diploma, degree or job: I have dinner today with my class.", 
         "id": 5511, 
-        "word": "class of â¦"
+        "word": "class of âŚ"
     }, 
     {
         "def": "Stay one more year in a course.", 
@@ -26355,7 +26355,7 @@
         "word": "repeat"
     }, 
     {
-        "def": "Note that values ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂwith a test or work done by students.", 
+        "def": "Note that values ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂwith a test or work done by students.", 
         "id": 5513, 
         "word": "mark"
     }, 
@@ -27275,7 +27275,7 @@
         "word": "tube bender "
     }, 
     {
-        "def": "Practice hand tool for bending pipes up to 90 ÃÂ°.", 
+        "def": "Practice hand tool for bending pipes up to 90 ĂÂ°.", 
         "id": 5699, 
         "word": "socket wrench set"
     }, 
@@ -27365,7 +27365,7 @@
         "word": "silver solder"
     }, 
     {
-        "def": "This solder has extraordinary properties for both hot water pipes and heating sanitary. With this alloy the temperature can reach 175 ÃÂ° C without altering its properties. The use of this alloy eliminates the danger of developing harmful compounds ", 
+        "def": "This solder has extraordinary properties for both hot water pipes and heating sanitary. With this alloy the temperature can reach 175 ĂÂ° C without altering its properties. The use of this alloy eliminates the danger of developing harmful compounds ", 
         "id": 5717, 
         "word": "shower tube"
     }, 
@@ -27790,7 +27790,7 @@
         "word": "cypress tree"
     }, 
     {
-        "def": "m. Family tree of the Cupressaceae, which reaches 15 to 20 m tall, with straight trunk, branches erect and short, thick, conical crown, small leaves in overlapping rows, persistent and dark green, yellow terminal flowers, and fruits gÃÂ¡lbulas about ", 
+        "def": "m. Family tree of the Cupressaceae, which reaches 15 to 20 m tall, with straight trunk, branches erect and short, thick, conical crown, small leaves in overlapping rows, persistent and dark green, yellow terminal flowers, and fruits gĂÂĄlbulas about ", 
         "id": 5807, 
         "word": "paved"
     }, 
@@ -27995,7 +27995,7 @@
         "word": "Cordoba"
     }, 
     {
-        "def": "Cordoba is a province of southern Spain, in north-central part of the autonomous community of Andalusia. It borders the provinces of Malaga, Sevilla, Badajoz, Ciudad Real, JaÃÂ©n, and Granada. Its capital is CÃÂ³rdoba.Su area is 13,769 km Ã", 
+        "def": "Cordoba is a province of southern Spain, in north-central part of the autonomous community of Andalusia. It borders the provinces of Malaga, Sevilla, Badajoz, Ciudad Real, JaĂÂŠn, and Granada. Its capital is CĂÂłrdoba.Su area is 13,769 km Ă", 
         "id": 5848, 
         "word": "belt"
     }, 
@@ -28030,7 +28030,7 @@
         "word": "Cuenca"
     }, 
     {
-        "def": "Cuenca is a province of central Spain, in the eastern part of the autonomous community of Castilla-La Mancha. Its extension occupies 17,061 km ÃÂ². It borders the provinces of Valencia, Albacete, Ciudad Real, Toledo, Madrid, Guadalajara, and Teruel.", 
+        "def": "Cuenca is a province of central Spain, in the eastern part of the autonomous community of Castilla-La Mancha. Its extension occupies 17,061 km ĂÂ˛. It borders the provinces of Valencia, Albacete, Ciudad Real, Toledo, Madrid, Guadalajara, and Teruel.", 
         "id": 5855, 
         "word": "diet"
     }, 
@@ -28320,7 +28320,7 @@
         "word": "apricot"
     }, 
     {
-        "def": "m. QuÃÂ­m. Each of the organic compounds containing the hydroxyl group attached to an aliphatic or any of its derivatives.", 
+        "def": "m. QuĂÂ­m. Each of the organic compounds containing the hydroxyl group attached to an aliphatic or any of its derivatives.", 
         "id": 5914, 
         "word": "alcohol"
     }, 
@@ -28400,7 +28400,7 @@
         "word": "sponge cake"
     }, 
     {
-        "def": "f. Annual plant of the family BorraginÃÂ¡ceas, 20 to 60 cm tall, with thick stems and branches, large, ovate leaves, blue flowers arranged in bunches and very tiny seed. Is covered rough hairs and stabbing is edible and infusion flowers used as sudor", 
+        "def": "f. Annual plant of the family BorraginĂÂĄceas, 20 to 60 cm tall, with thick stems and branches, large, ovate leaves, blue flowers arranged in bunches and very tiny seed. Is covered rough hairs and stabbing is edible and infusion flowers used as sudor", 
         "id": 5930, 
         "word": "borage"
     }, 
@@ -28640,7 +28640,7 @@
         "word": "surgeon"
     }, 
     {
-        "def": "m. coconut (tree palmÃÂ¡ceo).", 
+        "def": "m. coconut (tree palmĂÂĄceo).", 
         "id": 5979, 
         "word": "coconut palm"
     }, 
@@ -28765,7 +28765,7 @@
         "word": "swimmer"
     }, 
     {
-        "def": "m. Tree family RutÃÂ¡ceas four to six meters height evergreen flowery fruiting trunk smooth and branched; open canopy alternate leaves oval hard lustrous pecioladas and beautiful green. It originated in Asia and widely cultivated in Spain. Its flower", 
+        "def": "m. Tree family RutĂÂĄceas four to six meters height evergreen flowery fruiting trunk smooth and branched; open canopy alternate leaves oval hard lustrous pecioladas and beautiful green. It originated in Asia and widely cultivated in Spain. Its flower", 
         "id": 6011, 
         "word": "orange tree"
     }, 
@@ -28787,7 +28787,7 @@
     {
         "def": "Seventeenth alphabet letter Spanish, representing consonantal phoneme articulation nasal and palatal. His name is Jan.", 
         "id": 6015, 
-        "word": "Ã"
+        "word": "Ă"
     }, 
     {
         "def": "m. Family tree of the Oleaceae, with short trunk, thick and twisted, and ramosa wide glass that rises to four or five feet, leathery evergreen, opposite, elliptic, entire, narrow, pointed, glossy green on upper and whitish below, white flowers, small, in ", 
@@ -28825,7 +28825,7 @@
         "word": "pilot"
     }, 
     {
-        "def": "m. Tree family AbietÃÂ¡ceas with male flowers and feminine separate different branches. Its pineapple fruit, seed and pinion. Its trunk, elevated and rectum contains turpentine leaves very narrow pointy and stabbing persist winter and are gathered by", 
+        "def": "m. Tree family AbietĂÂĄceas with male flowers and feminine separate different branches. Its pineapple fruit, seed and pinion. Its trunk, elevated and rectum contains turpentine leaves very narrow pointy and stabbing persist winter and are gathered by", 
         "id": 6023, 
         "word": "pine tree"
     }, 
@@ -28855,7 +28855,7 @@
         "word": "weeping willow tree"
     }, 
     {
-        "def": "m. Mat. Sign of the sum or addition. (SÃÂ­mb. +).", 
+        "def": "m. Mat. Sign of the sum or addition. (SĂÂ­mb. +).", 
         "id": 6029, 
         "word": "sign"
     }, 
@@ -28950,7 +28950,7 @@
         "word": "type of mandolin "
     }, 
     {
-        "def": "TazÃÂ³n sin so.", 
+        "def": "TazĂÂłn sin so.", 
         "id": 6048, 
         "word": "bowl"
     }, 
@@ -29507,7 +29507,7 @@
     {
         "def": "Spanish seventeenth letter of the alphabet, representing a consonant phoneme and palatal nasal articulation. His name is Jan.", 
         "id": 6161, 
-        "word": "Ã±"
+        "word": "Ăą"
     }, 
     {
         "def": "Sign chart pipe (|) u oblicuo (/) used to separate.", 
@@ -30255,7 +30255,7 @@
         "word": "sun lounger"
     }, 
     {
-        "def": "PÃÂ¡jaro having about half meter long and some six decimetres wingspan, spouted and feet blackish and plumage white below and Booting wings and black to reflexes metallic rest of body. Abundant in Spain, are easily domesticated, it is blatant, mimick", 
+        "def": "PĂÂĄjaro having about half meter long and some six decimetres wingspan, spouted and feet blackish and plumage white below and Booting wings and black to reflexes metallic rest of body. Abundant in Spain, are easily domesticated, it is blatant, mimick", 
         "id": 6320, 
         "word": "magpie"
     }, 
@@ -31045,14 +31045,14 @@
         "word": "bike wheel"
     }, 
     {
-        "def": "Flag of Aragon is the traditional Senyal Real de los Reyes de AragÃÂ³n, which was formerly used only by the King, as expressive of their sovereignty.", 
+        "def": "Flag of Aragon is the traditional Senyal Real de los Reyes de AragĂÂłn, which was formerly used only by the King, as expressive of their sovereignty.", 
         "id": 6493, 
         "word": "Flag of Aragon"
     }, 
     {
-        "def": "AljaferÃÂ­a is a fortified palace built in the second half of the eleventh century during the reign of Al-Muqtadir in Zaragoza as a residence of kings Hudi, reflecting the splendor achieved by the Taifa kingdom of Saraqusta at the time of his politic", 
+        "def": "AljaferĂÂ­a is a fortified palace built in the second half of the eleventh century during the reign of Al-Muqtadir in Zaragoza as a residence of kings Hudi, reflecting the splendor achieved by the Taifa kingdom of Saraqusta at the time of his politic", 
         "id": 6505, 
-        "word": "AljaferÃ­a castle"
+        "word": "AljaferĂ­a castle"
     }, 
     {
         "def": "Loarre Castle is a Romanesque castle located on the Sierra de Loarre, Spain (about 35 miles from Huesca). Since its position has control over all the plain of the Hoya de Huesca and in particular on Bolea, principal Muslim place in the area and he control", 
@@ -31075,7 +31075,7 @@
         "word": "bagpipes"
     }, 
     {
-        "def": "Huesca is a province of northern Spain, in the northern part of the autonomous community of Aragon. It borders the provinces of Lleida, Zaragoza and Navarra, and France (department of PyrÃÂ©nÃÂ©es Atlantiques, Hautes-Pyrenees Haute-Garonne).", 
+        "def": "Huesca is a province of northern Spain, in the northern part of the autonomous community of Aragon. It borders the provinces of Lleida, Zaragoza and Navarra, and France (department of PyrĂÂŠnĂÂŠes Atlantiques, Hautes-Pyrenees Haute-Garonne).", 
         "id": 6510, 
         "word": "Huesca province"
     }, 
@@ -31085,7 +31085,7 @@
         "word": "flower offering"
     }, 
     {
-        "def": "The Pyrenees, or the Pyrenees and its inhabitants prefer to call referring to a part or region thereof (French: PyrÃÂ©nÃÂ©es; Catalan: Pyrenees, Gascony: Pireneus, Aragonese: Perineus; Euskara: Pirinioak or AuÃÂ±amendiak) are a mountain ran", 
+        "def": "The Pyrenees, or the Pyrenees and its inhabitants prefer to call referring to a part or region thereof (French: PyrĂÂŠnĂÂŠes; Catalan: Pyrenees, Gascony: Pireneus, Aragonese: Perineus; Euskara: Pirinioak or AuĂÂąamendiak) are a mountain ran", 
         "id": 6516, 
         "word": "Pyrenees"
     }, 
@@ -31175,7 +31175,7 @@
         "word": "hack saw"
     }, 
     {
-        "def": "A tubillÃÂ³n is a small cylinder of hardwood used available in different lengths and diameters. Along its length are channels that are used to collect excess glue used in binding. The diameter of tubillÃÂ³n coincide with the hole where it will s", 
+        "def": "A tubillĂÂłn is a small cylinder of hardwood used available in different lengths and diameters. Along its length are channels that are used to collect excess glue used in binding. The diameter of tubillĂÂłn coincide with the hole where it will s", 
         "id": 6537, 
         "word": "wooden dowel"
     }, 
@@ -31685,7 +31685,7 @@
         "word": "reductions"
     }, 
     {
-        "def": "Sell ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂstocks at lower prices during a given time.", 
+        "def": "Sell ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂstocks at lower prices during a given time.", 
         "id": 6649, 
         "word": "sales"
     }, 
@@ -33135,7 +33135,7 @@
         "word": "armor"
     }, 
     {
-        "def": "is a province of northern Spain, in the northern part of the autonomous community of Aragon. It borders the provinces of Lleida, Zaragoza and Navarra, and France (department of PyrÃÂ©nÃÂ©es Atlantiques, Hautes-Pyrenees Haute-Garonne).", 
+        "def": "is a province of northern Spain, in the northern part of the autonomous community of Aragon. It borders the provinces of Lleida, Zaragoza and Navarra, and France (department of PyrĂÂŠnĂÂŠes Atlantiques, Hautes-Pyrenees Haute-Garonne).", 
         "id": 6894, 
         "word": "Huesca province"
     }, 
@@ -33145,9 +33145,9 @@
         "word": "more"
     }, 
     {
-        "def": "The Monasterio de San Juan de la PeÃÂ±a is located southwest of Jaca, Huesca, AragÃÂ³n (Spain), is the most important monastery of Aragon in the Middle Ages.", 
+        "def": "The Monasterio de San Juan de la PeĂÂąa is located southwest of Jaca, Huesca, AragĂÂłn (Spain), is the most important monastery of Aragon in the Middle Ages.", 
         "id": 6896, 
-        "word": "San Juan de la PeÃ±a Monastery"
+        "word": "San Juan de la PeĂąa Monastery"
     }, 
     {
         "def": "The local police (or city) is a police organization whose scope (jurisdiction) is limited to the municipality governed by the municipality to which they belong.", 
@@ -33160,12 +33160,12 @@
         "word": "Teruel province"
     }, 
     {
-        "def": "Zaragoza is a province of northern Spain, situated in the center of the autonomous community of Aragon. It covers an area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ17,274 km ÃÂÃÂ². In 2007 the population was 932,502 inhabitan", 
+        "def": "Zaragoza is a province of northern Spain, situated in the center of the autonomous community of Aragon. It covers an area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂ17,274 km ĂÂĂÂ˛. In 2007 the population was 932,502 inhabitan", 
         "id": 6899, 
         "word": "Zaragoza province"
     }, 
     {
-        "def": "Flag of Aragon is the traditional Senyal Real de los Reyes de AragÃÂ³n, which was formerly used only by the King, as expressive of their sovereignty. There is documentation that proves conclusively that it was used since the times of Alfonso II, bein", 
+        "def": "Flag of Aragon is the traditional Senyal Real de los Reyes de AragĂÂłn, which was formerly used only by the King, as expressive of their sovereignty. There is documentation that proves conclusively that it was used since the times of Alfonso II, bein", 
         "id": 6900, 
         "word": "Aragon flag"
     }, 
@@ -34795,7 +34795,7 @@
         "word": "cooking show"
     }, 
     {
-        "def": "f. EletrodomÃÂ©stico to brew coffee quickly.", 
+        "def": "f. EletrodomĂÂŠstico to brew coffee quickly.", 
         "id": 7220, 
         "word": "coffee-maker"
     }, 
@@ -34945,7 +34945,7 @@
         "word": "cat food"
     }, 
     {
-        "def": "f. Food for PÃÂ¡jaros", 
+        "def": "f. Food for PĂÂĄjaros", 
         "id": 7249, 
         "word": "bird food"
     }, 
@@ -36585,7 +36585,7 @@
         "word": "lard"
     }, 
     {
-        "def": "prnl. Such a person or animal: uneasy, turbÃÂ¡rsele revolvÃÂ©rsele head and stomach, which usually happens with the movement of the ship or the carriage and also at the beginning or the course of some diseases.", 
+        "def": "prnl. Such a person or animal: uneasy, turbĂÂĄrsele revolvĂÂŠrsele head and stomach, which usually happens with the movement of the ship or the carriage and also at the beginning or the course of some diseases.", 
         "id": 7562, 
         "word": "to feel dizzy"
     }, 
@@ -36625,12 +36625,12 @@
         "word": "a big upset"
     }, 
     {
-        "def": "adj. Computing (calculated ÃÂ¢ÃÂÃÂ). U. tcs", 
+        "def": "adj. Computing (calculated ĂÂ˘ĂÂĂÂ). U. tcs", 
         "id": 7570, 
         "word": "computer"
     }, 
     {
-        "def": "adj. Computing (calculated ÃÂ¢ÃÂÃÂ). U. tcs", 
+        "def": "adj. Computing (calculated ĂÂ˘ĂÂĂÂ). U. tcs", 
         "id": 7571, 
         "word": "computer"
     }, 
@@ -36655,7 +36655,7 @@
         "word": "father"
     }, 
     {
-        "def": "m. dog (canine mammal ÃÂ¢ÃÂÃÂ).", 
+        "def": "m. dog (canine mammal ĂÂ˘ĂÂĂÂ).", 
         "id": 7576, 
         "word": "dog"
     }, 
@@ -36755,7 +36755,7 @@
         "word": "defense"
     }, 
     {
-        "def": "intr. Down (ÃÂ¢ÃÂÃÂ go from one place to another lower).", 
+        "def": "intr. Down (ĂÂ˘ĂÂĂÂ go from one place to another lower).", 
         "id": 7594, 
         "word": "to descend"
     }, 
@@ -36770,7 +36770,7 @@
         "word": "grove"
     }, 
     {
-        "def": "f. Mail (ÃÂ¢ÃÂÃÂ set of cards that are shipped or received).", 
+        "def": "f. Mail (ĂÂ˘ĂÂĂÂ set of cards that are shipped or received).", 
         "id": 7597, 
         "word": "mail"
     }, 
@@ -36805,7 +36805,7 @@
         "word": "heavenly body"
     }, 
     {
-        "def": "m. wind (air current ÃÂ¢ÃÂÃÂ).", 
+        "def": "m. wind (air current ĂÂ˘ĂÂĂÂ).", 
         "id": 7605, 
         "word": "wind"
     }, 
@@ -37085,7 +37085,7 @@
         "word": "to ring"
     }, 
     {
-        "def": "intr. telephone (ÃÂ¢ÃÂÃÂ establish a telephone).", 
+        "def": "intr. telephone (ĂÂ˘ĂÂĂÂ establish a telephone).", 
         "id": 7661, 
         "word": "to phone"
     }, 
@@ -37350,7 +37350,7 @@
         "word": "to moor"
     }, 
     {
-        "def": "AljaferÃÂ­a is a fortified palace built in the second half of the eleventh century during the reign of Al-Muqtadir in Zaragoza as a residence of kings Hudi, reflecting the splendor achieved by the Taifa kingdom of Saraqusta at the time of his politic", 
+        "def": "AljaferĂÂ­a is a fortified palace built in the second half of the eleventh century during the reign of Al-Muqtadir in Zaragoza as a residence of kings Hudi, reflecting the splendor achieved by the Taifa kingdom of Saraqusta at the time of his politic", 
         "id": 7726, 
         "word": "Aljaferia Castle"
     }, 
@@ -37370,7 +37370,7 @@
         "word": "La Seo Cathedral"
     }, 
     {
-        "def": "tr. start (ÃÂ¢ÃÂÃÂ to start to something.)", 
+        "def": "tr. start (ĂÂ˘ĂÂĂÂ to start to something.)", 
         "id": 7730, 
         "word": "to start"
     }, 
@@ -37525,7 +37525,7 @@
         "word": "analysis"
     }, 
     {
-        "def": "tr. get (ÃÂ¢ÃÂÃÂ put something out where it was).", 
+        "def": "tr. get (ĂÂ˘ĂÂĂÂ put something out where it was).", 
         "id": 7762, 
         "word": "to extract"
     }, 
@@ -37755,7 +37755,7 @@
         "word": "embarrassment"
     }, 
     {
-        "def": "tr. Causar vergÃÂ¼enza.", 
+        "def": "tr. Causar vergĂÂźenza.", 
         "id": 7808, 
         "word": "to embarrass"
     }, 
@@ -37880,7 +37880,7 @@
         "word": "hole"
     }, 
     {
-        "def": "prnl. Such a person or animal: uneasy, turbÃÂ¡rsele revolvÃÂ©rsele head and stomach, which usually happens with the movement of the ship or the carriage and also at the beginning or the course of some diseases.", 
+        "def": "prnl. Such a person or animal: uneasy, turbĂÂĄrsele revolvĂÂŠrsele head and stomach, which usually happens with the movement of the ship or the carriage and also at the beginning or the course of some diseases.", 
         "id": 7833, 
         "word": "to feel sick"
     }, 
@@ -38250,7 +38250,7 @@
         "word": "Pilar's Virgin"
     }, 
     {
-        "def": "Joseph of Nazareth was, according to the Christian religion, the husband of Mary, the mother of Jesus of Nazareth and, therefore, foster father of Jesus. Was a carpenter by trade, a profession he taught his son and humble. San JosÃÂ© is represented f", 
+        "def": "Joseph of Nazareth was, according to the Christian religion, the husband of Mary, the mother of Jesus of Nazareth and, therefore, foster father of Jesus. Was a carpenter by trade, a profession he taught his son and humble. San JosĂÂŠ is represented f", 
         "id": 7907, 
         "word": "Joseph"
     }, 
@@ -38475,7 +38475,7 @@
         "word": "pressure cooker"
     }, 
     {
-        "def": "f. A climbing perennial plant and the family of VitÃÂ¡ceas, with twisted trunks, stems very long, flexible and gnarled, leaves alternate, petiolate, large and split into five lobes pointed, greenish flowers in clusters, and whose fruit is grapes. Ori", 
+        "def": "f. A climbing perennial plant and the family of VitĂÂĄceas, with twisted trunks, stems very long, flexible and gnarled, leaves alternate, petiolate, large and split into five lobes pointed, greenish flowers in clusters, and whose fruit is grapes. Ori", 
         "id": 7952, 
         "word": "vine"
     }, 
@@ -38985,7 +38985,7 @@
         "word": "to suppose"
     }, 
     {
-        "def": "tr. Having a clear idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂthings", 
+        "def": "tr. Having a clear idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂthings", 
         "id": 8053, 
         "word": "to understand"
     }, 
@@ -39380,7 +39380,7 @@
         "word": "to forget about something"
     }, 
     {
-        "def": "tr. Comment (ÃÂ¢ÃÂÃÂ judgments or considerations).", 
+        "def": "tr. Comment (ĂÂ˘ĂÂĂÂ judgments or considerations).", 
         "id": 8133, 
         "word": "to comment"
     }, 
@@ -39510,7 +39510,7 @@
         "word": "to express oneself"
     }, 
     {
-        "def": "tr. exceed (ÃÂ¢ÃÂÃÂ exceed a limit).", 
+        "def": "tr. exceed (ĂÂ˘ĂÂĂÂ exceed a limit).", 
         "id": 8158, 
         "word": "to exceed"
     }, 
@@ -39940,7 +39940,7 @@
         "word": "to feel oneself"
     }, 
     {
-        "def": "tr. Dar garantÃÂ­a.", 
+        "def": "tr. Dar garantĂÂ­a.", 
         "id": 8241, 
         "word": "to grant"
     }, 
@@ -39975,7 +39975,7 @@
         "word": "to imagine"
     }, 
     {
-        "def": "tr. shopping (with money ÃÂ¢ÃÂÃÂ).", 
+        "def": "tr. shopping (with money ĂÂ˘ĂÂĂÂ).", 
         "id": 8248, 
         "word": "to purchase"
     }, 
@@ -40095,7 +40095,7 @@
         "word": "to negotiate"
     }, 
     {
-        "def": "intr. Trade and commerce, buying and selling or changing genres, goods or values ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂto increase flow.", 
+        "def": "intr. Trade and commerce, buying and selling or changing genres, goods or values ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂto increase flow.", 
         "id": 8272, 
         "word": "to negotiate"
     }, 
@@ -40235,7 +40235,7 @@
         "word": "to grade"
     }, 
     {
-        "def": "tr. suffer (ÃÂ¢ÃÂÃÂ endure, tolerate).", 
+        "def": "tr. suffer (ĂÂ˘ĂÂĂÂ endure, tolerate).", 
         "id": 8300, 
         "word": "to endure"
     }, 
@@ -40260,7 +40260,7 @@
         "word": "to flow"
     }, 
     {
-        "def": "tr. consider (ÃÂ¢ÃÂÃÂ judge).", 
+        "def": "tr. consider (ĂÂ˘ĂÂĂÂ judge).", 
         "id": 8305, 
         "word": "to gaze at"
     }, 
@@ -40445,7 +40445,7 @@
         "word": "to prefer"
     }, 
     {
-        "def": "tr. accept (ÃÂ¢ÃÂÃÂ receive voluntarily).", 
+        "def": "tr. accept (ĂÂ˘ĂÂĂÂ receive voluntarily).", 
         "id": 8342, 
         "word": "to admit"
     }, 
@@ -40520,7 +40520,7 @@
         "word": "to handle"
     }, 
     {
-        "def": "tr. increase (increase ÃÂ¢ÃÂÃÂ). U. prnl tc.", 
+        "def": "tr. increase (increase ĂÂ˘ĂÂĂÂ). U. prnl tc.", 
         "id": 8357, 
         "word": "to incress"
     }, 
@@ -40550,7 +40550,7 @@
         "word": "how"
     }, 
     {
-        "def": "adv. m. In comparative sense denotes idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂequivalence, similarity and equality, and usually means the way or way or manner or way. He is blond like gold. It was as one dead. He met two as clergy o", 
+        "def": "adv. m. In comparative sense denotes idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂequivalence, similarity and equality, and usually means the way or way or manner or way. He is blond like gold. It was as one dead. He met two as clergy o", 
         "id": 8363, 
         "word": "as"
     }, 
@@ -40635,12 +40635,12 @@
         "word": "even though"
     }, 
     {
-        "def": "conj. adverse. but (ÃÂ¢ÃÂÃÂ to oppose a concept to another). I have already three thousand books, but would like to have more. I think now, although I do not know for sure.", 
+        "def": "conj. adverse. but (ĂÂ˘ĂÂĂÂ to oppose a concept to another). I have already three thousand books, but would like to have more. I think now, although I do not know for sure.", 
         "id": 8380, 
         "word": "although"
     }, 
     {
-        "def": "conj. adverse. but (ÃÂ¢ÃÂÃÂ to oppose a concept to another). I have already three thousand books, but would like to have more. I think now, although I do not know for sure.", 
+        "def": "conj. adverse. but (ĂÂ˘ĂÂĂÂ to oppose a concept to another). I have already three thousand books, but would like to have more. I think now, although I do not know for sure.", 
         "id": 8380, 
         "word": "even though"
     }, 
@@ -40650,7 +40650,7 @@
         "word": "other"
     }, 
     {
-        "def": "adv. c. U. to denote the idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂequivalence or equality or when corresponding with as compared expresses. As hard as iron. The punishment was as big as great was the guilt.", 
+        "def": "adv. c. U. to denote the idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂequivalence or equality or when corresponding with as compared expresses. As hard as iron. The punishment was as big as great was the guilt.", 
         "id": 8382, 
         "word": "as"
     }, 
@@ -40690,7 +40690,7 @@
         "word": "state"
     }, 
     {
-        "def": "conj. adverse. Denotes idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂemergency. Nobody knows but Antonio.", 
+        "def": "conj. adverse. Denotes idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂemergency. Nobody knows but Antonio.", 
         "id": 8390, 
         "word": "but"
     }, 
@@ -41495,7 +41495,7 @@
         "word": "good"
     }, 
     {
-        "def": "f. pl.TratÃÂ¡ndose book, volume or volumes containing a complete literary work, have published an edition of the work of Baroja.", 
+        "def": "f. pl.TratĂÂĄndose book, volume or volumes containing a complete literary work, have published an edition of the work of Baroja.", 
         "id": 8550, 
         "word": "works"
     }, 
@@ -41515,7 +41515,7 @@
         "word": "division"
     }, 
     {
-        "def": "prep. which, prefixed to personal names, their positions or qualities, denotes that you no longer had and have the person who is speaking: former minister, exmonÃÂ¡rquico, ex-husband.", 
+        "def": "prep. which, prefixed to personal names, their positions or qualities, denotes that you no longer had and have the person who is speaking: former minister, exmonĂÂĄrquico, ex-husband.", 
         "id": 8554, 
         "word": "former"
     }, 
@@ -41695,7 +41695,7 @@
         "word": "research"
     }, 
     {
-        "def": "f. Common name for various species of trees fagÃÂ¡ceos up to 40 m tall, trunk thick, smooth gray bark and branches of great height with oval leaves, cup-shaped beech wide dome.", 
+        "def": "f. Common name for various species of trees fagĂÂĄceos up to 40 m tall, trunk thick, smooth gray bark and branches of great height with oval leaves, cup-shaped beech wide dome.", 
         "id": 8589, 
         "word": "beech"
     }, 
@@ -42360,12 +42360,12 @@
         "word": "management"
     }, 
     {
-        "def": "f.DosificaciÃÂ³n of something: money management.", 
+        "def": "f.DosificaciĂÂłn of something: money management.", 
         "id": 8722, 
         "word": "management"
     }, 
     {
-        "def": "f.AplicaciÃÂ³n a drug: administration of antibiotics.", 
+        "def": "f.AplicaciĂÂłn a drug: administration of antibiotics.", 
         "id": 8723, 
         "word": "administration"
     }, 
@@ -42920,7 +42920,7 @@
         "word": "living thing"
     }, 
     {
-        "def": "Central European country that is part of the European Union (EU). It borders Austria, Slovakia, Ukraine, Romania, Serbia, Croatia and Slovenia. It is locally called Land of the Magyars or MagyarorszÃÂ¡g. Along with Poland, Slovakia and the Czech Repu", 
+        "def": "Central European country that is part of the European Union (EU). It borders Austria, Slovakia, Ukraine, Romania, Serbia, Croatia and Slovenia. It is locally called Land of the Magyars or MagyarorszĂÂĄg. Along with Poland, Slovakia and the Czech Repu", 
         "id": 8833, 
         "word": "Hungary"
     }, 
@@ -43035,7 +43035,7 @@
         "word": "waning"
     }, 
     {
-        "def": "New Moon, also called \"new moon\" or \"interlunio\" is a lunar phase that occurs when the moon is located exactly between the Earth and the Sun, so its sunlit hemisphere can not be seen from Earth. At that time his or elongation phase angle is 0 ÃÂ° an", 
+        "def": "New Moon, also called \"new moon\" or \"interlunio\" is a lunar phase that occurs when the moon is located exactly between the Earth and the Sun, so its sunlit hemisphere can not be seen from Earth. At that time his or elongation phase angle is 0 ĂÂ° an", 
         "id": 8855, 
         "word": "new moon"
     }, 
@@ -43305,7 +43305,7 @@
         "word": "shares"
     }, 
     {
-        "def": "m. Aire o atmÃÂ³sfera.", 
+        "def": "m. Aire o atmĂÂłsfera.", 
         "id": 8909, 
         "word": "atmosphere"
     }, 
@@ -43350,7 +43350,7 @@
         "word": "formation"
     }, 
     {
-        "def": "f.EducaciÃÂ³n, instruction, has a scientific background.", 
+        "def": "f.EducaciĂÂłn, instruction, has a scientific background.", 
         "id": 8918, 
         "word": "formation"
     }, 
@@ -43365,12 +43365,12 @@
         "word": "combat formation"
     }, 
     {
-        "def": "m.. By ideological or moral principles that guide a society: its scale of values ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂis unconventional.", 
+        "def": "m.. By ideological or moral principles that guide a society: its scale of values ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂis unconventional.", 
         "id": 8921, 
         "word": "values"
     }, 
     {
-        "def": "m. Representative or book-entry securities account of participation in companies, borrowed amounts of goods, deposits and money market funds, futures, options, etc.., Which are the subject of commercial transactions. The values ÃÂ¢ÃÂÃÂ", 
+        "def": "m. Representative or book-entry securities account of participation in companies, borrowed amounts of goods, deposits and money market funds, futures, options, etc.., Which are the subject of commercial transactions. The values ĂÂ˘ĂÂĂÂ", 
         "id": 8922, 
         "word": "stocks"
     }, 
@@ -43415,7 +43415,7 @@
         "word": "article"
     }, 
     {
-        "def": "m. Written in a certain area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂa newspaper, magazine or journal: published an article in a journal.", 
+        "def": "m. Written in a certain area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂa newspaper, magazine or journal: published an article in a journal.", 
         "id": 8931, 
         "word": "article"
     }, 
@@ -43805,7 +43805,7 @@
         "word": "consumption"
     }, 
     {
-        "def": "m.UtilizaciÃÂ³n or expense: in times of drought is to reduce water consumption.", 
+        "def": "m.UtilizaciĂÂłn or expense: in times of drought is to reduce water consumption.", 
         "id": 9011, 
         "word": "consumption"
     }, 
@@ -43845,7 +43845,7 @@
         "word": "industry"
     }, 
     {
-        "def": "f.InstalaciÃÂ³n involved in these operations: Today we visit a shoe industry.", 
+        "def": "f.InstalaciĂÂłn involved in these operations: Today we visit a shoe industry.", 
         "id": 9019, 
         "word": "industry"
     }, 
@@ -43855,7 +43855,7 @@
         "word": "industry"
     }, 
     {
-        "def": "adv.MÃÂ¡s there. The enemy blocks the way, we can not go forward.", 
+        "def": "adv.MĂÂĄs there. The enemy blocks the way, we can not go forward.", 
         "id": 9021, 
         "word": "forward"
     }, 
@@ -44470,17 +44470,17 @@
         "word": "penalty area"
     }, 
     {
-        "def": "f. Set of subjects that are interrelated: the area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂsocial sciences.", 
+        "def": "f. Set of subjects that are interrelated: the area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂsocial sciences.", 
         "id": 9120, 
         "word": "academic field"
     }, 
     {
-        "def": "Geom. Area contained within a perimeter, the area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂa square.", 
+        "def": "Geom. Area contained within a perimeter, the area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂa square.", 
         "id": 9121, 
         "word": "area"
     }, 
     {
-        "def": "Geom. Area contained within a perimeter, the area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂa square.", 
+        "def": "Geom. Area contained within a perimeter, the area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂa square.", 
         "id": 9121, 
         "word": "surface area"
     }, 
@@ -44525,7 +44525,7 @@
         "word": "victory"
     }, 
     {
-        "def": "f.AcciÃÂ³n to use force and intimidation to get something, violently opposed to the eviction.", 
+        "def": "f.AcciĂÂłn to use force and intimidation to get something, violently opposed to the eviction.", 
         "id": 9129, 
         "word": "violence"
     }, 
@@ -44660,7 +44660,7 @@
         "word": "dead"
     }, 
     {
-        "def": "m. Monetary values ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂestimated something.", 
+        "def": "m. Monetary values ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂestimated something.", 
         "id": 9148, 
         "word": "prices"
     }, 
@@ -44985,7 +44985,7 @@
         "word": "fear"
     }, 
     {
-        "def": "f.LÃÂ­nea line divided into equal parts to represent units of measure, used to drawings provided the distances and dimensions in a map, plan, design, etc., and so then calculate the actual measurements with respect to the drawing, make a plan to scal", 
+        "def": "f.LĂÂ­nea line divided into equal parts to represent units of measure, used to drawings provided the distances and dimensions in a map, plan, design, etc., and so then calculate the actual measurements with respect to the drawing, make a plan to scal", 
         "id": 9203, 
         "word": "scale"
     }, 
@@ -45930,7 +45930,7 @@
         "word": "bees"
     }, 
     {
-        "def": "m. pl. Trees AbietÃÂ¡ceas family, reaching up to 50 m high, with tall and straight trunk, bark whitish, conical crown with horizontal branches, needle-like leaves and persistent, inconspicuous flowers and fruit in almost cylindrical cones.", 
+        "def": "m. pl. Trees AbietĂÂĄceas family, reaching up to 50 m high, with tall and straight trunk, bark whitish, conical crown with horizontal branches, needle-like leaves and persistent, inconspicuous flowers and fruit in almost cylindrical cones.", 
         "id": 9367, 
         "word": "firs"
     }, 
@@ -46425,7 +46425,7 @@
         "word": "crustacean"
     }, 
     {
-        "def": "f. Speed ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂstruggle between people who are, guide vehicles or mounted animals.", 
+        "def": "f. Speed ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂstruggle between people who are, guide vehicles or mounted animals.", 
         "id": 9447, 
         "word": "race"
     }, 
@@ -46595,7 +46595,7 @@
         "word": "ophthalmologist"
     }, 
     {
-        "def": "f. OrquidÃÂ¡cea flower plant tropical species whose flowers are appreciated.", 
+        "def": "f. OrquidĂÂĄcea flower plant tropical species whose flowers are appreciated.", 
         "id": 9473, 
         "word": "orchid"
     }, 
@@ -46810,7 +46810,7 @@
         "word": "and"
     }, 
     {
-        "def": "conj. copulate. Denotes idea of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂindefinite repetition, preceded and followed by a single word. Days and days. Letters and cards.", 
+        "def": "conj. copulate. Denotes idea of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂindefinite repetition, preceded and followed by a single word. Days and days. Letters and cards.", 
         "id": 9504, 
         "word": "and"
     }, 
@@ -48082,7 +48082,7 @@
     {
         "def": "tr. Teach someone where to go, put on the road.", 
         "id": 9719, 
-        "word": "to point â¦ in the right direction"
+        "word": "to point âŚ in the right direction"
     }, 
     {
         "def": "adj. Having spots or impurities.", 
@@ -48365,12 +48365,12 @@
         "word": "basketballs"
     }, 
     {
-        "def": "f. pl. Ball, generally flexible material, hollow or solid, used in the fÃÂºtbol.Tienen a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
+        "def": "f. pl. Ball, generally flexible material, hollow or solid, used in the fĂÂştbol.Tienen a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
         "id": 9764, 
         "word": "footballs"
     }, 
     {
-        "def": "m. pl. Ball, generally flexible material, hollow or solid, used in the fÃÂºtbol.Tienen a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
+        "def": "m. pl. Ball, generally flexible material, hollow or solid, used in the fĂÂştbol.Tienen a circumference between 69.0 cm. and 69.25 cm. and weighing between 441 and 444 grams.", 
         "id": 9765, 
         "word": "footballs"
     }, 
@@ -48572,7 +48572,7 @@
     {
         "def": "f. pl. Establishments serving coffee and other beverages and food cold or want to re little preparation, such as sandwiches or dishes.", 
         "id": 9800, 
-        "word": "cafÃ©s"
+        "word": "cafĂŠs"
     }, 
     {
         "def": "m. pl. Cosmetics used to color the lips, which are generally in the form of bar stored in a case.", 
@@ -48915,14 +48915,14 @@
         "word": "bowls"
     }, 
     {
-        "def": "m. coloq. bolÃÂ­grafo.", 
+        "def": "m. coloq. bolĂÂ­grafo.", 
         "id": 9854, 
-        "word": "biro Â®"
+        "word": "biro ÂŽ"
     }, 
     {
         "def": "m. pl. coloq. pens", 
         "id": 9855, 
-        "word": "biros Â®"
+        "word": "biros ÂŽ"
     }, 
     {
         "def": "m. pl. Writing instruments with an ink reservoir and a metal ball on top that rotates to release it gradually.", 
@@ -49075,7 +49075,7 @@
         "word": "bonsais"
     }, 
     {
-        "def": "f. pl. Annuals of the family of BorraginÃÂ¡ceas, 20 to 60 cm tall, with thick stems and branches, large, ovate leaves, blue flowers arranged in bunches and very tiny seed. Is covered with coarse hair and sharp, is edible and the infusion of its flowe", 
+        "def": "f. pl. Annuals of the family of BorraginĂÂĄceas, 20 to 60 cm tall, with thick stems and branches, large, ovate leaves, blue flowers arranged in bunches and very tiny seed. Is covered with coarse hair and sharp, is edible and the infusion of its flowe", 
         "id": 9877, 
         "word": "borage"
     }, 
@@ -49505,7 +49505,7 @@
         "word": "boxes"
     }, 
     {
-        "def": "f. pl. Containers of various shapes and used to host tamaaÃÂ±os surprises.", 
+        "def": "f. pl. Containers of various shapes and used to host tamaaĂÂąos surprises.", 
         "id": 9947, 
         "word": "boxes of surprises"
     }, 
@@ -49585,17 +49585,17 @@
         "word": "caganer"
     }, 
     {
-        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuÃÂ²c or Nadal, and Aragon as Nadal or Toza trunk.", 
+        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuĂÂ˛c or Nadal, and Aragon as Nadal or Toza trunk.", 
         "id": 9963, 
-        "word": "TiÃ³ de nadal"
+        "word": "TiĂł de nadal"
     }, 
     {
-        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuÃÂ²c or Nadal, and Aragon as Nadal or Toza trunk.", 
+        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuĂÂ˛c or Nadal, and Aragon as Nadal or Toza trunk.", 
         "id": 9964, 
         "word": "Tronca de nadal"
     }, 
     {
-        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuÃÂ²c or Nadal, and Aragon as Nadal or Toza trunk.", 
+        "def": "m. Catalan mythological character and the basis of a long tradition in Catalonia. This tradition also can be found under the name Occitania Soc CachafuĂÂ˛c or Nadal, and Aragon as Nadal or Toza trunk.", 
         "id": 9965, 
         "word": "Toza"
     }, 
@@ -49955,7 +49955,7 @@
         "word": "rosemary"
     }, 
     {
-        "def": "m. Perennial plant of the Labiatae family, very fragrant, with woody stems, rights, white, branched, two to three decimeters high, leaves small, lanceolate, with the edges and somewhat scrambled stalked, and white flowers in heads or rÃÂ³seas lax axi", 
+        "def": "m. Perennial plant of the Labiatae family, very fragrant, with woody stems, rights, white, branched, two to three decimeters high, leaves small, lanceolate, with the edges and somewhat scrambled stalked, and white flowers in heads or rĂÂłseas lax axi", 
         "id": 10033, 
         "word": "thyme"
     }, 
@@ -50180,9 +50180,9 @@
         "word": "Biscay"
     }, 
     {
-        "def": "Leon is a Spanish town and city located in northwestern Iberia, capital of the eponymous province in the autonomous community of Castilla y LeÃÂ³n.", 
+        "def": "Leon is a Spanish town and city located in northwestern Iberia, capital of the eponymous province in the autonomous community of Castilla y LeĂÂłn.", 
         "id": 10076, 
-        "word": "LeÃ³n"
+        "word": "LeĂłn"
     }, 
     {
         "def": "El Hierro is the westernmost and southernmost of the Canary Islands (Spain). Belongs to the province of Santa Cruz de Tenerife. The capital is Valverde, the city where lie the Port of Stake and the airport island. Besides Valverde, El Hierro has two munic", 
@@ -50195,7 +50195,7 @@
         "word": "Gran Canaria"
     }, 
     {
-        "def": "La Gomera is one of seven main islands in the Canary Islands (Spain). It is located in the Atlantic Ocean in the west of the archipelago. Belongs to the province of Santa Cruz de Tenerife. Its capital is San SebastiÃÂ¡n de La Gomera, where is located", 
+        "def": "La Gomera is one of seven main islands in the Canary Islands (Spain). It is located in the Atlantic Ocean in the west of the archipelago. Belongs to the province of Santa Cruz de Tenerife. Its capital is San SebastiĂÂĄn de La Gomera, where is located", 
         "id": 10079, 
         "word": "La Gomera"
     }, 
@@ -50310,7 +50310,7 @@
         "word": "to fuck"
     }, 
     {
-        "def": "m. pl. Anat. GÃÂ³nadas femeninas.", 
+        "def": "m. pl. Anat. GĂÂłnadas femeninas.", 
         "id": 10101, 
         "word": "ovaries"
     }, 
@@ -50405,7 +50405,7 @@
         "word": "hydrotherapy"
     }, 
     {
-        "def": "Called hot springs mineral water leaving the soil 5 ÃÂ° C or more than the surface temperature. These waters come from underground layers of earth found at higher temperatures, which are rich in mineral components and allow their use in treatments s", 
+        "def": "Called hot springs mineral water leaving the soil 5 ĂÂ° C or more than the surface temperature. These waters come from underground layers of earth found at higher temperatures, which are rich in mineral components and allow their use in treatments s", 
         "id": 10119, 
         "word": "thermal waters"
     }, 
@@ -50435,12 +50435,12 @@
         "word": "cd"
     }, 
     {
-        "def": "Miguel de Cervantes Saavedra was a soldier, novelist, poet and playwright Spanish. Supposed that was born on September 29, 1547 in AlcalÃÂ¡ de Henares and died on April 22, 1616 in Madrid, but was buried on 23 April and is popularly known as wrong th", 
+        "def": "Miguel de Cervantes Saavedra was a soldier, novelist, poet and playwright Spanish. Supposed that was born on September 29, 1547 in AlcalĂÂĄ de Henares and died on April 22, 1616 in Madrid, but was buried on 23 April and is popularly known as wrong th", 
         "id": 10125, 
         "word": "Cervantes"
     }, 
     {
-        "def": "Miguel de Cervantes Saavedra was a soldier, novelist, poet and playwright Spanish. Supposed that was born on September 29, 1547 in AlcalÃÂ¡ de Henares and died on April 22, 1616 in Madrid, but was buried on 23 April and is popularly known as wrong th", 
+        "def": "Miguel de Cervantes Saavedra was a soldier, novelist, poet and playwright Spanish. Supposed that was born on September 29, 1547 in AlcalĂÂĄ de Henares and died on April 22, 1616 in Madrid, but was buried on 23 April and is popularly known as wrong th", 
         "id": 10126, 
         "word": "Miguel de Cervantes"
     }, 
@@ -50767,7 +50767,7 @@
     {
         "def": "Catalan variant of the traditional celebration of Magosto Gallega. It not only tasted roasted chestnuts if they are accompanied by panellets, sweet potatoes and candied fruit. The typical drink is Castanyada muscatel.", 
         "id": 10183, 
-        "word": "CastaÃ±ada"
+        "word": "CastaĂąada"
     }, 
     {
         "def": "f. A person who sells chestnuts.", 
@@ -51400,12 +51400,12 @@
         "word": "utility room"
     }, 
     {
-        "def": "m. Mat. Mathematical sign, placed between two quantities, claims to be more the first than the second. (SÃÂ­mb.>).", 
+        "def": "m. Mat. Mathematical sign, placed between two quantities, claims to be more the first than the second. (SĂÂ­mb.>).", 
         "id": 10301, 
         "word": "is greater than"
     }, 
     {
-        "def": "m. Mathematical sign, placed between two quantities, the first claims to be lower than the second. (SÃÂ­mb. <).", 
+        "def": "m. Mathematical sign, placed between two quantities, the first claims to be lower than the second. (SĂÂ­mb. <).", 
         "id": 10302, 
         "word": "is less than"
     }, 
@@ -51477,7 +51477,7 @@
     {
         "def": "f. Part of the cafeteria where snacks are prepared, food, sandwiches, etc.", 
         "id": 10316, 
-        "word": "cafÃ©'s kitchen"
+        "word": "cafĂŠ's kitchen"
     }, 
     {
         "def": "m. Where meals are served to the workers of a building, institution, company, etc.", 
@@ -52140,7 +52140,7 @@
         "word": "cicadas"
     }, 
     {
-        "def": "intr. Give CocÃÂ©a take.", 
+        "def": "intr. Give CocĂÂŠa take.", 
         "id": 10438, 
         "word": "to kick"
     }, 
@@ -53680,7 +53680,7 @@
         "word": "boring"
     }, 
     {
-        "def": "m. coloq. audÃÂ­fono.", 
+        "def": "m. coloq. audĂÂ­fono.", 
         "id": 10698, 
         "word": "hearing aid"
     }, 
@@ -54070,7 +54070,7 @@
         "word": "amphora"
     }, 
     {
-        "def": "f. Continent surrounding the South Pole. The most common definition and Antarctica comprises the territories south of latitude 60 ÃÂº S, which coincides with the area under the Antarctic Treaty. Given most physical geography, the limit would be in t", 
+        "def": "f. Continent surrounding the South Pole. The most common definition and Antarctica comprises the territories south of latitude 60 ĂÂş S, which coincides with the area under the Antarctic Treaty. Given most physical geography, the limit would be in t", 
         "id": 10766, 
         "word": "Antarctica"
     }, 
@@ -54270,7 +54270,7 @@
         "word": "pirate boats"
     }, 
     {
-        "def": "European popular fairy tale born of the oral tradition, the best known versions are those written by Charles Perrault in his book \"Tales of Mother Goose\" published in 1697: \"Belle au Bois Dormant (Sleeping Beauty) and the Brothers Grimm, \"DornrÃÂ¶sch", 
+        "def": "European popular fairy tale born of the oral tradition, the best known versions are those written by Charles Perrault in his book \"Tales of Mother Goose\" published in 1697: \"Belle au Bois Dormant (Sleeping Beauty) and the Brothers Grimm, \"DornrĂÂśsch", 
         "id": 10799, 
         "word": "Sleeping Beauty"
     }, 
@@ -54380,7 +54380,7 @@
         "word": "cavity"
     }, 
     {
-        "def": "Sporting Speed ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂBikes", 
+        "def": "Sporting Speed ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂBikes", 
         "id": 10820, 
         "word": "motorcycle race"
     }, 
@@ -54605,12 +54605,12 @@
         "word": "decks"
     }, 
     {
-        "def": "Salvador Domingo Felipe Jacinto DalÃÂ­ i DomÃÂ¨nech, first Marquis of PÃÂºbol. (Figueras, Spain, May 11, 1904? Ibid., January 23, 1989), better known as Salvador DalÃÂ­, was a Spanish painter considered one of the leading representativ", 
+        "def": "Salvador Domingo Felipe Jacinto DalĂÂ­ i DomĂÂ¨nech, first Marquis of PĂÂşbol. (Figueras, Spain, May 11, 1904? Ibid., January 23, 1989), better known as Salvador DalĂÂ­, was a Spanish painter considered one of the leading representativ", 
         "id": 10860, 
         "word": "Dali"
     }, 
     {
-        "def": "Salvador Domingo Felipe Jacinto DalÃÂ­ i DomÃÂ¨nech, first Marquis of PÃÂºbol. (Figueras, Spain, May 11, 1904? Ibid., January 23, 1989), better known as Salvador DalÃÂ­, was a Spanish painter considered one of the leading representativ", 
+        "def": "Salvador Domingo Felipe Jacinto DalĂÂ­ i DomĂÂ¨nech, first Marquis of PĂÂşbol. (Figueras, Spain, May 11, 1904? Ibid., January 23, 1989), better known as Salvador DalĂÂ­, was a Spanish painter considered one of the leading representativ", 
         "id": 10861, 
         "word": "Salvador Dali"
     }, 
@@ -54760,7 +54760,7 @@
         "word": "Estonia"
     }, 
     {
-        "def": "tr. Sell ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂgender to another country.", 
+        "def": "tr. Sell ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂgender to another country.", 
         "id": 10890, 
         "word": "to export"
     }, 
@@ -54820,12 +54820,12 @@
         "word": "jellies"
     }, 
     {
-        "def": "m. Plant family Iridaceae, four to six decimeters high, with radical leaves, enterÃÂ­simas, sword-shaped, and flowers in terminal spike, red, corolla-edge heading into six unequal lacinia. It is spontaneous in wetlands and cultivated in the gardens.", 
+        "def": "m. Plant family Iridaceae, four to six decimeters high, with radical leaves, enterĂÂ­simas, sword-shaped, and flowers in terminal spike, red, corolla-edge heading into six unequal lacinia. It is spontaneous in wetlands and cultivated in the gardens.", 
         "id": 10901, 
         "word": "gladiolus"
     }, 
     {
-        "def": "m. pl. Plants of the Iridaceae family, four to six decimeters high, with radical leaves, enterÃÂ­simas, sword-shaped, and flowers in terminal spike, red, corolla heading over the edge into six unequal lacinia. Are spontaneous in wetlands and cultivat", 
+        "def": "m. pl. Plants of the Iridaceae family, four to six decimeters high, with radical leaves, enterĂÂ­simas, sword-shaped, and flowers in terminal spike, red, corolla heading over the edge into six unequal lacinia. Are spontaneous in wetlands and cultivat", 
         "id": 10902, 
         "word": "gladioli"
     }, 
@@ -54930,7 +54930,7 @@
         "word": "soles"
     }, 
     {
-        "def": "A sovereign member of the European Union, with capital Riga, which covers a total area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ64589 km ÃÂÃÂ² and has a population of 2.24 million inhabitants. This republic is located in nor", 
+        "def": "A sovereign member of the European Union, with capital Riga, which covers a total area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂ64589 km ĂÂĂÂ˛ and has a population of 2.24 million inhabitants. This republic is located in nor", 
         "id": 10923, 
         "word": "Latvia"
     }, 
@@ -54965,7 +54965,7 @@
         "word": "sea basses"
     }, 
     {
-        "def": "Small country in northwestern Europe as part of the European Union. It is a landlocked state, being surrounded by France, Germany and Belgium. Luxembourg has a population of nearly half a million people over an area of ÃÂ¢ÃÂÃÂÃÂ¢", 
+        "def": "Small country in northwestern Europe as part of the European Union. It is a landlocked state, being surrounded by France, Germany and Belgium. Luxembourg has a population of nearly half a million people over an area of ĂÂ˘ĂÂĂÂĂÂ˘", 
         "id": 10930, 
         "word": "Luxembourg"
     }, 
@@ -55205,7 +55205,7 @@
         "word": "Brandenburg Gate"
     }, 
     {
-        "def": "Monument is located in the city of Zaragoza, Spain. Neoclassical style, the door of Carmen was built in 1789 by architect AgustÃÂ­n Sanz and inaugurated in 1792. It was one of the twelve gateways to the city (four and eight medieval Roman) now showin", 
+        "def": "Monument is located in the city of Zaragoza, Spain. Neoclassical style, the door of Carmen was built in 1789 by architect AgustĂÂ­n Sanz and inaugurated in 1792. It was one of the twelve gateways to the city (four and eight medieval Roman) now showin", 
         "id": 10969, 
         "word": "Carmen Gate"
     }, 
@@ -55275,7 +55275,7 @@
         "word": "to snore"
     }, 
     {
-        "def": "Great Catholic church in Barcelona (Spain), designed by Catalan architect Antoni GaudÃÂ­. Started in 1882, is still under construction (October 2010). It is the masterpiece of GaudÃÂ­, and the exponent of Catalan modernist architecture.", 
+        "def": "Great Catholic church in Barcelona (Spain), designed by Catalan architect Antoni GaudĂÂ­. Started in 1882, is still under construction (October 2010). It is the masterpiece of GaudĂÂ­, and the exponent of Catalan modernist architecture.", 
         "id": 10982, 
         "word": "Sagrada Familia"
     }, 
@@ -55430,7 +55430,7 @@
         "word": "observation towers"
     }, 
     {
-        "def": "Tower of 76 meters located in the Expo 2008 in Zaragoza. The tower houses the exhibition \"Water for Life\" and has a publicly accessible area of ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ10,400 m2 this building is one of the most emblematic o", 
+        "def": "Tower of 76 meters located in the Expo 2008 in Zaragoza. The tower houses the exhibition \"Water for Life\" and has a publicly accessible area of ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂ10,400 m2 this building is one of the most emblematic o", 
         "id": 11008, 
         "word": "Water tower"
     }, 
@@ -55615,7 +55615,7 @@
         "word": "fantastic"
     }, 
     {
-        "def": "f. Peeled and sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂpineapple canned in syrup.", 
+        "def": "f. Peeled and sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂpineapple canned in syrup.", 
         "id": 11042, 
         "word": "pineapple in syrup"
     }, 
@@ -55640,12 +55640,12 @@
         "word": "fideua"
     }, 
     {
-        "def": "f. pl. First dish and a native of La Rioja and the Basque region of the Rioja region (Spain), but their use has spread to the nearby regions. Is prepared mainly with potatoes, cook sausage, chorizo ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂp", 
+        "def": "f. pl. First dish and a native of La Rioja and the Basque region of the Rioja region (Spain), but their use has spread to the nearby regions. Is prepared mainly with potatoes, cook sausage, chorizo ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂp", 
         "id": 11047, 
         "word": "potatoes with chorizo"
     }, 
     {
-        "def": "f. pl. First dish and a native of La Rioja and the Basque region of the Rioja region (Spain), but their use has spread to the nearby regions. Is prepared mainly with potatoes, cook sausage, chorizo ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂp", 
+        "def": "f. pl. First dish and a native of La Rioja and the Basque region of the Rioja region (Spain), but their use has spread to the nearby regions. Is prepared mainly with potatoes, cook sausage, chorizo ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂp", 
         "id": 11047, 
         "word": "potatoes with highly-seasoned pork sausage"
     }, 
@@ -55875,7 +55875,7 @@
         "word": "Art lesson"
     }, 
     {
-        "def": "f. Lesson taught by the teacher or the teacher: it gives PretecnologÃÂ­a class.", 
+        "def": "f. Lesson taught by the teacher or the teacher: it gives PretecnologĂÂ­a class.", 
         "id": 11091, 
         "word": "Pretechnology lesson"
     }, 
@@ -56850,7 +56850,7 @@
         "word": "ladles"
     }, 
     {
-        "def": "m. pl. Optical compact disks used to store information volÃÂ¡til.Los no CD-ROM are flat plastic disks with digital information encoded in a spiral from the center to the outer edge.", 
+        "def": "m. pl. Optical compact disks used to store information volĂÂĄtil.Los no CD-ROM are flat plastic disks with digital information encoded in a spiral from the center to the outer edge.", 
         "id": 11275, 
         "word": "CDRoms"
     }, 
@@ -57370,7 +57370,7 @@
         "word": "safety belts"
     }, 
     {
-        "def": "m. pl. Family trees of the Cupressaceae, reaching 15 to 20 m tall, with straight trunk, branches erect and short, thick, conical crown, small leaves in overlapping rows, persistent and dark green, yellow terminal flowers, and fruits gÃÂ¡lbulas about ", 
+        "def": "m. pl. Family trees of the Cupressaceae, reaching 15 to 20 m tall, with straight trunk, branches erect and short, thick, conical crown, small leaves in overlapping rows, persistent and dark green, yellow terminal flowers, and fruits gĂÂĄlbulas about ", 
         "id": 11376, 
         "word": "cypresses"
     }, 
@@ -57600,7 +57600,7 @@
         "word": "coconuts"
     }, 
     {
-        "def": "m. pl. coconuts (palmÃÂ¡ceos trees).", 
+        "def": "m. pl. coconuts (palmĂÂĄceos trees).", 
         "id": 11420, 
         "word": "coconut palms"
     }, 
@@ -58065,12 +58065,12 @@
         "word": "adapted libraries"
     }, 
     {
-        "def": "m. AragÃÂ³n. please.", 
+        "def": "m. AragĂÂłn. please.", 
         "id": 11508, 
         "word": "pea"
     }, 
     {
-        "def": "m. pl. AragÃÂ³n. guisantes.", 
+        "def": "m. pl. AragĂÂłn. guisantes.", 
         "id": 11509, 
         "word": "peas"
     }, 
@@ -58520,7 +58520,7 @@
         "word": "isthmus"
     }, 
     {
-        "def": "m. pl. Geogr. Languages ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂof land connecting two continents or a peninsula with a continent.", 
+        "def": "m. pl. Geogr. Languages ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂof land connecting two continents or a peninsula with a continent.", 
         "id": 11597, 
         "word": "isthmuses"
     }, 
@@ -58780,7 +58780,7 @@
         "word": "pineapples"
     }, 
     {
-        "def": "f. pl. Peeled and sliced ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂpineapples preserved in syrup.", 
+        "def": "f. pl. Peeled and sliced ĂÂ˘ĂÂĂÂĂÂ˘ĂÂĂÂpineapples preserved in syrup.", 
         "id": 11646, 
         "word": "pineapples in syrup"
     }, 
@@ -59722,12 +59722,12 @@
     {
         "def": "", 
         "id": 11830, 
-        "word": "How manyâ¦?"
+        "word": "How manyâŚ?"
     }, 
     {
         "def": "", 
         "id": 11830, 
-        "word": "How muchâ¦?"
+        "word": "How muchâŚ?"
     }, 
     {
         "def": "", 
@@ -60322,7 +60322,7 @@
     {
         "def": "", 
         "id": 11945, 
-        "word": "CremÃ "
+        "word": "CremĂ "
     }, 
     {
         "def": "", 
@@ -60802,7 +60802,7 @@
     {
         "def": "", 
         "id": 12040, 
-        "word": "mascletÃ¡"
+        "word": "mascletĂĄ"
     }, 
     {
         "def": "", 
@@ -63942,7 +63942,7 @@
     {
         "def": "", 
         "id": 3045, 
-        "word": "purÃ©e"
+        "word": "purĂŠe"
     }, 
     {
         "def": "", 
