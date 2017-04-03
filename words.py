@@ -42,10 +42,10 @@ def openReadDatabase():
 def obtenerPalabras():
     cnx = openReadDatabase()
     cursor = cnx.cursor()
-    query = ("SELECT id_palabra, palabra, definicion FROM palabras where palabra is not null")
+    query = ("SELECT distinct(palabra) FROM palabras where palabra is not null")
     cursor.execute(query)
     palabras = []
-    columns = ['id', 'word', 'def']
+    columns = ['word']
     for row in cursor:
         palabras.append(dict(zip(columns, row)))
     cursor.close()
@@ -55,10 +55,10 @@ def obtenerPalabras():
 def obtenerTraducciones(table):
     cnx = openReadDatabase()
     cursor = cnx.cursor()
-    query = ("SELECT id_palabra, traduccion, definicion_traduccion FROM " + table + " where traduccion is not null")
+    query = ("SELECT distinct(traduccion) FROM " + table + " where traduccion is not null")
     cursor.execute(query)
     palabras = []
-    columns = ['id', 'word', 'def']
+    columns = ['word']
     for row in cursor:
         palabras.append(dict(zip(columns, row)))
     cursor.close()
@@ -85,7 +85,7 @@ idiomas = [{"id_idioma": 1,"idioma_ru": "Russian","idioma_abrev": "ru"},
             {"id_idioma": 10,"idioma_en": "Euskera","idioma_abrev": "eu"}, 
             {"id_idioma": 11,"idioma_en": "German","idioma_abrev": "de"}, 
             {"id_idioma": 12,"idioma_en": "Italian","idioma_abrev": "it"}, 
-            {"id_idioma": 13,"idioma_en": "Portuguese","idioma_abrev": "pt"}, # el fixit no va 
+            {"id_idioma": 13,"idioma_en": "Portuguese","idioma_abrev": "pt", "encoding2": "fixit"}, # el fixit no va 
             {"id_idioma": 14,"idioma_en": "Galician","idioma_abrev": "ga"}, 
             {"id_idioma": 15,"idioma_en": "Brazilian Portuguese","idioma_abrev": "br", "encoding2": "fixit"}, 
             {"id_idioma": 16,"idioma_en": "Croatian","idioma_abrev": "cr"}, 
@@ -96,58 +96,44 @@ idiomas = [{"id_idioma": 1,"idioma_ru": "Russian","idioma_abrev": "ru"},
 analisis1 = ""
 analisis2 = ""
 palabras = obtenerPalabras()
-'''
+
 for palabra in palabras:
-    if palabra['def'] is None:
-        palabra['def']=""
     if palabra['word'] is None:
         palabra['word']=""
     analisis1 = analisis1 + " " + palabra['word'] 
-    analisis2 = analisis2 + " " + palabra['def']
 encoding1 = chardet.detect(analisis1).get('encoding')
-encoding2 = chardet.detect(analisis2).get('encoding')
 if encoding1 is None:
     print "Unable to guess enconding type"
 else: 
-    print " Encoding expected to be: " + encoding1 + " y " + encoding2
+    print " Encoding expected to be: " + encoding1
 
 for palabra in palabras:
     palabra['word'] = encode(palabra['word'], 'ISO-8859-1')
-    palabra['def'] = encode(palabra['def'], 'ISO-8859-1')
 
-with codecs.open("words_es.txt", 'w', encoding='utf-8') as outfile:
+with codecs.open("words_es.json", 'w', encoding='utf-8') as outfile:
     json.dump(palabras, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
-'''
+
 for idioma in idiomas:
     print idioma
     table = "traducciones_" + str(idioma['id_idioma'])
     palabras = obtenerTraducciones(table)
     analisis1=""
-    analisis2=""
     for palabra in palabras:
-        if palabra['def'] is None:
-            palabra['def']=""
         if palabra['word'] is None:
             palabra['word']=""
         analisis1 = analisis1 + " " + palabra['word'] 
-        analisis2 = analisis2 + " " + palabra['def']
     encoding1 = chardet.detect(analisis1).get('encoding')
-    encoding2 = chardet.detect(analisis2).get('encoding')
     if encoding1 is None:
         print "Unable to guess enconding type"
     else: 
-        print " Encoding expected to be: " + encoding1 + " y " + encoding2
+        print " Encoding expected to be: " + encoding1 
     if 'encoding1' in idioma:
         encoding1=idioma['encoding1']
         print "Change encoding1 to " + encoding1
-    if 'encoding2' in idioma:
-        encoding2=idioma['encoding2']
-        print "Change encoding2 to " + encoding2
     for palabra in palabras:
         #print palabra['word']
         palabra['word'] = encode(palabra['word'], encoding1)
-        palabra['def'] = encode(palabra['def'], encoding2)
         #print palabra['def']
-    fileName = "words_" + idioma['idioma_abrev'] + ".txt"
+    fileName = "words_" + idioma['idioma_abrev'] + ".json"
     with codecs.open(fileName, 'w', encoding='utf-8') as outfile:
         json.dump(palabras, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
