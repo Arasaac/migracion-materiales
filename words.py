@@ -106,12 +106,11 @@ else:
 for index, palabra in enumerate(palabras):
     palabras[index] = encode(palabra, 'ISO-8859-1')
 
-myData = {'language': 'es', 'words': palabras, 'code': uuid.uuid4().hex}
+myHash = uuid.uuid4().hex
+myData = {'language': 'es', 'words': palabras, 'code': myHash}
 
-
-
-with codecs.open("words_es.json", 'w', encoding='utf-8') as outfile:
-    json.dump(myData, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
+jsonData = []
+jsonData.append(myData)
 
 for idioma in idiomas:
     myData = {}
@@ -132,8 +131,9 @@ for idioma in idiomas:
     for index, palabra in enumerate(palabras):
         palabras[index] = encode(palabra, encoding1)
 
-    myData = {'language': idioma['idioma_abrev'], 'words': palabras, 'code': uuid.uuid4().hex}
+    myData = {'language': idioma['idioma_abrev'], 'words': palabras, 'code': myHash}
 
-    fileName = "words_" + idioma['idioma_abrev'] + ".json"
-    with codecs.open(fileName, 'w', encoding='utf-8') as outfile:
-        json.dump(myData, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
+    jsonData.append(myData)
+
+with codecs.open('words.json', 'w', encoding='utf-8') as outfile:
+    json.dump(jsonData, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
