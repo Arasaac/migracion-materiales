@@ -13,6 +13,8 @@ import json
 import codecs
 import datetime
 import chardet
+import uuid
+
 
 def encode(word, encoding):
     '''
@@ -36,7 +38,7 @@ def myconverter(o):
 
 
 def openReadDatabase():
-    return MySQLdb.connect('127.0.0.1', 'root', 'password', 'saac')
+    return MySQLdb.connect('127.0.0.1', 'root', 'mistral', 'saac')
 
 
 def obtenerPalabras():
@@ -45,9 +47,8 @@ def obtenerPalabras():
     query = ("SELECT distinct(palabra) FROM palabras where palabra is not null")
     cursor.execute(query)
     palabras = []
-    columns = ['word']
     for row in cursor:
-        palabras.append(dict(zip(columns, row)))
+        palabras.append(row[0])
     cursor.close()
     cnx.close()
     return palabras
@@ -58,9 +59,8 @@ def obtenerTraducciones(table):
     query = ("SELECT distinct(traduccion) FROM " + table + " where traduccion is not null")
     cursor.execute(query)
     palabras = []
-    columns = ['word']
     for row in cursor:
-        palabras.append(dict(zip(columns, row)))
+        palabras.append(row[0])
     cursor.close()
     cnx.close()
     return palabras
@@ -94,34 +94,32 @@ idiomas = [{"id_idioma": 1,"idioma_ru": "Russian","idioma_abrev": "ru"},
 # idiomas = [{"id_idioma": 15,"idioma_en": "Brazilian Portuguese","idioma_abrev": "br", "encoding2": "fixit"}]
 
 analisis1 = ""
-analisis2 = ""
+myData={}
 palabras = obtenerPalabras()
-
-for palabra in palabras:
-    if palabra['word'] is None:
-        palabra['word']=""
-    analisis1 = analisis1 + " " + palabra['word'] 
+analisis1 = " ".join(str(x) for x in palabras) 
 encoding1 = chardet.detect(analisis1).get('encoding')
 if encoding1 is None:
     print "Unable to guess enconding type"
 else: 
     print " Encoding expected to be: " + encoding1
 
-for palabra in palabras:
-    palabra['word'] = encode(palabra['word'], 'ISO-8859-1')
+for index, palabra in enumerate(palabras):
+    palabras[index] = encode(palabra, 'ISO-8859-1')
+
+myData = {'language': 'es', 'words': palabras, 'code': uuid.uuid4().hex}
+
+
 
 with codecs.open("words_es.json", 'w', encoding='utf-8') as outfile:
-    json.dump(palabras, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
+    json.dump(myData, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
 
 for idioma in idiomas:
+    myData = {}
     print idioma
     table = "traducciones_" + str(idioma['id_idioma'])
     palabras = obtenerTraducciones(table)
     analisis1=""
-    for palabra in palabras:
-        if palabra['word'] is None:
-            palabra['word']=""
-        analisis1 = analisis1 + " " + palabra['word'] 
+    analisis1 = " ".join(str(x) for x in palabras) 
     encoding1 = chardet.detect(analisis1).get('encoding')
     if encoding1 is None:
         print "Unable to guess enconding type"
@@ -130,10 +128,12 @@ for idioma in idiomas:
     if 'encoding1' in idioma:
         encoding1=idioma['encoding1']
         print "Change encoding1 to " + encoding1
-    for palabra in palabras:
-        #print palabra['word']
-        palabra['word'] = encode(palabra['word'], encoding1)
-        #print palabra['def']
+
+    for index, palabra in enumerate(palabras):
+        palabras[index] = encode(palabra, encoding1)
+
+    myData = {'language': idioma['idioma_abrev'], 'words': palabras, 'code': uuid.uuid4().hex}
+
     fileName = "words_" + idioma['idioma_abrev'] + ".json"
     with codecs.open(fileName, 'w', encoding='utf-8') as outfile:
-        json.dump(palabras, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
+        json.dump(myData, outfile, indent=4, sort_keys=True, default = myconverter, ensure_ascii=False, encoding='utf8')
