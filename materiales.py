@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# previous:
+# database desconocido8... see email
+# materials without language: update materiales set material_idiomas='{es}' where material_idiomas=''
+
 import mysql.connector
 import pprint
 import os
@@ -11,6 +15,7 @@ import pdb
 import json
 import codecs
 import datetime
+import itertools
 
 def myconverter(o):
     if isinstance(o, datetime.datetime):
@@ -30,7 +35,7 @@ def openReadDatabase():
 def obtenerMateriales():
     # cnx = openReadDatabase()
     cursor = cnx.cursor()
-    query = ("SELECT * FROM materiales where id_material=1")
+    query = ("SELECT * FROM materiales")
     cursor.execute(query)
     materiales = []
     columns = tuple([d[0].decode('utf8') for d in cursor.description])
@@ -48,8 +53,6 @@ def obtenerMateriales():
     for material in materiales:
         for campo in campos:
             material[campo] = getId(material[campo])
-            print campo
-            print material[campo]
         # El campo descripción está guardado en html:
         soup = BeautifulSoup(material['material_descripcion'], 'html.parser')
         material['material_descripcion'] = soup.get_text().replace('\n', '\n\n')
@@ -57,7 +60,6 @@ def obtenerMateriales():
         material['material_area_curricular'] = material['material_area_curricular'] if material['material_area_curricular'] else []
         material['material_subarea_curricular'] = material['material_subarea_curricular'] if material['material_subarea_curricular'] else []
         material['areas'] = material['material_area_curricular'] + material['material_subarea_curricular']
-        print material['areas']
 
         # Borramos los datos que no nos interesan:
         del material['material_area_curricular']
@@ -86,26 +88,48 @@ def obtenerAutores():
 def transformarMateriales():
     newMaterials=[]
     for material in materiales:
+        # materialDate = ''
+        # materialDate = str(material['fecha_alta'])
+        # materialDate = materialDate.replace(' ', 'T')
+        # materialDate = 'ISODate("' + materialDate + 'Z' + '")' 
+        materialDate = datetime.strptime('2016-01-08T19:00:00.123Z', '%Y-%m-%dT%H:%M:%S.%fZ')
         newMaterial ={}
         # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
-        print material['areas']
         newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
-        print newMaterial['areas']
+        newMaterial['areas'] = list(itertools.chain.from_iterable(newMaterial['areas']))
         newMaterial['idMaterial'] = [material['id_material']]
        # newMaterial['licencia'] = licencias[material['material_licencia']]
-       # newMaterial['estado'] = estados[material['material_estado']]
-        newMaterial['actividades'] = [actividades[str(a)] for a in material['material_tipo']]
-        newMaterial['titulo'] = material['material_titulo']
-        newMaterial['descripcion'] = material['material_descripcion']
-       # newMaterial['archivos'] = material['material_archivos']
+        newMaterial['status'] = estados[material['material_estado']]
+        newMaterial['activities'] = [actividades[str(a)] for a in material['material_tipo']]
+        newMaterial['title'] = material['material_titulo']
+        newMaterial['created'] = materialDate
+        newMaterial['lastUpdate'] = materialDate
+        newMaterial['desc'] = material['material_descripcion']
+        newMaterial['files'] = material['material_archivos']
+        newMaterial['images'] = [] 
+        newMaterial['downloads'] = 0 
        # newMaterial['imagenes'] = []
        # newMaterial['recomendado'] = False
        # newMaterial['etiquetas'] = []
        # newMaterial['fechaAlta'] = material['fecha_alta']
-       # newMaterial['zip'] = str(material['id_material']) + ".zip"
+        newMaterial['file'] = str(material['id_material']) + ".zip"
        # newMaterial['fechaActualizacion']=None
-       # newMaterial['idiomas'] = material['material_idiomas']
-       # newMaterial['autores'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
+        newMaterial['language'] = material['material_idiomas'][0]
+        material['material_idiomas'].pop(0) # not needed for translations
+        newMaterial['translations'] = []
+        for language in material['material_idiomas']:
+            translation={}
+            translation['language'] = language
+            translation['status'] = estados[material['material_estado']]
+            translation['title'] = material['material_titulo']
+            translation['desc'] = material['material_descripcion']
+            translation['created'] = materialDate
+            translation['lastUpdate'] = materialDate
+            newMaterial['translations'].append(translation)
+
+
+        # newMaterial['translations']
+        newMaterial['authors'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
 
         # pdb.set_trace()
         newMaterials.append(newMaterial)
@@ -114,7 +138,7 @@ def transformarMateriales():
 class MyPrettyPrinter(pprint.PrettyPrinter):
     def format(self, object, context, maxlevels, level):
         if isinstance(object, unicode):
-            return (object.encode('utf8'), True, False)
+            return (object.encode('utf8'), True, False)json insert date
         return pprint.PrettyPrinter.format(self, object, context, maxlevels, level)
 
 actividades = {
