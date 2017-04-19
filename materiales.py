@@ -30,8 +30,7 @@ def openReadDatabase():
 def obtenerMateriales():
     # cnx = openReadDatabase()
     cursor = cnx.cursor()
-    query = ("SELECT * FROM materiales where material_area like '%{8}%' or material_area like '%{11}%' or material_area like '%{12}%' ")
-    #query = ("SELECT * FROM materiales")
+    query = ("SELECT * FROM materiales where id_material=1")
     cursor.execute(query)
     materiales = []
     columns = tuple([d[0].decode('utf8') for d in cursor.description])
@@ -49,6 +48,8 @@ def obtenerMateriales():
     for material in materiales:
         for campo in campos:
             material[campo] = getId(material[campo])
+            print campo
+            print material[campo]
         # El campo descripción está guardado en html:
         soup = BeautifulSoup(material['material_descripcion'], 'html.parser')
         material['material_descripcion'] = soup.get_text().replace('\n', '\n\n')
@@ -56,6 +57,7 @@ def obtenerMateriales():
         material['material_area_curricular'] = material['material_area_curricular'] if material['material_area_curricular'] else []
         material['material_subarea_curricular'] = material['material_subarea_curricular'] if material['material_subarea_curricular'] else []
         material['areas'] = material['material_area_curricular'] + material['material_subarea_curricular']
+        print material['areas']
 
         # Borramos los datos que no nos interesan:
         del material['material_area_curricular']
@@ -85,7 +87,10 @@ def transformarMateriales():
     newMaterials=[]
     for material in materiales:
         newMaterial ={}
+        # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
+        print material['areas']
         newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
+        print newMaterial['areas']
         newMaterial['idMaterial'] = [material['id_material']]
        # newMaterial['licencia'] = licencias[material['material_licencia']]
        # newMaterial['estado'] = estados[material['material_estado']]
