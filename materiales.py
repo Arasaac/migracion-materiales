@@ -88,11 +88,13 @@ def obtenerAutores():
 def transformarMateriales():
     newMaterials=[]
     for material in materiales:
-        # materialDate = ''
-        # materialDate = str(material['fecha_alta'])
-        # materialDate = materialDate.replace(' ', 'T')
-        # materialDate = 'ISODate("' + materialDate + 'Z' + '")' 
-        materialDate = datetime.strptime('2016-01-08T19:00:00.123Z', '%Y-%m-%dT%H:%M:%S.%fZ')
+        materialDate = ''
+        materialDate = str(material['fecha_alta'])
+        materialDate = materialDate.replace(' ', 'T') + 'Z'
+        #materialDate = 'ISODate("' + materialDate + 'Z' + '")' 
+        fecha = {}
+        fecha['$date']= materialDate
+        #materialDate = datetime.strptime('2016-01-08T19:00:00.123Z', '%Y-%m-%dT%H:%M:%S.%fZ')
         newMaterial ={}
         # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
         newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
@@ -102,8 +104,8 @@ def transformarMateriales():
         newMaterial['status'] = estados[material['material_estado']]
         newMaterial['activities'] = [actividades[str(a)] for a in material['material_tipo']]
         newMaterial['title'] = material['material_titulo']
-        newMaterial['created'] = materialDate
-        newMaterial['lastUpdate'] = materialDate
+        newMaterial['created'] = fecha
+        newMaterial['lastUpdate'] = fecha
         newMaterial['desc'] = material['material_descripcion']
         newMaterial['files'] = material['material_archivos']
         newMaterial['images'] = [] 
@@ -123,8 +125,8 @@ def transformarMateriales():
             translation['status'] = estados[material['material_estado']]
             translation['title'] = material['material_titulo']
             translation['desc'] = material['material_descripcion']
-            translation['created'] = materialDate
-            translation['lastUpdate'] = materialDate
+            translation['created'] = fecha
+            translation['lastUpdate'] = fecha
             newMaterial['translations'].append(translation)
 
 
@@ -138,7 +140,7 @@ def transformarMateriales():
 class MyPrettyPrinter(pprint.PrettyPrinter):
     def format(self, object, context, maxlevels, level):
         if isinstance(object, unicode):
-            return (object.encode('utf8'), True, False)json insert date
+            return (object.encode('utf8'), True, False)
         return pprint.PrettyPrinter.format(self, object, context, maxlevels, level)
 
 actividades = {
