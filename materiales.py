@@ -99,7 +99,7 @@ def transformarMateriales():
         # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
         newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
         newMaterial['areas'] = list(itertools.chain.from_iterable(newMaterial['areas']))
-        newMaterial['idMaterial'] = [material['id_material']]
+        newMaterial['idMaterial'] = material['id_material']
        # newMaterial['licencia'] = licencias[material['material_licencia']]
         newMaterial['status'] = estados[material['material_estado']]
         newMaterial['activities'] = [actividades[str(a)] for a in material['material_tipo']]
