@@ -97,18 +97,21 @@ def transformarMateriales():
         #materialDate = datetime.strptime('2016-01-08T19:00:00.123Z', '%Y-%m-%dT%H:%M:%S.%fZ')
         newMaterial ={}
         # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
-        newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
-        newMaterial['areas'] = list(itertools.chain.from_iterable(newMaterial['areas']))
+        newMaterial['Area'] = [areasCurriculares[str(a)] for a in material['areas']]
+        newMaterial['Area'] = list(itertools.chain.from_iterable(newMaterial['Area']))
+        newMaterial['Area'] = list(set(newMaterial['Area'])) # delete duplicates
         newMaterial['idMaterial'] = material['id_material']
        # newMaterial['licencia'] = licencias[material['material_licencia']]
         newMaterial['status'] = estados[material['material_estado']]
-        newMaterial['activities'] = [actividades[str(a)] for a in material['material_tipo']]
+        newMaterial['Activity'] = [actividades[str(a)] for a in material['material_tipo']]
+        newMaterial['Activity'] = list(itertools.chain.from_iterable(newMaterial['Activity']))
+        newMaterial['Activity'] = list(set(newMaterial['Activity'])) # delete duplicates
         newMaterial['title'] = material['material_titulo']
         newMaterial['created'] = fecha
         newMaterial['lastUpdate'] = fecha
         newMaterial['desc'] = material['material_descripcion']
-        newMaterial['files'] = material['material_archivos']
-        newMaterial['images'] = [] 
+        newMaterial['Files'] = material['material_archivos']
+        newMaterial['Images'] = [] 
         newMaterial['downloads'] = 0 
        # newMaterial['imagenes'] = []
        # newMaterial['recomendado'] = False
@@ -131,7 +134,7 @@ def transformarMateriales():
 
 
         # newMaterial['translations']
-        newMaterial['authors'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
+        newMaterial['Author'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
 
         # pdb.set_trace()
         newMaterials.append(newMaterial)
@@ -144,88 +147,87 @@ class MyPrettyPrinter(pprint.PrettyPrinter):
         return pprint.PrettyPrinter.format(self, object, context, maxlevels, level)
 
 actividades = {
-    '24': u'Libro LIM',  # actividad lim
-    '29': u'Actividad para Picaa',  # actividad picaa
-    '14': u'GIF animado',  # animación
-    '2': u'Aplicación Informática',  # aplicación informática
-    '31': u'Tablero para AraBoard',  # araboard
-    '32': u'Bingo',  # bingo
-    '20': u'Canción',  # canción
-    '19': u'Cuaderno',  # cuaderno
-    '1': u'Cuento',  # cuento
-    '34': u'Dominó',  # dominos
-    '15': u'Ficha de actividades',  # ficha
-    '28': u'JClic',  # jclic
-    '6': u'Juego Colectivo',  # juego colectivo
-    '33': u'Juego de la Oca',  # juego de la oca
-    '5': u'Juego Individual',  # juego individual
-    '18': u'Libro',  # libro
-    '3': u'Material Audiovisual',  # material audiovisual
-    '30': u'Tablero para PictoDroid Lite',  # pictodroid Lite
-    '21': u'Pizarra Digital - PDI',  # pizarra digital
-    '4': u'Presentación por Diapositivas',  # presentación
-    '12': u'Protocolo de exploración',  # protocolo
-    '26': u'Rutina',  # rutinas
-    '25': u'Señaléctica',  # señaléctica
-    '27': u'Secuencia',  # secuencias
-    '23': u'Smart Notebook',  # smart notebook
-    '16': u'Tablero de comunicación',  # tablero
-    '22': u'Tablero para TICO',  # tablero tico
-    '13': u'Test de Evaluación'  # test de evaluación
+    '24': [0],  # actividad lim
+    '29': [1],  # actividad picaa
+    '14': [2],  # animación
+    '2': [3],  # aplicación informática
+    '31': [4, 5],  # araboard
+    '32': [6], # bingo
+    '20': [7],  # canción
+    '19': [8],  # cuaderno
+    '1': [9],  # cuento
+    '34': [11, 12, 13],  # dominos
+    '15': [14],  # ficha
+    '28': [15],  # jclic
+    '6': [12, 13],  # juego colectivo
+    '33': [12, 13, 16],  # juego de la oca
+    '5': [12],  # juego individual
+    '18': [17],  # libro
+    '3': [14, 18, 19, 22],  # material audiovisual
+    '30': [5, 20],  # pictodroid Lite
+    '21': [21],  # pizarra digital
+    '4': [22],  # presentación
+    '12': [23],  # protocolo
+    '26': [24],  # rutinas
+    '25': [25],  # señaléctica
+    '27': [26],  # secuencias
+    '23': [27],  # smart notebook
+    '16': [5],  # tablero
+    '22': [28, 5],  # tablero tico
+    '13': [29]  # test de evaluación
 }
 
+
 areasCurriculares = {
-    '1': [u'Literatura'],   # Lengua y literatura
-    '2': [u'Numeración (Matemáticas)', u'Operaciones básicas (Matemáticas)', u'Problemas (Matemáticas)', u'Geometría (Matemáticas)'],   # Matemáticas
-    '4': [u'Ciencias Naturales', u'Ciencias Sociales'],   # Conocimiento del medio natural, social y cultural
-    '6': [u'Plástica'],   # Educación artística
-    '7': [u'Conocimiento de si mismo y autonomía personal'],   # Conocimiento de si mismo y autonomía personal
-    '8': [u'Desconocida8'],   # Taller,
-    '11': [u'Desconocida11'],
-    '12': [u'Desconocida12'],
-    '9': [u'Educación Física'],   # Educación física
-    '10':  [u'Religión'],  # Religión,
-    '14': [u'Fonología (Lenguaje)'],  # Fonética - fonología
-    '13': [u'Discriminación visual (Lenguaje)', u'Discriminación auditiva (Lenguaje)'],  # Habilidades prelingüísticas
-    '18': [u'Lectura (Lenguaje)', u'Escritura (Lenguaje)'],  # Lectura y escritura
-    '19': [u'Música'],  # Música
-    '16': [u'Morfosintaxis (Lenguaje)'],  # Morfosintaxis
-    '20': [u'Plástica'],  # Plástica
-    '17': [u'Pragmática (Lenguaje)'],  # Pragmática
-    '15': [u'Semántica (Lenguaje)']  # Semántica
+    '1': [3, 10],   # Lengua y literatura
+    '2': [12, 13, 14, 15, 16],   # Matemáticas
+    '4': [17, 18],   # Conocimiento del medio natural, social y cultural
+    '6': [19, 20],   # Educación artística
+    '7': [0],   # Conocimiento de si mismo y autonomía personal
+    '8': [6],   # Taller, lo llevamos a Plástica??
+    '9': [21],   # Educación física
+    '10':  [22],  # Religión,
+    '14': [3, 4],  # Fonética - fonología
+    '13': [1, 2],  # Habilidades prelingüísticas
+    '18': [3, 8, 9],  # Lectura y escritura
+    '19': [19],  # Música
+    '16': [5],  # Morfosintaxis
+    '20': [20],  # Plástica
+    '17': [3, 7],  # Pragmática
+    '15': [3, 6]  # Semántica
 }
 
 estados = {
-    0: [u'Pendiente de revisión'],   # Lengua y literatura
-    1: [u'Publico'],   # Matemáticas
-    2: [u'Privado'],   #
+    0: 0,   # Lengua y literatura
+    1: 1,   # Matemáticas
+    2: 2,   #
 }
 
 idiomas = {
-    'ar': 152,
-    'bg': 153,
-    'br': 164,
-    'ca': 154,
-    'de': 151,
-    'en': 160,
-    'eu': 157,
-    'fr': 158,
-    'ga': 159,
-    'it': 161,
-    'pl': 162,
-    'pt': 163,
-    'ro': 167,
-    'ru': 168,
-    'zh': 155,
-    'es': 156
+    'ar': 'ara', # arabe
+    'bg': 'bg', # bulgaro
+    'br': 'br', # brasileño
+    'ca': 'ca',
+    'de': 'de',
+    'en': 'en',
+    'eu': 'eu',
+    'fr': 'fr',
+    'ga': 'ga',
+    'it': 'it',
+    'pl': 'pl',
+    'pt': 'pt',
+    'ro': 'ro',
+    'ru': 'ru',
+    'zh': 'zhs', # zht????
+    'es': 'es'
 }
 
 licencias = {
-    1: u'Sin definir',  # sin definir
-    2: u'Creative Commons BY-NC-SA',  # Creative Commons BY-NC-SA
-    3: u'Software propietario',  # Software propietario
-    4: u'GNU General Public License',  # GNU General Public License
-    5: u'Mozilla Public License'  # Mozilla Public License
+    1: 1,  # sin definir
+    2: 2,  # Creative Commons BY-NC-SA
+    3: 3,  # Software propietario
+    4: 4,  # GNU General Public License
+    5: 5 # Mozilla Public License
 }
 
 
