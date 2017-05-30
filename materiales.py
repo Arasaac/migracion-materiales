@@ -117,20 +117,20 @@ def transformarMateriales():
        # newMaterial['recomendado'] = False
        # newMaterial['etiquetas'] = []
        # newMaterial['fechaAlta'] = material['fecha_alta']
-        newMaterial['File'] = str(material['id_material']) + ".zip"
+        newMaterial['file'] = str(material['id_material']) + ".zip"
        # newMaterial['fechaActualizacion']=None
-        newMaterial['Language'] = material['material_idiomas'][0]
+        newMaterial['language'] = material['material_idiomas'][0]
         material['material_idiomas'].pop(0) # not needed for translations
-        newMaterial['Translations'] = []
+        newMaterial['translations'] = []
         for language in material['material_idiomas']:
             translation={}
-            translation['Language'] = language
-            translation['Status'] = estados[material['material_estado']]
-            translation['Title'] = material['material_titulo']
-            translation['Desc'] = material['material_descripcion']
+            translation['language'] = language
+            translation['status'] = estados[material['material_estado']]
+            translation['title'] = material['material_titulo']
+            translation['desc'] = material['material_descripcion']
             translation['created'] = fecha
-            translation['LastUpdate'] = fecha
-            newMaterial['Translations'].append(translation)
+            translation['lastUpdate'] = fecha
+            newMaterial['translations'].append(translation)
 
 
         # newMaterial['translations']
