@@ -97,21 +97,21 @@ def transformarMateriales():
         #materialDate = datetime.strptime('2016-01-08T19:00:00.123Z', '%Y-%m-%dT%H:%M:%S.%fZ')
         newMaterial ={}
         # newMaterial['areas'] = [areasCurriculares[str(a)] for a in material['areas']]
-        newMaterial['Area'] = [areasCurriculares[str(a)] for a in material['areas']]
-        newMaterial['Area'] = list(itertools.chain.from_iterable(newMaterial['Area']))
-        newMaterial['Area'] = list(set(newMaterial['Area'])) # delete duplicates
+        newMaterial['area'] = [areasCurriculares[str(a)] for a in material['areas']]
+        newMaterial['area'] = list(itertools.chain.from_iterable(newMaterial['area']))
+        newMaterial['area'] = list(set(newMaterial['area'])) # delete duplicates
         newMaterial['idMaterial'] = material['id_material']
        # newMaterial['licencia'] = licencias[material['material_licencia']]
         newMaterial['status'] = estados[material['material_estado']]
-        newMaterial['Activity'] = [actividades[str(a)] for a in material['material_tipo']]
-        newMaterial['Activity'] = list(itertools.chain.from_iterable(newMaterial['Activity']))
-        newMaterial['Activity'] = list(set(newMaterial['Activity'])) # delete duplicates
+        newMaterial['activity'] = [actividades[str(a)] for a in material['material_tipo']]
+        newMaterial['activity'] = list(itertools.chain.from_iterable(newMaterial['activity']))
+        newMaterial['activity'] = list(set(newMaterial['activity'])) # delete duplicates
         newMaterial['title'] = material['material_titulo']
         newMaterial['created'] = fecha
         newMaterial['lastUpdate'] = fecha
         newMaterial['desc'] = material['material_descripcion']
-        newMaterial['Files'] = material['material_archivos']
-        newMaterial['Images'] = [] 
+        newMaterial['files'] = material['material_archivos']
+        newMaterial['images'] = [] 
         newMaterial['downloads'] = 0 
        # newMaterial['imagenes'] = []
        # newMaterial['recomendado'] = False
@@ -134,7 +134,7 @@ def transformarMateriales():
 
 
         # newMaterial['translations']
-        newMaterial['Author'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
+        newMaterial['author'] = [autor for autor in autores if autor['id_autor'] in map(int, material['material_autor'])]
 
         # pdb.set_trace()
         newMaterials.append(newMaterial)
@@ -147,7 +147,7 @@ class MyPrettyPrinter(pprint.PrettyPrinter):
         return pprint.PrettyPrinter.format(self, object, context, maxlevels, level)
 
 actividades = {
-    '24': [0],  # actividad lim
+    '24': [31],  # actividad lim
     '29': [1],  # actividad picaa
     '14': [2],  # animación
     '2': [3],  # aplicación informática
@@ -198,9 +198,9 @@ areasCurriculares = {
 }
 
 estados = {
-    0: 0,   # Lengua y literatura
-    1: 1,   # Matemáticas
-    2: 2,   #
+    0: 1,   # Lengua y literatura
+    1: 2,   # Matemáticas
+    2: 3,   #
 }
 
 idiomas = {
