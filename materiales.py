@@ -119,12 +119,14 @@ def transformarMateriales():
        # newMaterial['fechaAlta'] = material['fecha_alta']
         newMaterial['file'] = str(material['id_material']) + ".zip"
        # newMaterial['fechaActualizacion']=None
-        newMaterial['language'] = material['material_idiomas'][0]
+        newMaterial['language'] = str(mongoLanguage[material['material_idiomas'][0]])
+        newMaterial['lang'] = str(idiomas[material['material_idiomas'][0]])
         material['material_idiomas'].pop(0) # not needed for translations
         newMaterial['translations'] = []
         for language in material['material_idiomas']:
             translation={}
-            translation['language'] = language
+            translation['language'] = str(mongoLanguage[language])
+            translation['lang'] = language
             translation['status'] = estados[material['material_estado']]
             translation['title'] = material['material_titulo']
             translation['desc'] = material['material_descripcion']
@@ -205,18 +207,37 @@ estados = {
 
 idiomas = {
     'ar': 'ara', # arabe
-    'bg': 'bg', # bulgaro
-    'br': 'br', # brasileño
-    'ca': 'ca',
+    'bg': 'bg', # change for english
+    'br': 'br', # brasileño not in mongo, change for pt
+    'ca': 'ca', # change for spanish
     'de': 'de',
     'en': 'en',
-    'eu': 'eu',
+    'eu': 'eu', # change for spanish
     'fr': 'fr',
-    'ga': 'ga',
+    'ga': 'ga', # change for spanish
     'it': 'it',
-    'pl': 'pl',
+    'pl': 'pl', 
     'pt': 'pt',
-    'ro': 'ro',
+    'ro': 'ro', 
+    'ru': 'ru',
+    'zh': 'zhs', # zht????
+    'es': 'es'
+}
+
+mongoLanguage = {
+    'ar': 'ara', # arabe
+    'bg': 'none', # change for english
+    'br': 'br', # brasileño not in mongo, change for pt
+    'ca': 'none', # change for spanish
+    'de': 'de',
+    'en': 'en',
+    'eu': 'none', # change for spanish
+    'fr': 'fr',
+    'ga': 'none', # change for spanish
+    'it': 'it',
+    'pl': 'pl', 
+    'pt': 'pt',
+    'ro': 'ro', 
     'ru': 'ru',
     'zh': 'zhs', # zht????
     'es': 'es'
