@@ -227,7 +227,7 @@ idiomas = {
 mongoLanguage = {
     'ar': 'ara', # arabe
     'bg': 'none', # change for english
-    'br': 'br', # brasileño not in mongo, change for pt
+    'br': 'pt', # brasileño not in mongo, change for pt
     'ca': 'none', # change for spanish
     'de': 'de',
     'en': 'en',
