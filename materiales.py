@@ -126,7 +126,7 @@ def transformarMateriales():
         for language in material['material_idiomas']:
             translation={}
             translation['language'] = str(mongoLanguage[language])
-            translation['lang'] = language
+            translation['lang'] = str(idiomas[language])
             translation['status'] = estados[material['material_estado']]
             translation['title'] = material['material_titulo']
             translation['desc'] = material['material_descripcion']
@@ -235,7 +235,7 @@ mongoLanguage = {
     'fr': 'fr',
     'ga': 'none', # change for spanish
     'it': 'it',
-    'pl': 'pl', 
+    'pl': 'none', 
     'pt': 'pt',
     'ro': 'ro', 
     'ru': 'ru',
