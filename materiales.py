@@ -43,7 +43,7 @@ def obtenerMateriales():
         materiales.append(dict(zip(columns, row)))
     cursor.close()
     # cnx.close()
-    #pdb.set_trace()
+    # pdb.set_trace()
     # Algún campo, realmente corresponde a arrays de datos:
     campos = (
         'material_autor', 'material_tipo', 'material_area_curricular', 'material_subarea_curricular', 'material_archivos',
@@ -185,7 +185,7 @@ areasCurriculares = {
     '2': [12, 13, 14, 15, 16],   # Matemáticas
     '4': [17, 18],   # Conocimiento del medio natural, social y cultural
     '6': [19, 20],   # Educación artística
-    '7': [0],   # Conocimiento de si mismo y autonomía personal
+    '7': [26],   # Conocimiento de si mismo y autonomía personal
     '8': [6],   # Taller, lo llevamos a Plástica??
     '9': [21],   # Educación física
     '10':  [22],  # Religión,
